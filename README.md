@@ -1,5 +1,5 @@
 # uBlockOrigin-HUGE-AI-Blocklist
-A huge blocklist of sites that contain AI generated content.
+A huge blocklist of sites that contain AI generated content, for the purposes of cleaning Google Image Search.
 
 
 
@@ -17,12 +17,10 @@ A huge blocklist of sites that contain AI generated content.
 
 6. Apply changes, and your set! The filter list should update as we discover more and more AI sites (and users).
 
-### Some things to keep in mind
+### Additional list(s)
 
-Because you are using one url, you won't be able to configure the filters yourself, so the default filter list will only be sites/users that are confirmed to have AI generated content displayed (and also some sites that mostly have AI generated content). 
+As of right now, there are two lists. The main default list, and the nuclear list. The nuclear list has sites that contain a mix of authentic and AI generated imagery, which make it tricky to outright block in the main filter list, so I've designated it to a separate list that you can toggle on and off if you so desire.
 
-Sites like Deviantart, Pinterest, Adobe Stock, etc. won't be blocked since they contain some authentic results, unless you add these into your filterlist manually.
+In order to use the list, do the same steps that you did in the section "How to use the blocklist", but instead of using ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt```, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
 
-
-
-
+There ya go! Happy searching!
