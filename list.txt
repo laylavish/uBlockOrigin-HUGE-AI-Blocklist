@@ -460,6 +460,8 @@ www.google.*##a[href*="diffusion.to"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deepai.org"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="topai.tools"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="generativeai.pub"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="midjourney.co.in"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="midjourney.co"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play/Apple AI applications
