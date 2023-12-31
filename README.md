@@ -23,7 +23,7 @@ In order to update the list, there is a green stopwatch next to the newly added 
 
 As of right now, there are two lists. The main default list, and the nuclear list. The nuclear list has sites that contain a mix of authentic and AI generated imagery, which make it tricky to outright block in the main filter list, so I've designated it to a separate list that you can toggle on and off if you so desire.
 
-In order to use the list, do the same steps that you did in the section "How to use the blocklist", but instead of using the other url use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
+In order to use the list, do the same steps that you did in the section "How to use the blocklist", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
 
 There ya go! Happy searching!
 
