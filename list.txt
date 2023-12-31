@@ -644,6 +644,7 @@ www.google.*##a[href*="pinterest.com/moroccan4968"]:upward(div):style(opacity:0.
 www.google.*##a[href*="pinterest.com/EnchantedRoze3"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/animeaiwaifus"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/kingvinst"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pinterest.com/BellaBlues99"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (behance)
@@ -654,6 +655,8 @@ www.google.*##a[href*="behance.net/oliviosarikas"]:upward(div):style(opacity:0.0
 www.google.*##a[href*="deviantart.com/vyerran"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deviantart.com/alyskan"]:upward(div):style(opacity:0.00!important;)
 
+! s.id garbage
+www.google.*##a[href*="s.id/AIArtGaia"]:upward(div):style(opacity:0.00!important;)
 
 ! Linkedin garbage
 www.google.*##a[href*="linkedin.com/in/justmaier"]:upward(div):style(opacity:0.00!important;)
@@ -705,7 +708,8 @@ www.google.*##a[href*="etsy.com/listing/1368236844"]:upward(div):style(opacity:0
 www.google.*##a[href*="pinterest.com/pin/428053139600411583"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/143130094401282814"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/1041879695027157288/"]:upward(div):style(opacity:0.00!important;)
-www.google.*##a[href*="https://www.pinterest.com/pin/quick-saves--1041879695027157288/"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pinterest.com/pin/quick-saves--1041879695027157288"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pinterest.com/pin/594967800804194444"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Fiverr shit
