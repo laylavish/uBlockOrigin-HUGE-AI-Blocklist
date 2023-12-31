@@ -25,7 +25,7 @@ As of right now, there are two lists. The main default list, and the nuclear lis
 
 In order to use the list, do the same steps that you did in the section "How to use the blocklist", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
 
-There ya go! Happy searching!
+There ya go! Happy searching and happy new year to all!!
 
 
 ## Special thanks
