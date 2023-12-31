@@ -9,11 +9,13 @@ A huge blocklist of sites that contain AI generated content.
 
 2. Click on the uBlock Origin Extension, and in the bottom right, there is a cog-wheel symbol--named the dashboard. Click it.
 
-3. Once you are in the dashboard, look towards the top. Click on the tab that says "My filters."
+3. Once you are in the dashboard, look towards the top. Click on the tab that says "Filter lists"
 
-4. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt``` into your filter list.
+4. Look towards the bottom, and expand the ```Import``` button.
 
-5. Apply changes, and your set! The filter list should update as we discover more and more AI sites (and users).
+5. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt``` into the dialogue box
+
+6. Apply changes, and your set! The filter list should update as we discover more and more AI sites (and users).
 
 ### Some things to keep in mind
 
