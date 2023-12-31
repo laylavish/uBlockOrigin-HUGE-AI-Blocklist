@@ -13,7 +13,7 @@ A huge blocklist of sites that contain AI generated content, for the purposes of
 
 4. Look towards the bottom, and expand the ```Import``` button.
 
-5. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt``` into the dialogue box
+5. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt``` into the dialogue box.
 
 6. Apply changes, and your set! The filter list should update as we discover more and more AI sites (and users).
 
@@ -24,3 +24,8 @@ As of right now, there are two lists. The main default list, and the nuclear lis
 In order to use the list, do the same steps that you did in the section "How to use the blocklist", but instead of using the other url use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
 
 There ya go! Happy searching!
+
+
+## Special thanks
+
+Special thanks to this [pastebin](https://pastebin.com/B8kP4imQ) (since it added even more sites to my blocklist) and to u/AchernarB for the [awesome snip-bit of code.](https://www.reddit.com/r/uBlockOrigin/comments/13uyex5/how_to_block_results_from_a_specific_site_in_the/)
