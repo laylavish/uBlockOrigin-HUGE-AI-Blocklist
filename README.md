@@ -11,7 +11,7 @@ A huge blocklist of sites that contain AI generated content.
 
 3. Once you are in the dashboard, look towards the top. Click on the tab that says "My filters."
 
-4. Copy and paste this url ```url``` into your filter list.
+4. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt``` into your filter list.
 
 5. Apply changes, and your set! The filter list should update as we discover more and more AI sites (and users).
 
