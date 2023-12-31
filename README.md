@@ -19,7 +19,7 @@ A huge blocklist of sites that contain AI generated content.
 
 Because you are using one url, you won't be able to configure the filters yourself, so the default filter list will only be sites/users that are confirmed to have AI generated content displayed (and also some sites that mostly have AI generated content). 
 
-Sites like Deviantart, Pinterest, Adobe Stock, etc. won't be blocked, unless you add these into your filterlist manually.
+Sites like Deviantart, Pinterest, Adobe Stock, etc. won't be blocked since they contain some authentic results, unless you add these into your filterlist manually.
 
 
 
