@@ -657,10 +657,15 @@ www.google.*##a[href*="pinterest.com/BellaBlues99"]:upward(div):style(opacity:0.
 www.google.*##a[href*="behance.net/oliviosarikas"]:upward(div):style(opacity:0.00!important;)
 
 
+! Block list of AI "artists"/orgs (ko-fi)
+www.google.*##a[href*="ko-fi.com/ainomad"]:upward(div):style(opacity:0.00!important;)
+
+
 ! Block list of AI "artists"/orgs (deviantart)
 www.google.*##a[href*="deviantart.com/vyerran"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deviantart.com/alyskan"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deviantart.com/rasooliartworks"]:upward(div):style(opacity:0.00!important;)
+
 
 ! Block list of AI "artists"/orgs (artstation)
 www.google.*##a[href*="artstation.com/tryintogetthere"]:upward(div):style(opacity:0.00!important;)
@@ -669,8 +674,17 @@ www.google.*##a[href*="artstation.com/tryintogetthere"]:upward(div):style(opacit
 ! s.id garbage
 www.google.*##a[href*="s.id/AIArtGaia"]:upward(div):style(opacity:0.00!important;)
 
+! ko-fi garbage
+www.google.*##a[href*="ko-fi.com/s/cfcbe64e46"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="ko-fi.com/s/0b1ee02cef"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="ko-fi.com/s/12dd0f892e"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="ko-fi.com/s/26646f3ac9"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="ko-fi.com/s/af9a23d375"]:upward(div):style(opacity:0.00!important;)
+
+
 ! Linkedin garbage
 www.google.*##a[href*="linkedin.com/in/justmaier"]:upward(div):style(opacity:0.00!important;)
+
 
 ! Medium garbage
 www.google.*##a[href*="medium.com/@inchristiely"]:upward(div):style(opacity:0.00!important;)
