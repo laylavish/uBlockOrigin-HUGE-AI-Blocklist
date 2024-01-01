@@ -769,3 +769,4 @@ www.google.*##a[href*="reddit.com/r/OpenAI"]:upward(div):style(opacity:0.00!impo
 www.google.*##a[href*="reddit.com/r/nightcafe"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/civitai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/ChatGPT"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/ArtificialInteligence"]:upward(div):style(opacity:0.00!important;)
