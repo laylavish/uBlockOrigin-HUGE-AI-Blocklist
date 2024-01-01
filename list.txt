@@ -701,14 +701,15 @@ www.google.*##a[href*="uxdesign.cc"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit
-
 www.google.*##a[href*="cryptoart.io"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="opensea.io"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="datadriveninvestor.com"]:upward(div):style(opacity:0.00!important;)
 
+
 ! // Etsy shit
 www.google.*##a[href*="etsy.com/listing/1458059429"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="etsy.com/listing/1368236844"]:upward(div):style(opacity:0.00!important;)
+
 
 ! // Individual Pinterest shit
 www.google.*##a[href*="pinterest.com/pin/428053139600411583"]:upward(div):style(opacity:0.00!important;)
@@ -717,11 +718,14 @@ www.google.*##a[href*="pinterest.com/pin/1041879695027157288/"]:upward(div):styl
 www.google.*##a[href*="pinterest.com/pin/quick-saves--1041879695027157288"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/594967800804194444"]:upward(div):style(opacity:0.00!important;)
 
+
 ! // Individual Adobe Stock shit
 www.google.*##a[href*="stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986"]:upward(div):style(opacity:0.00!important;)
 
 ! // Individual Artstation shit
 www.google.*##a[href*="artstation.com/artwork/kQZoLA"]:upward(div):style(opacity:0.00!important;)
+
 
 ! // Fiverr shit
 www.google.*##a[href*="fiverr.com/bleassome"]:upward(div):style(opacity:0.00!important;)
