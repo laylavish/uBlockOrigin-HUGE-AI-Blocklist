@@ -765,5 +765,6 @@ www.google.*##a[href*="reddit.com/r/riffusion"]:upward(div):style(opacity:0.00!i
 www.google.*##a[href*="reddit.com/r/DeepFloydIF"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/Arthemy"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/aiwars"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/OpenAI"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/nightcafe"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/civitai"]:upward(div):style(opacity:0.00!important;)
