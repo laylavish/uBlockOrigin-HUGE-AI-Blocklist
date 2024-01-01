@@ -689,6 +689,7 @@ www.google.*##a[href*="linkedin.com/in/justmaier"]:upward(div):style(opacity:0.0
 ! Medium garbage
 www.google.*##a[href*="medium.com/@inchristiely"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="medium.com/@aitubo011"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="medium.com/mlearning-ai"]:upward(div):style(opacity:0.00!important;)
 
 ! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork; if you don't want this, click on the line/website you want excluded and press tab (pressing tab toggles it to a comment))
 
