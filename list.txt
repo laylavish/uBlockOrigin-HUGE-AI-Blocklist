@@ -712,6 +712,9 @@ www.google.*##a[href*="pinterest.com/pin/1041879695027157288/"]:upward(div):styl
 www.google.*##a[href*="pinterest.com/pin/quick-saves--1041879695027157288"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/594967800804194444"]:upward(div):style(opacity:0.00!important;)
 
+! // Individual Adobe Stock shit
+www.google.*##a[href*="stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927"]:upward(div):style(opacity:0.00!important;)
+
 
 ! // Fiverr shit
 www.google.*##a[href*="fiverr.com/bleassome"]:upward(div):style(opacity:0.00!important;)
