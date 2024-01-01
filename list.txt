@@ -395,6 +395,7 @@ www.google.*##a[href*="scrum.co"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="iamfy.co"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="diffusionart.co"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="cameralyze.co"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="midjourney.co"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .net domain extention
@@ -463,7 +464,7 @@ www.google.*##a[href*="mlyearning.org"]:upward(div):style(opacity:0.00!important
 www.google.*##a[href*="topai.tools"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="generativeai.pub"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="midjourney.co.in"]:upward(div):style(opacity:0.00!important;)
-www.google.*##a[href*="midjourney.co"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="aiartgenerator.us"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play/Apple AI applications
