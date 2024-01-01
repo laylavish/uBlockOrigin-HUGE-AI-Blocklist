@@ -17,7 +17,7 @@ A huge blocklist of sites that contain AI generated content, for the purposes of
 
 6. Apply changes, and your set!
 
-In order to update the list, there is a green stopwatch next to the newly added list. Clicking on it, then pressing ```Update now``` will force an update of the filter list. Although, uBlock Origin will automatically refresh the filter list once a day, so you could also just wait it out.
+In order to update the list, there is a stopwatch next to the newly added list. Clicking on it, then pressing ```Update now``` will force an update of the filter list. Although, uBlock Origin will automatically refresh the filter list once a day, so you could also just wait it out.
 
 ### Additional list(s)
 
