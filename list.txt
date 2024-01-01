@@ -287,6 +287,7 @@ www.google.*##a[href*="aixploria.com"]:upward(div):style(opacity:0.00!important;
 www.google.*##a[href*="pjoshi15.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="adultaitools.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="sprinkleofai.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="problembo.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extentions
@@ -435,6 +436,7 @@ www.google.*##a[href*="eightify.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="aigallery.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="spreadai.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="hypic.app"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="animeai.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="giotto.streamlit.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="acrylic.typedream.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="imageai.app"]:upward(div):style(opacity:0.00!important;)
