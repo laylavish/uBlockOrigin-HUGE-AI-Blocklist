@@ -286,6 +286,7 @@ www.google.*##a[href*="graviti.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="aixploria.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pjoshi15.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="adultaitools.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="sprinkleofai.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extentions
