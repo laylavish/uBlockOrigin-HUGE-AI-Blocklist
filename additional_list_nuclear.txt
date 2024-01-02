@@ -29,3 +29,4 @@ www.google.*##a[href*="pinterest.com/Sereneshell"]:upward(div):style(opacity:0.0
 www.google.*##a[href*="uxdesign.cc"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="geekysweetie.com]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/100Kanojo]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="medium.com]:upward(div):style(opacity:0.00!important;)
