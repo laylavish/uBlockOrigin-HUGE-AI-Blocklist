@@ -790,6 +790,9 @@ www.google.*##a[href*="reddit.com/r/Indian_AI_Girls"]:upward(div):style(opacity:
 www.google.*##a[href*="reddit.com/r/AIArtwork"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/ailookbook"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/Chatbots"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/dndai"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/dalle2"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/AICharacterDrawing"]:upward(div):style(opacity:0.00!important;)
 
 
 
