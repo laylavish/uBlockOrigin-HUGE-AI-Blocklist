@@ -179,6 +179,7 @@ www.google.*##a[href*="hunts.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="liveapps.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="powerusers.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="claude.ai"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="covers.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extentions
@@ -290,6 +291,8 @@ www.google.*##a[href*="adultaitools.com"]:upward(div):style(opacity:0.00!importa
 www.google.*##a[href*="sprinkleofai.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="problembo.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="cloudbooklet.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="kawaiiai.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="dalle2.tumblr.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extentions
