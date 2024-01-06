@@ -689,6 +689,9 @@ www.google.*##a[href*="ko-fi.com/s/af9a23d375"]:upward(div):style(opacity:0.00!i
 
 ! Freepik garbage
 www.google.*##a[href*="freepik.com/premium-ai-image"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Linkedin garbage
