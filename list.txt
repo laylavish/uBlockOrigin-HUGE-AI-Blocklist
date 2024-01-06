@@ -674,6 +674,8 @@ www.google.*##a[href*="deviantart.com/rasooliartworks"]:upward(div):style(opacit
 ! Block list of AI "artists"/orgs (artstation)
 www.google.*##a[href*="artstation.com/tryintogetthere"]:upward(div):style(opacity:0.00!important;)
 
+! Artstation shit
+www.google.*##a[href*="artstation.com/artwork/KOJ80W"]:upward(div):style(opacity:0.00!important;)
 
 ! s.id garbage
 www.google.*##a[href*="s.id/AIArtGaia"]:upward(div):style(opacity:0.00!important;)
@@ -684,6 +686,9 @@ www.google.*##a[href*="ko-fi.com/s/0b1ee02cef"]:upward(div):style(opacity:0.00!i
 www.google.*##a[href*="ko-fi.com/s/12dd0f892e"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="ko-fi.com/s/26646f3ac9"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="ko-fi.com/s/af9a23d375"]:upward(div):style(opacity:0.00!important;)
+
+! Freepik garbage
+www.google.*##a[href*="freepik.com/premium-ai-image"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Linkedin garbage
