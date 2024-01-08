@@ -44,7 +44,7 @@ I created a [repo that houses good tips & tricks for Google Search's operators](
 
 **Q**: Why isn't the whole element being removed? 
 
-**A**: With this implementation, it preserves the ability to continuously scroll through Google Images without being blocked. See, if you outright block a website and remove its element from view (the traditional way), and your query returns too many images that are from your blocklist, Google Images will not allow you to scroll any farther than just the first few rows of images. What this implementation is doing here is setting the offending website's opacity to zero, which essentially blocks it. Doing it in this way bypasses the limitation from before, but it can look disorganized compared to the former.
+**A**: With this implementation, it preserves the ability to continuously scroll through Google Images without being blocked. See, if you outright block a website and remove its element from view (the traditional way), and your query returns too many images that are from your blocklist, Google Images will not allow you to scroll any farther than just the first few rows of images. What this implementation is doing here is setting the offending website's opacity to zero, which essentially blocks it from view. Doing it in this way bypasses the limitation from before, but it can look disorganized compared to the former.
 
 ## Special thanks
 
