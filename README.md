@@ -38,7 +38,7 @@ There ya go! Happy searching and happy new year to all!!
 
 ## What if you want to go even further beyond?
 
-I created a [repo that houses good tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
+I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
 ## Q&A 
 
