@@ -754,6 +754,8 @@ www.google.*##a[href*="pinterest.com/pin/143130094401282814"]:upward(div):style(
 www.google.*##a[href*="pinterest.com/pin/1041879695027157288/"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/quick-saves--1041879695027157288"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/594967800804194444"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! // Individual Adobe Stock shit
