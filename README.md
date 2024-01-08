@@ -1,5 +1,3 @@
-
-https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/assets/128162304/7b8810dc-ce87-4cdc-8b5a-95dc5b0f56c3
 # uBlockOrigin-HUGE-AI-Blocklist
 A huge blocklist of sites that contain AI generated content, for the purposes of cleaning Google Image Search.
 
@@ -21,7 +19,7 @@ A huge blocklist of sites that contain AI generated content, for the purposes of
 
 A video guide on how to do this is available, as well:
 
-https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/assets/128162304/d7911860-6fb6-4147-9239-2722a985842b
+https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/assets/128162304/7b8810dc-ce87-4cdc-8b5a-95dc5b0f56c3
 
 
 uBlock Origin will automatically refresh the filter list once a day, so you'll always have up-to-date filters. If you want to force an update of the filter list, pressing the stopwatch next to the newly added list, then pressing ```Update now``` will achieve that.
