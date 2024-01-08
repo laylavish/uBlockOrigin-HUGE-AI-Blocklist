@@ -810,7 +810,10 @@ www.google.*##a[href*="reddit.com/r/dalle2"]:upward(div):style(opacity:0.00!impo
 www.google.*##a[href*="reddit.com/r/AICharacterDrawing"]:upward(div):style(opacity:0.00!important;)
 
 
-
 ! // Block list of AI reddit users
 www.google.*##a[href*="reddit.com/user/aidaily0"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/user/Wyprany"]:upward(div):style(opacity:0.00!important;)
+
+
+!// Reddit shit
+www.google.*##a[href*="reddit.com/r/DungeonoftheMadMage/comments/zm1in1/midjourney_npcs_level_11"]:upward(div):style(opacity:0.00!important;)
