@@ -40,6 +40,11 @@ There ya go! Happy searching and happy new year to all!!
 
 I created a [repo that houses good tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
+## Q&A 
+
+Q: Why isn't the whole element being removed? 
+A: With this implementation, it preserves the ability to continuously scroll through Google Images without being blocked. See, if you outright block a website and remove its element from view (the traditional way), and your query returns too many images that are from your blocklist, Google Images will not allow you to scroll any farther than just the first few rows of images. What this implementation is doing here is setting the offending website's opacity to zero, which essentially blocks it. Doing it in this way bypasses the limitation from before, but it can look disorganized compared to the former.
+
 ## Special thanks
 
 Special thanks to this [pastebin](https://pastebin.com/B8kP4imQ) (since it added even more sites to my blocklist) and to u/AchernarB for the [awesome snip-bit of code.](https://www.reddit.com/r/uBlockOrigin/comments/13uyex5/how_to_block_results_from_a_specific_site_in_the/)
