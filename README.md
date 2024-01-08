@@ -36,6 +36,9 @@ In order to use the list, do the same steps that you did in the section "How to 
 
 There ya go! Happy searching and happy new year to all!!
 
+## What if you want to go even further beyond?
+
+I created a [repo that houses good tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
 ## Special thanks
 
