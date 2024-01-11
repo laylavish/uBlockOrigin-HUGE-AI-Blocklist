@@ -544,6 +544,8 @@ www.google.*##a[href*="twitter.com/Only2142"]:upward(div):style(opacity:0.00!imp
 www.google.*##a[href*="x.com/Only2142"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="twitter.com/booool125747"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="x.com/booool125747"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="twitter.com/EasonnLi"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="x.com/EasonnLi"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
