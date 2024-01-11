@@ -182,6 +182,8 @@ www.google.*##a[href*="claude.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="covers.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="artemisia.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="facet.ai"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="canterbury.ai"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! Sites that have .com domain extentions
