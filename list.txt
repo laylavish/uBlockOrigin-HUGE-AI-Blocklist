@@ -183,6 +183,7 @@ www.google.*##a[href*="covers.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="artemisia.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="facet.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="canterbury.ai"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="promptchan.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 
