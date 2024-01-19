@@ -41,7 +41,7 @@ There ya go! Happy searching and happy new year to all!!
 I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
 ## To Do
-- Provide blocklist alternate for uBlacklist
+- Provide alternate blocklist for uBlacklist
 
 
 ## Short Q&A 
