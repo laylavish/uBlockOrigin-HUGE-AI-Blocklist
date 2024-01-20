@@ -55,7 +55,7 @@ The nuclear list has sites that contain a mix of authentic and AI generated imag
 In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlock Origin)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
 
 ### uBlacklist
-In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
+In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear```
 
 ## What if you want to go even further beyond?
 
