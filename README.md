@@ -43,6 +43,11 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 7. (optional) Set the update interval to an hour for near-realtime list updates.
 
+### What is the difference between uBlock Origin and uBlacklist implementations?
+uBlock Origin's implementation technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is set the offending sites' opacity to 0 instead of traditional blocking methods. uBlacklist on the otherhand, blocks the queries outright--meaning if too many AI sites are in your Google Image Search results, you will not be able to scroll any father then the first 6 rows of images.
+
+All though the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklists' part).
+
 ## Additional list(s)
 
 As of right now, there are two lists. The main default list, and the nuclear list. 
