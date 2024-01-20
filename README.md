@@ -43,10 +43,6 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 7. (optional) Set the update interval to an hour for near-realtime list updates.
 
-### What is the difference between uBlock Origin and uBlacklist implementations?
-uBlock Origin's implementation technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is set the offending sites' opacity to 0 instead of traditional blocking methods. uBlacklist on the otherhand, blocks the queries outright--meaning if too many AI sites are in your Google Image Search results, you will not be able to scroll any father then the first 6 rows of images.
-
-All though the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklists' part).
 
 ## Additional list(s)
 
@@ -68,11 +64,12 @@ I created a [repo that houses fantastic tips & tricks for Google Search's operat
 ✅ Provide blocklist for uBlacklist compatibility
 
 
-## Short Q&A 
+## What is the difference between uBlock Origin and uBlacklist implementations?
+uBlock Origin's implementation technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods. 
 
-**Q**: Why isn't the whole element being removed? 
+uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your Google Image Search results, you will not be able to scroll any father then the first 6 rows of images.
 
-**A**: With this implementation, it preserves the ability to continuously scroll through Google Images without being blocked. See, if you outright block a website and remove its element from view (the traditional way), and your query returns too many images that are from your blocklist, Google Images will not allow you to scroll any farther than just the first few rows of images. What this implementation is doing here is setting the offending website's opacity to zero, which essentially blocks it from view. Doing it in this way bypasses the limitation from before, but it can look disorganized compared to the former.
+All though the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklists' part).
 
 ## Special thanks
 
