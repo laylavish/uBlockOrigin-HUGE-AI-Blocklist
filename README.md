@@ -56,17 +56,17 @@ In order to use the ```Nuclear``` list, do the same steps that you did in the se
 ### uBlacklist
 In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear```
 
-## What if you want to go even further beyond?
-
-I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
-
-
 ## What is the difference between uBlock Origin and uBlacklist implementations?
 uBlock Origin's implementation technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods. 
 
 uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your Google Image Search results, you will not be able to scroll any father then the first 6 rows of images.
 
 Although the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklist's part).
+
+## What if you want to go even further beyond?
+
+I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
+
 
 ## To Do
 ✅ Provide blocklist for uBlacklist compatibility
