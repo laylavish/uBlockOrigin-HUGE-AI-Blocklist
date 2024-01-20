@@ -3,7 +3,7 @@ A huge blocklist of sites that contain AI generated content, for the purposes of
 
 
 
-## How to use the blocklist?
+## How to install the blocklist? (uBlock Origin)
 
 1. Make sure that you have the uBlock Origin Extension, either for [firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) or [chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) (also works on Android)
 
@@ -26,22 +26,43 @@ uBlock Origin will automatically refresh the filter list once a day, so you'll a
 
 If you want to force an update of the filter list, pressing the stopwatch next to the newly added list, then pressing ```Update now``` will achieve that.
 
-### Additional list(s)
+## How to install the blocklist (uBlacklist)
+
+1. Make sure that you have the uBlacklist extension, either for [firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) or [chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+
+2. Click on your extensions list, select uBlacklist, then click on the "options" text, highlighted in blue.
+> This will take you to the uBlacklist options panel, similar to the Dashboard in uBlock Origin
+
+3. Scroll all the way down until you see the "Subscription" tab.
+
+4. Click on the blue "Add a subscription" button.
+
+5. Give a name for the added blocklist. (eg. Main AI blocklist)
+  
+6. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt``` into the "URL" part of the dialogue box, then press the blue "Add" button.
+
+7. There you go! You're done!
+
+8. (optional) Set the update interval to an hour for near-realtime list updates.
+
+## Additional list(s)
 
 As of right now, there are two lists. The main default list, and the nuclear list. 
 
 The nuclear list has sites that contain a mix of authentic and AI generated imagery (eg. DeviantArt, Artstation, Stock Photography sites, etc), which make it tricky to outright block in the main filter list, so I've designated it to a separate list that you can toggle on and off if you so desire.
 
-In order to use the list, do the same steps that you did in the section "How to use the blocklist", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
+### uBlock Origin
+In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlock Origin)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
 
-There ya go! Happy searching and happy new year to all!!
+### uBlacklist
+In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
 
 ## What if you want to go even further beyond?
 
 I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
 ## To Do
-- Provide alternate blocklist for uBlacklist
+✅ Provide blocklist for uBlacklist compatibility
 
 
 ## Short Q&A 
