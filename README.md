@@ -60,9 +60,6 @@ In order to use the ```Nuclear``` list, do the same steps that you did in the se
 
 I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
-## To Do
-✅ Provide blocklist for uBlacklist compatibility
-
 
 ## What is the difference between uBlock Origin and uBlacklist implementations?
 uBlock Origin's implementation technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods. 
@@ -70,6 +67,10 @@ uBlock Origin's implementation technically superior, as it allows you to continu
 uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your Google Image Search results, you will not be able to scroll any father then the first 6 rows of images.
 
 All though the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklists' part).
+
+## To Do
+✅ Provide blocklist for uBlacklist compatibility
+
 
 ## Special thanks
 
