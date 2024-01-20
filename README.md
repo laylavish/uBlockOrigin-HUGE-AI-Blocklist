@@ -1,4 +1,4 @@
-# uBlockOrigin & uBlacklist HUGE AI Blocklist
+# uBlockOrigin & uBlacklist Huge AI Blocklist
 A huge blocklist of sites that contain AI generated content, for the purposes of cleaning Google Image Search.
 
 
