@@ -33,17 +33,15 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 2. Click on your extensions list, select uBlacklist, then click on the "options" text, highlighted in blue.
 > This will take you to the uBlacklist options panel, similar to the Dashboard in uBlock Origin
 
-3. Scroll all the way down until you see the "Subscription" tab.
+3. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
 
-4. Click on the blue "Add a subscription" button.
-
-5. Give a name for the added blocklist. (eg. Main AI blocklist)
+4. Give a name for the added blocklist. (eg. Main AI blocklist)
   
-6. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt``` into the "URL" part of the dialogue box, then press the blue "Add" button.
+5. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt``` into the "URL" part of the dialogue box, then press the blue "Add" button.
 
-7. There you go! You're done!
+6. There you go! You're done!
 
-8. (optional) Set the update interval to an hour for near-realtime list updates.
+7. (optional) Set the update interval to an hour for near-realtime list updates.
 
 ## Additional list(s)
 
