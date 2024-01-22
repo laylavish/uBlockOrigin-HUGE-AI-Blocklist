@@ -67,6 +67,8 @@ Although the latter is inferrior, it is a bit rare for that to happen, especiall
 
 I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
+Not only that, but there are more lists you can subscribe to clean up the internet more, such as [rjaus' awesome ublacklist subscription list](https://github.com/rjaus/awesome-ublacklist)
+
 
 ## To Do
 ✅ Provide blocklist for uBlacklist compatibility
