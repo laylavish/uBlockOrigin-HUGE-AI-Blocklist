@@ -833,3 +833,6 @@
 
 !// Reddit shit
 *://*.reddit.com/r/DungeonoftheMadMage/comments/zm1in1/midjourney_npcs_level_11/*
+
+! // AI content farms
+*://*.boddeswasusi.github.io/*
