@@ -824,5 +824,8 @@ www.google.*##a[href*="reddit.com/user/aidaily0"]:upward(div):style(opacity:0.00
 www.google.*##a[href*="reddit.com/user/Wyprany"]:upward(div):style(opacity:0.00!important;)
 
 
-!// Reddit shit
+! // Reddit shit
 www.google.*##a[href*="reddit.com/r/DungeonoftheMadMage/comments/zm1in1/midjourney_npcs_level_11"]:upward(div):style(opacity:0.00!important;)
+
+! // AI content farms
+www.google.*##a[href*="boddeswasusi.github.io"]:upward(div):style(opacity:0.00!important;)
