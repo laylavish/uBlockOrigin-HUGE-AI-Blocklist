@@ -550,6 +550,8 @@
 *://*.x.com/booool125747/*
 *://*.twitter.com/EasonnLi/*
 *://*.x.com/EasonnLi/*
+*://*.twitter.com/SyliconDreams/*
+*://*.x.com/SyliconDreams/*
 
 
 ! Block list of AI "artists"/orgs (youtube)
