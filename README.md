@@ -3,7 +3,7 @@ A huge blocklist of sites (~700) that contain AI generated content, for the purp
 
 
 
-## How to install the blocklist? (uBlock Origin)
+## How to install the blocklist (uBlock Origin)
 
 1. Make sure that you have the uBlock Origin Extension, either for [firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) or [chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) (also works on Android)
 
