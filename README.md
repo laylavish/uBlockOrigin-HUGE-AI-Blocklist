@@ -57,7 +57,7 @@ In order to use the ```Nuclear``` list, do the same steps that you did in the se
 In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt```
 
 ## What is the difference between uBlock Origin and uBlacklist implementations?
-uBlock Origin's implementation technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods. 
+uBlock Origin's implementation is technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods. 
 
 uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your Google Image Search results, you will not be able to scroll any father then the first 6 rows of images.
 
