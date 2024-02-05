@@ -299,6 +299,7 @@
 *://*.cloudbooklet.com/*
 *://*.kawaiiai.com/*
 *://*.dalle2.tumblr.com/*
+*://*.thehungryjpeg.com/*
 
 
 ! Sites that have .art domain extentions
