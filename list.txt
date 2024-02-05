@@ -669,6 +669,7 @@ www.google.*##a[href*="pinterest.com/EnchantedRoze3"]:upward(div):style(opacity:
 www.google.*##a[href*="pinterest.com/animeaiwaifus"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/kingvinst"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/BellaBlues99"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pinterest.com/fira1747"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (behance)
@@ -767,6 +768,7 @@ www.google.*##a[href*="pinterest.com/pin/1041879695027157288/"]:upward(div):styl
 www.google.*##a[href*="pinterest.com/pin/quick-saves--1041879695027157288"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/594967800804194444"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pinterest.com/pin/mulher-fatal"]:upward(div):style(opacity:0.00!important;)
 
 
 
@@ -837,5 +839,8 @@ www.google.*##a[href*="amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/d
 
 ! // AI content farms
 www.google.*##a[href*="boddeswasusi.github.io"]:upward(div):style(opacity:0.00!important;)
+
+! // VoiceMod shit
+www.google.*##a[href*="tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb"]:upward(div):style(opacity:0.00!important;)
 
 
