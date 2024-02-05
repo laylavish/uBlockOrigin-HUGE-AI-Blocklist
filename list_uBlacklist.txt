@@ -671,6 +671,7 @@
 *://*.pinterest.com/animeaiwaifus/*
 *://*.pinterest.com/kingvinst/*
 *://*.pinterest.com/BellaBlues99/*
+*://*.pinterest.com/fira1747/*
 
 
 ! Block list of AI "artists"/orgs (behance)
@@ -773,6 +774,7 @@
 *://*.pinterest.com/pin/quick-saves--1041879695027157288/*
 *://*.pinterest.com/pin/594967800804194444/*
 *://*.pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/*
+*://*.pinterest.com/pin/mulher-fatal/*
 
 
 
@@ -844,3 +846,6 @@
 
 ! // AI content farms
 *://*.boddeswasusi.github.io/*
+
+! // VoiceMod shit 
+*://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb*
