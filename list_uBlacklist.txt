@@ -839,5 +839,8 @@
 !// Reddit shit
 *://*.reddit.com/r/DungeonoftheMadMage/comments/zm1in1/midjourney_npcs_level_11/*
 
+! // Amazon shit
+*://*.amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/dp/B0C47SW6NT/*
+
 ! // AI content farms
 *://*.boddeswasusi.github.io/*
