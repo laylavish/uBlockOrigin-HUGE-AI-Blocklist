@@ -299,7 +299,8 @@
 *://*.cloudbooklet.com/*
 *://*.kawaiiai.com/*
 *://*.dalle2.tumblr.com/*
-*://*.thehungryjpeg.com/*
+*://*.pixlr.com/*
+
 
 
 ! Sites that have .art domain extentions
@@ -751,6 +752,7 @@
 ! *://*.pinterest.com/*
 *://*.pinterest.com/Sereneshell/*
 *://*.uxdesign.cc/*
+*://*.thehungryjpeg.com/*
 
 
 ! // Miscellaneous crypto/nft shit
