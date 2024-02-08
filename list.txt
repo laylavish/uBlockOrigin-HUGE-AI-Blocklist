@@ -839,6 +839,7 @@ www.google.*##a[href*="amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/d
 
 ! // AI content farms
 www.google.*##a[href*="boddeswasusi.github.io"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="stl24.com"]:upward(div):style(opacity:0.00!important;)
 
 ! // VoiceMod shit
 www.google.*##a[href*="tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb"]:upward(div):style(opacity:0.00!important;)
