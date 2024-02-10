@@ -185,6 +185,7 @@
 *://*.facet.ai/*
 *://*.canterbury.ai/*
 *://*.promptchan.ai/*
+*://*.passio.ai/*
 
 
 
