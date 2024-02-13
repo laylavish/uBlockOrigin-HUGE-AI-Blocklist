@@ -734,8 +734,8 @@ www.google.*##a[href*="3tdesign.edu.vn"]:upward(div):style(opacity:0.00!importan
 ! www.google.*##a[href*="deviantart.com"]:upward(div):style(opacity:0.00!important;)
 ! www.google.*##a[href*="alamy.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="vecteezy.com"]:upward(div):style(opacity:0.00!important;)
-! www.google.*##a[href*="pixabay.com"]:upward(div):style(opacity:0.00!important;)
-! www.google.*##a[href*="dreamstime.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pixabay.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="dreamstime.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pngtree.com"]:upward(div):style(opacity:0.00!important;)
 ! www.google.*##a[href*="peakpx.com.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="lunarmimi.net"]:upward(div):style(opacity:0.00!important;)
@@ -750,6 +750,7 @@ www.google.*##a[href*="downgraf.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/Sereneshell"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="uxdesign.cc"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="thehungryjpeg.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="gachax.com/anime"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit
