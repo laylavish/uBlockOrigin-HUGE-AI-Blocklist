@@ -773,6 +773,7 @@ www.google.*##a[href*="pinterest.com/pin/quick-saves--1041879695027157288"]:upwa
 www.google.*##a[href*="pinterest.com/pin/594967800804194444"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pinterest.com/pin/mulher-fatal"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="pinterest.com/pin/563018696976219"]:upward(div):style(opacity:0.00!important;)
 
 
 
