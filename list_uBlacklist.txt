@@ -456,6 +456,7 @@
 *://*.giotto.streamlit.app/*
 *://*.acrylic.typedream.app/*
 *://*.imageai.app/*
+*://*.wand.app/*
 *://*.phraser.tech/*
 *://*.client.aigur.dev/*
 *://*.aiart.dev/*
@@ -611,6 +612,7 @@
 *://*.instagram.com/missfidonyoart/*
 *://*.instagram.com/oliviotutorials/*
 *://*.instagram.com/hellocivitai/*
+*://*.instagram.com/wand.official/*
 
 
 ! Block list of AI "artists"/orgs (pinterest)
