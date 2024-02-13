@@ -686,6 +686,7 @@ www.google.*##a[href*="ko-fi.com/ainomad"]:upward(div):style(opacity:0.00!import
 www.google.*##a[href*="deviantart.com/vyerran"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deviantart.com/alyskan"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deviantart.com/rasooliartworks"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="deviantart.com/cyberxyt"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
