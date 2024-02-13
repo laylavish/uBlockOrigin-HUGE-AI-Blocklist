@@ -729,20 +729,20 @@
 
 ! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork; if you don't want this, click on the line/website you want excluded and press tab (pressing tab toggles it to a comment))
 
-! *://*.stock.adobe.com/*
+*://*.stock.adobe.com/*
 *://*.artmajeur.com/*
 *://*.artpal.com/*
-! *://*.freepik.com/*
+*://*.freepik.com/*
 ! *://*.shutterstock.com/*
 *://*.redbubble.com/*
 *://*.3tdesign.edu.vn/*
 ! *://*.artstation.com/*
 ! *://*.deviantart.com/*
 ! *://*.alamy.com/*
-! *://*.vecteezy.com/*
+*://*.vecteezy.com/*
 ! *://*.pixabay.com/*
 ! *://*.dreamstime.com/*
-! *://*.pngtree.com/*
+*://*.pngtree.com/*
 ! *://*.peakpx.com.com/*
 *://*.lunarmimi.net/*
 ! *://*.displate.com/*
