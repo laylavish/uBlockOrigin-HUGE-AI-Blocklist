@@ -740,8 +740,8 @@
 ! *://*.deviantart.com/*
 ! *://*.alamy.com/*
 *://*.vecteezy.com/*
-! *://*.pixabay.com/*
-! *://*.dreamstime.com/*
+*://*.pixabay.com/*
+*://*.dreamstime.com/*
 *://*.pngtree.com/*
 ! *://*.peakpx.com.com/*
 *://*.lunarmimi.net/*
@@ -756,6 +756,7 @@
 *://*.pinterest.com/Sereneshell/*
 *://*.uxdesign.cc/*
 *://*.thehungryjpeg.com/*
+*://*.gachax.com/anime/*
 
 
 ! // Miscellaneous crypto/nft shit
