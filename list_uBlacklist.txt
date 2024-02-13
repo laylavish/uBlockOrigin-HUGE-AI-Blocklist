@@ -688,6 +688,7 @@
 *://*.deviantart.com/vyerran/*
 *://*.deviantart.com/alyskan/*
 *://*.deviantart.com/rasooliartworks/*
+*://*.deviantart.com/cyberxyt/*
 
 
 ! Block list of AI "artists"/orgs (artstation)
