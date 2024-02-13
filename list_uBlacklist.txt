@@ -779,7 +779,7 @@
 *://*.pinterest.com/pin/594967800804194444/*
 *://*.pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/*
 *://*.pinterest.com/pin/mulher-fatal/*
-*://*.pinterest.com/pin/563018696976219/*
+*://*.pinterest.com/pin/563018696976219//*
 
 
 
