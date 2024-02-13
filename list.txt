@@ -848,4 +848,7 @@ www.google.*##a[href*="stl24.com"]:upward(div):style(opacity:0.00!important;)
 ! // VoiceMod shit
 www.google.*##a[href*="tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb"]:upward(div):style(opacity:0.00!important;)
 
+! // Getty Wallpapers
+www.google.*##a[href*="gettywallpapers.com/cute-anime-girl-profile-pictures"]:upward(div):style(opacity:0.00!important;)
+
 
