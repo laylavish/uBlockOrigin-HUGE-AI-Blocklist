@@ -853,4 +853,7 @@
 *://*.stl24.com/*
 
 ! // VoiceMod shit 
-*://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb*
+*://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb/*
+
+! // Getty Wallpapers
+*://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
