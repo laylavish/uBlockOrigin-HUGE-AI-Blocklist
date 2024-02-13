@@ -455,6 +455,7 @@ www.google.*##a[href*="animeai.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="giotto.streamlit.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="acrylic.typedream.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="imageai.app"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="wand.app"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="phraser.tech"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="client.aigur.dev"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="aiart.dev"]:upward(div):style(opacity:0.00!important;)
@@ -609,6 +610,7 @@ www.google.*##a[href*="instagram.com/hotarka_ai_art"]:upward(div):style(opacity:
 www.google.*##a[href*="instagram.com/missfidonyoart"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="instagram.com/oliviotutorials"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="instagram.com/hellocivitai"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="instagram.com/wand.official"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (pinterest)
