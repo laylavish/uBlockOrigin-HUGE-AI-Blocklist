@@ -33,3 +33,4 @@
 *://*.medium.com/*
 *://*.imgchest.com/*
 *://*.pixels.com/*
+*://*.gachax.com/anime/*
