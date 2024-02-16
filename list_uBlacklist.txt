@@ -760,6 +760,7 @@
 *://*.uxdesign.cc/*
 *://*.thehungryjpeg.com/*
 *://*.gachax.com/anime/*
+*://*.abposters.com/*
 
 
 ! // Miscellaneous crypto/nft shit
