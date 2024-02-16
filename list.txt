@@ -754,6 +754,7 @@ www.google.*##a[href*="pinterest.com/Sereneshell"]:upward(div):style(opacity:0.0
 www.google.*##a[href*="uxdesign.cc"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="thehungryjpeg.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="gachax.com/anime"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="abposters.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit
