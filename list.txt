@@ -833,6 +833,7 @@ www.google.*##a[href*="reddit.com/r/Chatbots"]:upward(div):style(opacity:0.00!im
 www.google.*##a[href*="reddit.com/r/dndai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/dalle2"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/AICharacterDrawing"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/DungeonoftheMadMage"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
@@ -840,8 +841,8 @@ www.google.*##a[href*="reddit.com/user/aidaily0"]:upward(div):style(opacity:0.00
 www.google.*##a[href*="reddit.com/user/Wyprany"]:upward(div):style(opacity:0.00!important;)
 
 
-! // Reddit shit
-www.google.*##a[href*="reddit.com/r/DungeonoftheMadMage/comments/zm1in1/midjourney_npcs_level_11"]:upward(div):style(opacity:0.00!important;)
+! // Reddit shit (placeholder)
+
 
 ! // Amazon shit
 www.google.*##a[href*="amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/dp/B0C47SW6NT"]:upward(div):style(opacity:0.00!important;)
