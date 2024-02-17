@@ -840,6 +840,7 @@
 *://*.reddit.com/r/dndai/*
 *://*.reddit.com/r/dalle2/*
 *://*.reddit.com/r/AICharacterDrawing/*
+*://*.reddit.com/r/DungeonoftheMadMage/*
 
 
 ! // Block list of AI reddit users
@@ -847,8 +848,8 @@
 *://*.reddit.com/user/Wyprany/*
 
 
-!// Reddit shit
-*://*.reddit.com/r/DungeonoftheMadMage/comments/zm1in1/midjourney_npcs_level_11/*
+!// Reddit shit placeholder
+
 
 ! // Amazon shit
 *://*.amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/*
