@@ -439,6 +439,7 @@
 *://*.artspark.io/*
 *://*.draeno.io/*
 *://*.letsenhance.io/*
+*://*.lipsumar.io/*
 *://*.memo.tv/*
 *://*.quasi.market/*
 *://*.diffusion.land/*
