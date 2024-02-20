@@ -186,6 +186,45 @@
 *://*.canterbury.ai/*
 *://*.promptchan.ai/*
 *://*.passio.ai/*
+*://*.tunib.ai/*
+*://*.goatstack.ai/*
+*://*.undetectablecontent.ai/*
+*://*.beebee.ai/*
+*://*.eilla.ai/*
+*://*.plask.ai/*
+*://*.lumalabs.ai/*
+*://*.odastudio.ai/*
+*://*.maket.ai/*
+*://*.corporateheadshots.ai/*
+*://*.caspa.ai/*
+*://*.productscope.ai/*
+*://*.avtrs.ai/*
+*://*.dreampic.ai/*
+*://*.chatsimple.ai/*
+*://*.sitespeak.ai/*
+*://*.humata.ai/*
+*://*.thesamur.ai/*
+*://*.aitable.ai/*
+*://*.codium.ai/*
+*://*.codewp.ai/*
+*://*.tldrdev.ai/*
+*://*.whatthediff.ai/*
+*://*.writehuman.ai/*
+*://*.webapi.ai/*
+*://*.meeting.ai/*
+*://*.zust.ai/*
+*://*.octie.ai/*
+*://*.getmanifest.ai/*
+*://*.gizzmo.ai/*
+*://*.coursebox.ai/*
+*://*.smartwriter.ai/*
+*://*.warmer.ai/*
+*://*.draftlab.ai/*
+*://*.quicklines.ai/*
+*://*.dittin.ai/*
+*://*.ai-girlfriend.ai/*
+*://*.charisma.ai/*
+*://*.inworld.ai/*
 
 
 
@@ -303,6 +342,40 @@
 *://*.pixlr.com/*
 *://*.curiousrefuge.com/*
 *://*.promeai.com/*
+*://*.theinsaneapp.com/*
+*://*.interiorai.com/*
+*://*.cliptics.com/*
+*://*.thataicollection.com/*
+*://*.augxlabs.com/*
+*://*.askstockgpt.com/*
+*://*.blimeycreate.com/*
+*://*.kaedim3d.com/*
+*://*.masterpiecestudio.com/*
+*://*.shopdeft.com/*
+*://*.airoomplanner.com/*
+*://*.icons8.com/*
+*://*.hairstyleai.com/*
+*://*.epic-avatar.com/*
+*://*.myaskai.com/*
+*://*.lemonsqueezy.com/*
+*://*.writelyai.com/*
+*://*.neuro-flash.com/*
+*://*.wordai.com/*
+*://*.unboundml.com/*
+*://*.descript.com/*
+*://*.lilybankai.com/*
+*://*.lightricks.com/*
+*://*.poised.com/*
+*://*.wizishop.com/*
+*://*.domyshoot.com/*
+*://*.quizgecko.com/*
+*://*.askbotta.com/*
+*://*.speakingclubai.com/*
+*://*.fairytailai.com/*
+*://*.tryellie.com/*
+*://*.emailtriager.com/*
+*://*.fashionadvisorai.com/*
+*://*.swag-ai.com/*
 
 
 
@@ -400,6 +473,8 @@
 *://*.pictureit.art/*
 *://*.bloomoon.art/*
 *://*.bashable.art/*
+*://*.assetsai.art/*
+
 
 
 ! Sites that have .co domain extention
@@ -413,6 +488,11 @@
 *://*.diffusionart.co/*
 *://*.cameralyze.co/*
 *://*.midjourney.co/*
+*://*.jinnee.co/*
+*://*.chatbase.co/*
+*://*.embolden.co/*
+*://*.superreply.co/*
+*://*.hiddendoor.co/*
 
 
 ! Sites that have .net domain extention
@@ -422,6 +502,8 @@
 *://*.stable-diffusion-online.net/*
 *://*.stable-diffusion.net/*
 *://*.csdn.net/*
+*://*.podcastrocket.net/*
+*://*.promptpal.net/*
 
 
 ! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -441,6 +523,13 @@
 *://*.draeno.io/*
 *://*.letsenhance.io/*
 *://*.lipsumar.io/*
+*://*.gpt4free.io/*
+*://*.swimm.io/*
+*://*.cohere.io/*
+*://*.lorro.io/*
+*://*.teacherbot.io/*
+*://*.latitude.io/*
+*://*.ggpredict.io/*
 *://*.memo.tv/*
 *://*.quasi.market/*
 *://*.diffusion.land/*
@@ -459,6 +548,9 @@
 *://*.acrylic.typedream.app/*
 *://*.imageai.app/*
 *://*.wand.app/*
+*://*.make3d.app/*
+*://*.petbooth.app/*
+*://*.outfitanyone.app/*
 *://*.phraser.tech/*
 *://*.client.aigur.dev/*
 *://*.aiart.dev/*
@@ -472,6 +564,8 @@
 *://*.aimons.xyz/*
 *://*.qrcraft.xyz/*
 *://*.pixelicious.xyz/*
+*://*.texturelab.xyz/*
+*://*.lovelines.xyz/*
 *://*.petalica.paint/*
 *://*.yoohoo.cards/*
 *://*.nightcafe.studio/*
@@ -486,6 +580,12 @@
 *://*.generativeai.pub/*
 *://*.midjourney.co.in/*
 *://*.aiartgenerator.us/*
+*://*.aitools.fyi/*
+*://*.image.computer/*
+*://*.carboncopy.pro/*
+*://*.damngood.tools/*
+*://*.echo.win/*
+*://*.aigirlfriend.wtf/*
 
 
 ! Google Play/Apple AI applications
@@ -510,6 +610,58 @@
 *://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
 *://*.play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique/*
 *://*.play.google.com/store/apps/details?id=ai.art.generator.design/*
+
+! Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
+*://*.sukebezone.com/*
+*://*.fantasygf.ai/*
+*://*.n8ked.app/*
+*://*.deepnude.cc/*
+*://*.teletype.in/@hackfreaks/*
+*://*.clothoff.io/*
+*://*.dreamgf.ai/*
+*://*.deepnude.ca/*
+*://*.nudify.online/*
+*://*.deep-nude.ai/*
+*://*.pornjoy.ai/*
+*://*.pornx.ai/*
+*://*.sexy.ai/*
+*://*.pornpen.ai/*
+*://*.ai-porn.ai/*
+*://*.candy.ai/*
+*://*.deepnudify.com/*
+*://*.undressing.io/*
+*://*.seduced.ai/*
+*://*.smexy.ai/*
+*://*.onlybabes.ai/*
+*://*.deepnudenow.com/*
+*://*.nsfwartgenerator.ai/*
+*://*.makenude.ai/*
+*://*.aiporn.net/*
+*://*.deep-nude.co/*
+*://*.newfuku.com/*
+*://*.undress.love/*
+*://*.mrdeepfakes.com/*
+*://*.heyeditor.net/*
+*://*.deepsukebe.io/*
+*://*.wannafake.com/*
+*://*.swapface.org/*
+*://*.deepfaker.app/*
+*://*.soulgen.net/*
+*://*.perchance.org/*
+*://*.dezgo.com/*
+*://*.nudeme.net/*
+*://*.undress.vip/*
+*://*.undress.photo/*
+*://*.selfievibe.art/*
+*://*.nubee.ai/*
+*://*.undress.show/*
+*://*.nudify.site/*
+*://*.pornify.cc/*
+*://*.pornderful.ai/*
+*://*.gptgirlfriend.online/*
+
+
+
 
 
 ! //// Block lists of individual users
@@ -843,6 +995,8 @@
 *://*.reddit.com/r/dalle2/*
 *://*.reddit.com/r/AICharacterDrawing/*
 *://*.reddit.com/r/DungeonoftheMadMage/*
+*://*.reddit.com/r/aitoolsupdate/*
+*://*.reddit.com/r/deeplearning/*
 
 
 ! // Block list of AI reddit users
@@ -859,6 +1013,8 @@
 ! // AI content farms
 *://*.boddeswasusi.github.io/*
 *://*.stl24.com/*
+*://*.outsourceit.today/*
+*://*.metaroids.com/*
 
 ! // VoiceMod shit 
 *://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb/*
