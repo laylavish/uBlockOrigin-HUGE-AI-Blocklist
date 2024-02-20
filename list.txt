@@ -301,6 +301,7 @@ www.google.*##a[href*="kawaiiai.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="dalle2.tumblr.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pixlr.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="curiousrefuge.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="promeai.com"]:upward(div):style(opacity:0.00!important;)
 
 
 
