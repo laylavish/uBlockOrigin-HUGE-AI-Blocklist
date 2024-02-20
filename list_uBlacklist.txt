@@ -302,6 +302,7 @@
 *://*.dalle2.tumblr.com/*
 *://*.pixlr.com/*
 *://*.curiousrefuge.com/*
+*://*.promeai.com/*
 
 
 
