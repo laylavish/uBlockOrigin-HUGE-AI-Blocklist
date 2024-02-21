@@ -850,6 +850,10 @@ www.google.*##a[href*="deviantart.com/zkreations"]:upward(div):style(opacity:0.0
 ! Block list of AI "artists"/orgs (artstation)
 www.google.*##a[href*="artstation.com/tryintogetthere"]:upward(div):style(opacity:0.00!important;)
 
+! Block list of AI "artists"/orgs (facebook)
+www.google.*##a[href*="m.facebook.com/cuteanimegirl99"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="facebook.com/cuteanimegirl99"]:upward(div):style(opacity:0.00!important;)
+
 ! Artstation shit
 www.google.*##a[href*="artstation.com/artwork/KOJ80W"]:upward(div):style(opacity:0.00!important;)
 
