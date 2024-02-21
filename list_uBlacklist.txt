@@ -849,6 +849,7 @@
 *://*.deviantart.com/rasooliartworks/*
 *://*.deviantart.com/cyberxyt/*
 *://*.deviantart.com/zerofourai/*
+*://*.deviantart.com/allbeautifulgirl/*
 
 
 ! Block list of AI "artists"/orgs (artstation)
