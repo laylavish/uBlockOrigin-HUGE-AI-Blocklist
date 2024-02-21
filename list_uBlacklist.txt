@@ -711,6 +711,8 @@
 *://*.x.com/EasonnLi/*
 *://*.twitter.com/SyliconDreams/*
 *://*.x.com/SyliconDreams/*
+*://*.twitter.com/GAICommunity/*
+*://*.x.com/GAICommunity/*
 
 
 ! Block list of AI "artists"/orgs (youtube)
