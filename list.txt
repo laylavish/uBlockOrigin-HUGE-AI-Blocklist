@@ -843,6 +843,7 @@ www.google.*##a[href*="deviantart.com/alyskan"]:upward(div):style(opacity:0.00!i
 www.google.*##a[href*="deviantart.com/rasooliartworks"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deviantart.com/cyberxyt"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="deviantart.com/zerofourai"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="deviantart.com/allbeautifulgirl"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
