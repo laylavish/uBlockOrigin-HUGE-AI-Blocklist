@@ -566,6 +566,7 @@
 *://*.pixelicious.xyz/*
 *://*.texturelab.xyz/*
 *://*.lovelines.xyz/*
+*://*.generaitiv.xyz/*
 *://*.petalica.paint/*
 *://*.yoohoo.cards/*
 *://*.nightcafe.studio/*
