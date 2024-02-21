@@ -850,6 +850,7 @@
 *://*.deviantart.com/cyberxyt/*
 *://*.deviantart.com/zerofourai/*
 *://*.deviantart.com/allbeautifulgirl/*
+*://*.deviantart.com/zkreations/*
 
 
 ! Block list of AI "artists"/orgs (artstation)
