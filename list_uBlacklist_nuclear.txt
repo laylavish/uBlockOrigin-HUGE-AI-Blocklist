@@ -36,4 +36,4 @@
 *://*.gachax.com/anime/*
 *://*.gettywallpapers.com/*
 *://*.abposters.com/*
-
+*://*.posterlounge.com/*
