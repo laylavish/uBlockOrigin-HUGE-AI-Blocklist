@@ -714,6 +714,8 @@
 *://*.x.com/SyliconDreams/*
 *://*.twitter.com/GAICommunity/*
 *://*.x.com/GAICommunity/*
+*://*.twitter.com/cocotte_ai/*
+*://*.x.com/cocotte_ai/*
 
 
 ! Block list of AI "artists"/orgs (youtube)
