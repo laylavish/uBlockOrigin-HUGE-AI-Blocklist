@@ -708,6 +708,8 @@ www.google.*##a[href*="twitter.com/SyliconDreams"]:upward(div):style(opacity:0.0
 www.google.*##a[href*="x.com/SyliconDreams"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="twitter.com/GAICommunity"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="x.com/GAICommunity"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="twitter.com/cocotte_ai"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="x.com/cocotte_ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
