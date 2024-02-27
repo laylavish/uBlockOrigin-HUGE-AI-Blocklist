@@ -65,9 +65,9 @@ Although the latter is inferrior, it is a bit rare for that to happen, especiall
 
 ## What if you want to go even further beyond?
 
-I created a [repo that houses fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
+I created a repo that houses [fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
 
-Not only that, but there are more lists you can subscribe to clean up the internet more, such as [rjaus' awesome ublacklist subscription list](https://github.com/rjaus/awesome-ublacklist)
+Not only that, but there are lots of lists you can subscribe to that will clean up the internet more, such as [rjaus' awesome ublacklist subscription list](https://github.com/rjaus/awesome-ublacklist)
 
 
 ## To Do
