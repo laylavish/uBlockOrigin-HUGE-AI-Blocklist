@@ -376,6 +376,8 @@
 *://*.emailtriager.com/*
 *://*.fashionadvisorai.com/*
 *://*.swag-ai.com/*
+*://*.openaisea.com/*
+
 
 
 
@@ -584,6 +586,7 @@
 *://*.aitools.fyi/*
 *://*.image.computer/*
 *://*.carboncopy.pro/*
+*://*.aimojo.pro/*
 *://*.damngood.tools/*
 *://*.echo.win/*
 *://*.aigirlfriend.wtf/*
@@ -660,6 +663,7 @@
 *://*.pornify.cc/*
 *://*.pornderful.ai/*
 *://*.gptgirlfriend.online/*
+*://*.nudify.life/*
 
 
 
