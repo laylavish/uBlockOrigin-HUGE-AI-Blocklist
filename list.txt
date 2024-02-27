@@ -375,6 +375,7 @@ www.google.*##a[href*="tryellie.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="emailtriager.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="fashionadvisorai.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="swag-ai.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="openaisea.com"]:upward(div):style(opacity:0.00!important;)
 
 
 
@@ -583,6 +584,7 @@ www.google.*##a[href*="aiartgenerator.us"]:upward(div):style(opacity:0.00!import
 www.google.*##a[href*="aitools.fyi"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="image.computer"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="carboncopy.pro"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="aimojo.pro"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="damngood.tools"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="echo.win"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="aigirlfriend.wtf"]:upward(div):style(opacity:0.00!important;)
@@ -659,6 +661,7 @@ www.google.*##a[href*="nudify.site"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pornify.cc"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="pornderful.ai"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="gptgirlfriend.online"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="nudify.life"]:upward(div):style(opacity:0.00!important;)
 
 
 ! //// Block lists of individual users
