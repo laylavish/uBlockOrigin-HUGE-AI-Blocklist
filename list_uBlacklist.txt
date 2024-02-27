@@ -926,6 +926,7 @@
 *://*.thehungryjpeg.com/*
 *://*.gachax.com/anime/*
 *://*.abposters.com/*
+*://*.thirstymag.com/*
 
 
 ! // Miscellaneous crypto/nft shit
