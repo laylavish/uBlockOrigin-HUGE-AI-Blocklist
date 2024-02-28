@@ -720,6 +720,8 @@
 *://*.x.com/GAICommunity/*
 *://*.twitter.com/cocotte_ai/*
 *://*.x.com/cocotte_ai/*
+*://*.twitter.com/AonekoSS/*
+*://*.x.com/AonekoSS/*
 
 
 ! Block list of AI "artists"/orgs (youtube)
