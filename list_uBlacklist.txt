@@ -664,6 +664,47 @@
 *://*.pornderful.ai/*
 *://*.gptgirlfriend.online/*
 *://*.nudify.life/*
+*://*.made.porn/*
+*://*.x-pictures.io/*
+*://*.trynectar.ai/*
+*://*.porngen.art/*
+*://*.penly.ai/*
+*://*.glamgirls.ai/*
+*://*.pornjourney.ai/*
+*://*.ehentai.ai/*
+*://*.getidol.com/*
+*://*.nsfwcharacter.ai/*
+*://*.kupid.ai/*
+*://*.bot3.ai/*
+*://*.pornworks.ai/*
+*://*.spicy.porn/*
+*://*.moemate.io/*
+*://*.pornwaifu.io/*
+*://*.charfriend.com/*
+*://*.iwaifu.com/*
+*://*.erogen.ai/*
+*://*.onlyfakes.app/*
+*://*.nolo.ai/*
+*://*.createporn.com/*
+*://*.icegirls.ai/*
+*://*.aipornhub.net/*
+*://*.imake.porn/*
+*://*.ai-dreamgirls.com/*
+*://*.hentai.kitchen/*
+*://*.getporn.ai/*
+*://*.porn.ai/*
+*://*.aigirlfriend.wtf/*
+*://*.privee.ai/*
+*://*.pornai.tv/*
+*://*.nsfw.xxx/*
+*://*.pornlabs.net/*
+*://*.onlynsfw.ai/*
+*://*.sharaku.us/*
+*://*.aihentai.co/*
+*://*.pornstars.ai/*
+*://*.aiexotic.com/*
+*://*.nudeai.de/*
+*://*.nudeai.com/*
 
 
 
