@@ -226,6 +226,7 @@
 *://*.charisma.ai/*
 *://*.inworld.ai/*
 *://*.layla-network.ai/*
+*://*.prompthero.ai/*
 
 
 
