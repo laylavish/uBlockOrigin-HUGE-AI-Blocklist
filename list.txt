@@ -380,8 +380,6 @@
 *##a[href*="openaisea.com"]:upward(div):style(opacity:0.00!important;)
 
 
-
-
 ! Sites that have .art domain extentions
 *##a[href*="imagine.art"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="jasper.art"]:upward(div):style(opacity:0.00!important;)
@@ -614,6 +612,7 @@
 *##a[href*="apple.com/us/app/ai-art-generator-hitpaw/id6444304300"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="play.google.com/store/apps/details?id=ai.art.generator.design"]:upward(div):style(opacity:0.00!important;)
+
 
 ! Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
 *##a[href*="sukebezone.com"]:upward(div):style(opacity:0.00!important;)
@@ -890,7 +889,7 @@
 *##a[href*="ko-fi.com/ainomad"]:upward(div):style(opacity:0.00!important;)
 
 
-! Block list of AI "artists"/orgs (art)
+! Block list of AI "artists"/orgs (deviantart)
 *##a[href*="deviantart.com/vyerran"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="deviantart.com/alyskan"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="deviantart.com/rasooliartworks"]:upward(div):style(opacity:0.00!important;)
@@ -903,15 +902,19 @@
 ! Block list of AI "artists"/orgs (artstation)
 *##a[href*="artstation.com/tryintogetthere"]:upward(div):style(opacity:0.00!important;)
 
+
 ! Block list of AI "artists"/orgs (facebook)
 *##a[href*="m.facebook.com/cuteanimegirl99"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="facebook.com/cuteanimegirl99"]:upward(div):style(opacity:0.00!important;)
 
+
 ! Artstation shit
 *##a[href*="artstation.com/artwork/KOJ80W"]:upward(div):style(opacity:0.00!important;)
 
+
 ! s.id garbage
 *##a[href*="s.id/AIArtGaia"]:upward(div):style(opacity:0.00!important;)
+
 
 ! ko-fi garbage
 *##a[href*="ko-fi.com/s/cfcbe64e46"]:upward(div):style(opacity:0.00!important;)
@@ -919,6 +922,7 @@
 *##a[href*="ko-fi.com/s/12dd0f892e"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="ko-fi.com/s/26646f3ac9"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="ko-fi.com/s/af9a23d375"]:upward(div):style(opacity:0.00!important;)
+
 
 ! Freepik garbage
 *##a[href*="freepik.com/premium-ai-image"]:upward(div):style(opacity:0.00!important;)
@@ -936,6 +940,7 @@
 *##a[href*="medium.com/@inchristiely"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="medium.com/@aitubo011"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="medium.com/mlearning-ai"]:upward(div):style(opacity:0.00!important;)
+
 
 ! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork)
 
@@ -994,10 +999,10 @@
 *##a[href*="pinterest.com/pin/563018696976219"]:upward(div):style(opacity:0.00!important;)
 
 
-
 ! // Individual Adobe Stock shit
 *##a[href*="stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986"]:upward(div):style(opacity:0.00!important;)
+
 
 ! // Individual Artstation shit
 *##a[href*="artstation.com/artwork/kQZoLA"]:upward(div):style(opacity:0.00!important;)
@@ -1070,14 +1075,17 @@
 ! // Amazon shit
 *##a[href*="amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/dp/B0C47SW6NT"]:upward(div):style(opacity:0.00!important;)
 
+
 ! // AI content farms
 *##a[href*="boddeswasusi.github.io"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="stl24.com"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="outsourceit.today"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="metaroids.com"]:upward(div):style(opacity:0.00!important;)
 
+
 ! // VoiceMod shit
 *##a[href*="tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb"]:upward(div):style(opacity:0.00!important;)
+
 
 ! // Getty Wallpapers
 *##a[href*="gettywallpapers.com/cute-anime-girl-profile-pictures"]:upward(div):style(opacity:0.00!important;)
