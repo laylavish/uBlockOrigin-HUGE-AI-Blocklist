@@ -87,8 +87,8 @@ Change "example.com" to the url you want to whitelist. Copy & paste that in uBlo
 ```
 @*://*.example.com/*
 ```
-4. Change "example.com" to a website you want whitelisted. 
-5. Click save. Done!
+3. Change "example.com" to a website you want whitelisted. 
+4. Click save. Done!
 
 
 ## What is the difference between uBlock Origin and uBlacklist implementations?
