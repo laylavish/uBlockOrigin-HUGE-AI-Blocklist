@@ -767,6 +767,8 @@
 *://*.x.com/Clie_X/*
 *://*.twitter.com/Tomwhoopty906_1/*
 *://*.x.com/Tomwhoopty906_1/*
+*://*.twitter.com/21xfour/*
+*://*.x.com/21xfour/*
 
 
 
