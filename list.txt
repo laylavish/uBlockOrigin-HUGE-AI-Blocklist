@@ -380,6 +380,7 @@ www.bing.*##a[href*="dreamup.com"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="fashionadvisorai.com"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="swag-ai.com"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="openaisea.com"]:upward(div):style(opacity:0.00!important;)
+*##a[href*="generateart.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extentions
