@@ -776,6 +776,11 @@
 *://*.x.com/AiDesignSA/*
 *://*.twitter.com/MessiyaAI/*
 *://*.x.com/MessiyaAI/*
+*://*.twitter.com/ver_AI_/*
+*://*.x.com/ver_AI_/*
+*://*.twitter.com/ObeyAiArt/*
+*://*.x.com/ObeyAiArt/*
+
 
 
 
