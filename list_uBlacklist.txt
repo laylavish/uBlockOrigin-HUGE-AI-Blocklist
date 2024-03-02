@@ -1062,7 +1062,9 @@
 *://*.reddit.com/r/AnimeAIArt/*
 *://*.reddit.com/r/AIartbattle/*
 *://*.reddit.com/r/AICatgirls/*
-
+*://*.reddit.com/r/layla_ai/*
+*://*.reddit.com/r/nonutsnightmare/*
+*://*.reddit.com/r/aigoddesses/*
 
 ! // Block list of AI reddit users
 *://*.reddit.com/user/aidaily0/*
