@@ -1,5 +1,5 @@
 # uBlockOrigin & uBlacklist Huge AI Blocklist
-A huge blocklist of sites (~850) that contain AI generated content, for the purposes of cleaning Google Image Search.
+A huge blocklist of sites (~850) that contain AI generated content, for the purposes of cleaning image search engines (eg. Google Image Search, DuckDuckGo, etc).
 
 
 
@@ -59,20 +59,20 @@ In order to use the ```Nuclear``` list, do the same steps that you did in the se
 ## What is the difference between uBlock Origin and uBlacklist implementations?
 uBlock Origin's implementation is technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods. 
 
-uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your Google Image Search results, you will not be able to scroll any father then the first 6 rows of images.
+uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your image search results, you will not be able to scroll any father then the first 6 rows of images (seems to be exclusive to Google Images).
 
 Although the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklist's part).
 
 ## What if you want to go even further beyond?
 
-I created a repo that houses [fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!!
+I created a repo that houses [fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!
 
 Not only that, but there are lots of lists you can subscribe to that will clean up the internet more, such as [rjaus' awesome ublacklist subscription list](https://github.com/rjaus/awesome-ublacklist)
 
 
 ## To Do
 ✅ Provide blocklist for uBlacklist compatibility
-
+✅ Make blocklist work on other search engines such as DuckDuckGo, Bing (ew), etc.
 
 ## Special thanks
 
