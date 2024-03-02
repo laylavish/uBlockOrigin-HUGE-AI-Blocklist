@@ -227,6 +227,7 @@
 *://*.layla-network.ai/*
 *://*.prompthero.ai/*
 *://*.pandorasbox.ai/*
+*://*.mirrorize.ai/*
 
 
 ! Sites that have .com domain extentions
