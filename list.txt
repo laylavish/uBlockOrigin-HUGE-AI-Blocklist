@@ -769,6 +769,8 @@ www.bing.*##a[href*="dreamup.com"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="x.com/Clie_X"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="twitter.com/Tomwhoopty906_1"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="x.com/Tomwhoopty906_1"]:upward(div):style(opacity:0.00!important;)
+*##a[href*="twitter.com/21xfour"]:upward(div):style(opacity:0.00!important;)
+*##a[href*="x.com/21xfour"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
