@@ -1064,6 +1064,7 @@
 *://*.reddit.com/r/aigoddesses/*
 *://*.reddit.com/r/AIpornhub/*
 *://*.reddit.com/r/AiUncensored/*
+*://*.reddit.com/r/Ai_and_Digital_arts/*
 
 
 ! // Block list of AI reddit users
