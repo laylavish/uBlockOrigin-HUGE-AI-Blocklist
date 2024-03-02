@@ -1063,6 +1063,7 @@
 *://*.reddit.com/r/nonutsnightmare/*
 *://*.reddit.com/r/aigoddesses/*
 *://*.reddit.com/r/AIpornhub/*
+*://*.reddit.com/r/AiUncensored/*
 
 
 ! // Block list of AI reddit users
