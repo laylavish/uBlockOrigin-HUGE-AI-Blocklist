@@ -72,6 +72,7 @@ Not only that, but there are lots of lists you can subscribe to that will clean 
 
 ## To Do
 ✅ Provide blocklist for uBlacklist compatibility
+
 ✅ Make blocklist work on other search engines such as DuckDuckGo, Bing (ew), etc.
 
 ## Special thanks
