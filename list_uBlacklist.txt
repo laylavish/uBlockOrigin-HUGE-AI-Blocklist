@@ -763,6 +763,8 @@
 *://*.x.com/_layla_ai/*
 *://*.twitter.com/blaize_mayes/*
 *://*.x.com/blaize_mayes/*
+*://*.twitter.com/Clie_X/*
+*://*.x.com/Clie_X/*
 
 
 ! Block list of AI "artists"/orgs (youtube)
