@@ -227,6 +227,7 @@
 *://*.inworld.ai/*
 *://*.layla-network.ai/*
 *://*.prompthero.ai/*
+*://*.pandorasbox.ai/*
 
 
 
