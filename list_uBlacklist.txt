@@ -769,6 +769,8 @@
 *://*.x.com/Tomwhoopty906_1/*
 *://*.twitter.com/21xfour/*
 *://*.x.com/21xfour/*
+*://*.twitter.com/artist_dalle/*
+*://*.x.com/artist_dalle/*
 
 
 
