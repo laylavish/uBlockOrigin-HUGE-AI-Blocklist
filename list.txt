@@ -225,6 +225,7 @@
 *##a[href*="charisma.ai"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="inworld.ai"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="layla-network.ai"]:upward(div):style(opacity:0.00!important;)
+*##a[href*="prompthero.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 
