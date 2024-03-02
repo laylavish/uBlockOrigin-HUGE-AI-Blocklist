@@ -1056,6 +1056,7 @@
 *://*.reddit.com/r/aitoolsupdate/*
 *://*.reddit.com/r/deeplearning/*
 *://*.reddit.com/r/AnimeAIArt/*
+*://*.reddit.com/r/AIartbattle/*
 
 
 ! // Block list of AI reddit users
