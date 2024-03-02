@@ -965,6 +965,7 @@ www.google.*##a[href*="thehungryjpeg.com"]:upward(div):style(opacity:0.00!import
 www.google.*##a[href*="gachax.com/anime"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="abposters.com"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="thirstymag.com"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/CatgirlSFW"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit
@@ -1047,6 +1048,7 @@ www.google.*##a[href*="reddit.com/r/aitoolsupdate"]:upward(div):style(opacity:0.
 www.google.*##a[href*="reddit.com/r/deeplearning"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/AnimeAIArt"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/AIartbattle"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/AICatgirls"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
