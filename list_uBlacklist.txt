@@ -225,6 +225,7 @@
 *://*.ai-girlfriend.ai/*
 *://*.charisma.ai/*
 *://*.inworld.ai/*
+*://*.layla-network.ai/*
 
 
 
@@ -763,6 +764,8 @@
 *://*.x.com/cocotte_ai/*
 *://*.twitter.com/AonekoSS/*
 *://*.x.com/AonekoSS/*
+*://*.twitter.com/_layla_ai/*
+*://*.x.com/_layla_ai/*
 
 
 ! Block list of AI "artists"/orgs (youtube)
