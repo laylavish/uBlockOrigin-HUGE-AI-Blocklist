@@ -771,6 +771,8 @@
 *://*.x.com/21xfour/*
 *://*.twitter.com/artist_dalle/*
 *://*.x.com/artist_dalle/*
+*://*.twitter.com/AiDesignSA/*
+*://*.x.com/AiDesignSA/*
 
 
 
