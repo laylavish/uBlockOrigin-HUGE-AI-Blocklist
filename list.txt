@@ -1046,6 +1046,7 @@ www.google.*##a[href*="reddit.com/r/DungeonoftheMadMage"]:upward(div):style(opac
 www.google.*##a[href*="reddit.com/r/aitoolsupdate"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/deeplearning"]:upward(div):style(opacity:0.00!important;)
 www.google.*##a[href*="reddit.com/r/AnimeAIArt"]:upward(div):style(opacity:0.00!important;)
+www.google.*##a[href*="reddit.com/r/AIartbattle"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
