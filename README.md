@@ -13,7 +13,10 @@ A huge blocklist of sites (~850) that contain AI generated content, for the purp
 
 4. Look towards the bottom, and expand the ```Import``` button.
 
-5. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt``` into the dialogue box.
+5. Copy and paste this url into the dialogue box: 
+```
+https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
+```
 
 6. Apply changes, and your set!
 
