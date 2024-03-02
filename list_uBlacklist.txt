@@ -378,6 +378,7 @@
 *://*.fashionadvisorai.com/*
 *://*.swag-ai.com/*
 *://*.openaisea.com/*
+*://*.generateart.com/*
 
 
 ! Sites that have .art domain extentions
