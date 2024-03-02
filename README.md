@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 ``` 
 into the "URL" part of the dialogue box, then press the blue "Add" button.
 
-7. There you go! You're done!
+6. There you go! You're done!
 
-8. (optional) Set the update interval to an hour for near-realtime list updates.
+7. (optional) Set the update interval to an hour for near-realtime list updates.
 
 
 ## Additional list(s)
