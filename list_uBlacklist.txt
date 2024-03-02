@@ -974,6 +974,7 @@
 *://*.gachax.com/anime/*
 *://*.abposters.com/*
 *://*.thirstymag.com/*
+*://*.reddit.com/r/CatgirlSFW/*
 
 
 ! // Miscellaneous crypto/nft shit
@@ -1057,6 +1058,7 @@
 *://*.reddit.com/r/deeplearning/*
 *://*.reddit.com/r/AnimeAIArt/*
 *://*.reddit.com/r/AIartbattle/*
+*://*.reddit.com/r/AICatgirls/*
 
 
 ! // Block list of AI reddit users
