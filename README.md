@@ -57,7 +57,7 @@ In order to use the ```Nuclear``` list, do the same steps that you did in the se
 In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt```
 
 ## Whitelisting sites
-If you find that you don't a certain website being blocked, you can create a whitelist in your own personal uBlock Origin or uBlacklist filter list. Here's how to do it.
+If you find that you don't like a certain website being blocked, you can create a whitelist in your own personal uBlock Origin or uBlacklist filter list. Here's how to do it.
 
 ### For uBlock Origin:
 1. Toggle the [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector) `</>` through uBlock Origin's [logger](https://github.com/gorhill/uBlock/wiki/The-logger).
