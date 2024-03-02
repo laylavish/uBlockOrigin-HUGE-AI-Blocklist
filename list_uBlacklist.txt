@@ -1067,6 +1067,7 @@
 *://*.reddit.com/r/layla_ai/*
 *://*.reddit.com/r/nonutsnightmare/*
 *://*.reddit.com/r/aigoddesses/*
+*://*.reddit.com/r/AIpornhub/*
 
 ! // Block list of AI reddit users
 *://*.reddit.com/user/aidaily0/*
