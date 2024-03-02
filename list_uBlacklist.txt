@@ -1,6 +1,5 @@
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
-
 ! Sites that have .ai domain extentions
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
@@ -230,7 +229,6 @@
 *://*.pandorasbox.ai/*
 
 
-
 ! Sites that have .com domain extentions
 *://*.hayo.com/*
 *://*.yodayo.com/*
@@ -382,8 +380,6 @@
 *://*.openaisea.com/*
 
 
-
-
 ! Sites that have .art domain extentions
 *://*.imagine.art/*
 *://*.jasper.art/*
@@ -479,7 +475,6 @@
 *://*.bloomoon.art/*
 *://*.bashable.art/*
 *://*.assetsai.art/*
-
 
 
 ! Sites that have .co domain extention
@@ -618,6 +613,7 @@
 *://*.play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique/*
 *://*.play.google.com/store/apps/details?id=ai.art.generator.design/*
 
+
 ! Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
 *://*.sukebezone.com/*
 *://*.fantasygf.ai/*
@@ -710,11 +706,7 @@
 *://*.nudeai.com/*
 
 
-
-
-
 ! //// Block lists of individual users
-
 
 ! Block list of AI "artists"/orgs (twitter)
 *://*.x.com/ew_corpse/*
@@ -910,9 +902,11 @@
 ! Block list of AI "artists"/orgs (artstation)
 *://*.artstation.com/tryintogetthere/*
 
+
 ! Block list of AI "artists"/orgs (facebook)
 *://*.m.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/cuteanimegirl99/*
+
 
 ! Artstation shit
 *://*.artstation.com/artwork/KOJ80W/*
@@ -946,6 +940,7 @@
 *://*.medium.com/@inchristiely/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/mlearning-ai/*
+
 
 ! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork)
 
@@ -1002,7 +997,6 @@
 *://*.pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/*
 *://*.pinterest.com/pin/mulher-fatal/*
 *://*.pinterest.com/pin/563018696976219/*
-
 
 
 ! // Individual Adobe Stock shit
@@ -1069,6 +1063,7 @@
 *://*.reddit.com/r/aigoddesses/*
 *://*.reddit.com/r/AIpornhub/*
 
+
 ! // Block list of AI reddit users
 *://*.reddit.com/user/aidaily0/*
 *://*.reddit.com/user/Wyprany/*
@@ -1080,14 +1075,17 @@
 ! // Amazon shit
 *://*.amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/*
 
+
 ! // AI content farms
 *://*.boddeswasusi.github.io/*
 *://*.stl24.com/*
 *://*.outsourceit.today/*
 *://*.metaroids.com/*
 
+
 ! // VoiceMod shit 
 *://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb*
+
 
 ! // Getty Wallpapers
 *://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
