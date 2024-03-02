@@ -1056,6 +1056,7 @@
 *##a[href*="reddit.com/r/layla_ai"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="reddit.com/r/nonutsnightmare"]:upward(div):style(opacity:0.00!important;)
 *##a[href*="reddit.com/r/aigoddesses"]:upward(div):style(opacity:0.00!important;)
+*##a[href*="reddit.com/r/AIpornhub"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
