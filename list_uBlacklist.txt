@@ -773,6 +773,8 @@
 *://*.x.com/artist_dalle/*
 *://*.twitter.com/AiDesignSA/*
 *://*.x.com/AiDesignSA/*
+*://*.twitter.com/MessiyaAI/*
+*://*.x.com/MessiyaAI/*
 
 
 
