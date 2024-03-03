@@ -382,6 +382,7 @@
 *://*.openaisea.com/*
 *://*.generateart.com/*
 *://*.centralaitools.com/*
+*://*.pixcores.com/*
 
 
 ! Sites that have .art domain extentions
