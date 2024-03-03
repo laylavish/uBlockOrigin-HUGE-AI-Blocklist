@@ -567,6 +567,7 @@ google.com,duckduckgo.com,bing.com##a[href*="aiart.dev"]:upward(div):style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="background.lol"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deepanime.software"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="barcode.so"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="unleash.so"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="dreamwalker.fun"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aiart.fm"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aiart.limited"]:upward(div):style(opacity:0.00!important;)
