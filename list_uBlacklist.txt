@@ -1099,6 +1099,7 @@
 *://*.reddit.com/r/AiUncensored/*
 *://*.reddit.com/r/Ai_and_Digital_arts/*
 *://*.reddit.com/r/AiHentaiArtwork/*
+*://*.reddit.com/r/singularity/*
 
 
 ! // Block list of AI reddit users
