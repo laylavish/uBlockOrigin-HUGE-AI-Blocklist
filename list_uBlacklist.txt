@@ -229,6 +229,7 @@
 *://*.pandorasbox.ai/*
 *://*.mirrorize.ai/*
 *://*.anakin.ai/*
+*://*.ideogram.ai/*
 
 
 ! Sites that have .com domain extentions
