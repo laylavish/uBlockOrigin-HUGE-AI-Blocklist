@@ -228,6 +228,7 @@ google.com,duckduckgo.com,bing.com##a[href*="layla-network.ai"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="prompthero.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pandorasbox.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="mirrorize.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="anakin.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extentions
@@ -918,6 +919,7 @@ google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/cyberxyt"]:upward(di
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/zerofourai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/allbeautifulgirl"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/zkreations"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/darkprncsai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1105,6 +1107,7 @@ google.com,duckduckgo.com,bing.com##a[href*="boddeswasusi.github.io"]:upward(div
 google.com,duckduckgo.com,bing.com##a[href*="stl24.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="outsourceit.today"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="metaroids.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="90creators.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
