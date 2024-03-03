@@ -384,6 +384,7 @@
 *://*.centralaitools.com/*
 *://*.pixcores.com/*
 *://*.stablediffusionaigenerator.com/*
+*://*.7mmblog.com/*
 
 
 ! Sites that have .art domain extentions
