@@ -1000,7 +1000,7 @@
 *://*.abposters.com/*
 *://*.thirstymag.com/*
 *://*.reddit.com/r/CatgirlSFW/*
-*://*.reddit.com/r/kemono.su/*
+*://*.kemono.su/*
 
 
 ! // Miscellaneous crypto/nft shit
