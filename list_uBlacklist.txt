@@ -228,6 +228,7 @@
 *://*.prompthero.ai/*
 *://*.pandorasbox.ai/*
 *://*.mirrorize.ai/*
+*://*.anakin.ai/*
 
 
 ! Sites that have .com domain extentions
@@ -920,6 +921,7 @@
 *://*.deviantart.com/zerofourai/*
 *://*.deviantart.com/allbeautifulgirl/*
 *://*.deviantart.com/zkreations/*
+*://*.deviantart.com/darkprncsai/*
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1107,6 +1109,7 @@
 *://*.stl24.com/*
 *://*.outsourceit.today/*
 *://*.metaroids.com/*
+*://*.90creators.com/*
 
 
 ! // VoiceMod shit 
