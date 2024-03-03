@@ -998,6 +998,7 @@ google.com,duckduckgo.com,bing.com##a[href*="gachax.com/anime"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="abposters.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="thirstymag.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/CatgirlSFW"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="kemono.su"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit
