@@ -279,9 +279,7 @@ google.com,duckduckgo.com,bing.com##a[href*="sarahmeyohas.com"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="davidarielszauder.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="sarahmeyohas.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="violetforest.com"]:upward(div):style(opacity:0.00!important;)
-www.google.google.com,duckduckgo.com,bing.com##a[href*="dreamup.com"]:upward(div):style(opacity:0.00!important;)
-duckduckgo.google.com,duckduckgo.com,bing.com##a[href*="dreamup.com"]:upward(div):style(opacity:0.00!important;)
-www.bing.google.com,duckduckgo.com,bing.com##a[href*="dreamup.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="dreamup.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="artbreeder"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="portrait.vana.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aiartapps.com"]:upward(div):style(opacity:0.00!important;)
@@ -382,6 +380,7 @@ google.com,duckduckgo.com,bing.com##a[href*="fashionadvisorai.com"]:upward(div):
 google.com,duckduckgo.com,bing.com##a[href*="swag-ai.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="openaisea.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="generateart.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="centralaitools.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extentions
