@@ -1099,6 +1099,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/AIpornhub"]:upward(div
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/AiUncensored"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/Ai_and_Digital_arts"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/AiHentaiArtwork"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/singularity"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
