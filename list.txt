@@ -229,6 +229,7 @@ google.com,duckduckgo.com,bing.com##a[href*="prompthero.ai"]:upward(div):style(o
 google.com,duckduckgo.com,bing.com##a[href*="pandorasbox.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="mirrorize.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="anakin.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ideogram.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extentions
