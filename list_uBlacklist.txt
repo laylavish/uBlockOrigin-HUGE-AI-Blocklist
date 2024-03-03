@@ -383,6 +383,7 @@
 *://*.generateart.com/*
 *://*.centralaitools.com/*
 *://*.pixcores.com/*
+*://*.stablediffusionaigenerator.com/*
 
 
 ! Sites that have .art domain extentions
