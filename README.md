@@ -58,10 +58,18 @@ As of right now, there are two lists. The main default list, and the nuclear lis
 The nuclear list has sites that contain a mix of authentic and AI generated imagery (eg. DeviantArt, Artstation, Stock Photography sites, etc), which make it tricky to outright block in the main filter list, so I've designated it to a separate list that you can toggle on and off if you so desire.
 
 ### uBlock Origin
-In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlock Origin)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt```
+In order to use the **Nuclear** list, do the same steps that you did in the section "How to install the blocklist (uBlock Origin)", but instead of using the other url, use:
+
+```
+https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt
+```
 
 ### uBlacklist
-In order to use the ```Nuclear``` list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt```
+In order to use the **Nuclear** list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use:
+
+```
+https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
+```
 
 ## Whitelisting sites
 If you find that you don't like a certain website being blocked, you can create a whitelist in your own personal uBlock Origin or uBlacklist filter list. Here's how to do it.
