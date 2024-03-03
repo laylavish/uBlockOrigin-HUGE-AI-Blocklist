@@ -386,6 +386,7 @@
 *://*.pixcores.com/*
 *://*.stablediffusionaigenerator.com/*
 *://*.7mmblog.com/*
+*://*.dreamsofbooks.com/*
 
 
 ! Sites that have .art domain extentions
@@ -926,6 +927,7 @@
 *://*.deviantart.com/allbeautifulgirl/*
 *://*.deviantart.com/zkreations/*
 *://*.deviantart.com/darkprncsai/*
+*://*.deviantart.com/dendyh7/*
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1005,6 +1007,8 @@
 *://*.thirstymag.com/*
 *://*.reddit.com/r/CatgirlSFW/*
 *://*.kemono.su/*
+*://*.kemono.party/*
+*://*.alphacoders.com/*
 
 
 ! // Miscellaneous crypto/nft shit
