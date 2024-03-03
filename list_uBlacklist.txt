@@ -566,6 +566,7 @@
 *://*.background.lol/*
 *://*.deepanime.software/*
 *://*.barcode.so/*
+*://*.unleash.so/*
 *://*.dreamwalker.fun/*
 *://*.aiart.fm/*
 *://*.aiart.limited/*
