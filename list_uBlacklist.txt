@@ -380,6 +380,7 @@
 *://*.swag-ai.com/*
 *://*.openaisea.com/*
 *://*.generateart.com/*
+*://*.centralaitools.com/*
 
 
 ! Sites that have .art domain extentions
