@@ -386,6 +386,8 @@ google.com,duckduckgo.com,bing.com##a[href*="centralaitools.com"]:upward(div):st
 google.com,duckduckgo.com,bing.com##a[href*="pixcores.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusionaigenerator.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="7mmblog.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pfptown.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="dreamsofbooks.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extentions
@@ -924,6 +926,7 @@ google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/zerofourai"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/allbeautifulgirl"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/zkreations"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/darkprncsai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/dendyh7"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1003,6 +1006,9 @@ google.com,duckduckgo.com,bing.com##a[href*="abposters.com"]:upward(div):style(o
 google.com,duckduckgo.com,bing.com##a[href*="thirstymag.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/CatgirlSFW"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="kemono.su"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="kemono.party"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="alphacoders.com"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! // Miscellaneous crypto/nft shit
