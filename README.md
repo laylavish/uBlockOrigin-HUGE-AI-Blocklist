@@ -40,7 +40,11 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 4. Give a name for the added blocklist. (eg. Main AI blocklist)
   
-5. Copy and paste this url ```https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt``` into the "URL" part of the dialogue box, then press the blue "Add" button.
+5. Copy and paste this url 
+```
+https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
+``` 
+into the "URL" part of the dialogue box, then press the blue "Add" button.
 
 6. There you go! You're done!
 
@@ -70,13 +74,19 @@ If you find that you don't like a certain website being blocked, you can create 
 
 Boom! Now it's whitelisted!
 
-Or, if you don't want to go through that mumbo-jumbo, add this line in your filter list: `#@#a[href*="example.com"]:upward(div):style(opacity:0.00!important;)`
+Or, if you don't want to go through that mumbo-jumbo, add this line in your filter list: 
+```
+#@#a[href*="example.com"]:upward(div):style(opacity:0.00!important;)
+```
 
 Change "example.com" to the url you want to whitelist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
 
 ### For uBlacklist:
 1. Enter uBlacklist's options panel. 
-2. In the text box, add this line in the text box: `@*://*.example.com/* `
+2. In the text box, add this line in the text box: 
+```
+@*://*.example.com/*
+```
 3. Change "example.com" to a website you want whitelisted. 
 4. Click save. Done!
 
