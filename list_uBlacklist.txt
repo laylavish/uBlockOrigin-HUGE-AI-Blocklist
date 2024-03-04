@@ -715,6 +715,8 @@
 *://*.aiexotic.com/*
 *://*.nudeai.de/*
 *://*.nudeai.com/*
+*://*.celebjihad.com/*
+*://*.soulfun.ai/*
 
 
 ! //// Block lists of individual users
