@@ -1009,6 +1009,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/CatgirlSFW"]:upward(di
 google.com,duckduckgo.com,bing.com##a[href*="kemono.su"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="kemono.party"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="alphacoders.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="medium.com"]:upward(div):style(opacity:0.00!important;)
 
 
 
