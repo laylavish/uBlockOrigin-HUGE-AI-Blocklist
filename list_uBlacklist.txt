@@ -1106,6 +1106,7 @@
 ! // Block list of AI reddit users
 *://*.reddit.com/user/aidaily0/*
 *://*.reddit.com/user/Wyprany/*
+*://*.reddit.com/user/AIContent/*
 
 
 !// Reddit shit placeholder
