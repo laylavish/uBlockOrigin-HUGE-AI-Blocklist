@@ -1010,6 +1010,7 @@
 *://*.kemono.su/*
 *://*.kemono.party/*
 *://*.alphacoders.com/*
+*://*.medium.com/*
 
 
 ! // Miscellaneous crypto/nft shit
