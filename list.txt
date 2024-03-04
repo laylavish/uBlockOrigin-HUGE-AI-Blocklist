@@ -1106,6 +1106,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/singularity"]:upward(d
 ! // Block list of AI reddit users
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/user/aidaily0"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/user/Wyprany"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/user/AIContent"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Reddit shit (placeholder)
@@ -1143,5 +1144,6 @@ google.com,duckduckgo.com,bing.com##div>a:has-text(/diffusion/i):upward(div):sty
 google.com,duckduckgo.com,bing.com##div>a:has-text(/midjourney/i):upward(div):style(opacity:0!important)
 google.com,duckduckgo.com,bing.com##div>a:has-text(/niji/i):upward(div):style(opacity:0!important)
 google.com,duckduckgo.com,bing.com##div>a:has-text(/SDXL/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/ai generated/i):upward(div):style(opacity:0!important)
 
 
