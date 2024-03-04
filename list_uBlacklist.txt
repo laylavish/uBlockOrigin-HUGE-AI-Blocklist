@@ -980,7 +980,7 @@
 *://*.artmajeur.com/*
 *://*.artpal.com/*
 *://*.freepik.com/*
-! *://*.shutterstock.com/*
+*://*.shutterstock.com/*
 *://*.redbubble.com/*
 *://*.3tdesign.edu.vn/*
 ! *://*.artstation.com/*
