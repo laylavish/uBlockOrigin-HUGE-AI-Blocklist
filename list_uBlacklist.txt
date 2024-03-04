@@ -598,6 +598,7 @@
 *://*.damngood.tools/*
 *://*.echo.win/*
 *://*.aigirlfriend.wtf/*
+*://*.ai.google/*
 
 
 ! Google Play/Apple AI applications
