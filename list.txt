@@ -716,6 +716,8 @@ google.com,duckduckgo.com,bing.com##a[href*="pornstars.ai"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="aiexotic.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nudeai.de"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nudeai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="celebjihad.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="soulfun.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! //// Block lists of individual users
