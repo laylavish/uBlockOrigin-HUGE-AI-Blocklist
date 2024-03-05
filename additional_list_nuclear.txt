@@ -1,3 +1,12 @@
+! Title: NUCLEAR AI Blocklist
+! Expires: 1 day
+! Description: A blocklist of sites that contain a mix of both AI generated content and authentic imagery, for uBlock Origin.
+! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+!
+! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+! Feel free to fork and submit pr's if you find more sites 
+
 ! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork)
 
 google.com,duckduckgo.com,bing.com##a[href*="stock.adobe.com"]:upward(div):style(opacity:0.00!important;)
