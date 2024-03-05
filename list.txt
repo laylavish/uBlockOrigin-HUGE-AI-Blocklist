@@ -1129,6 +1129,11 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/user/AIContent"]:upward(
 
 ! // Amazon shit
 google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/dp/B0C47SW6NT"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Cat-Coloring-Book-Wearing-Scarves/dp/B0CVTYD34P"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Easter-Rabbit-Coloring-Book-Lovers/dp/B0CVVJQP39"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Squirrel-Coloring-Book-Squirrels-Lovers/dp/B0CVHLGJS8"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Rabbit-Coloring-Book-Rabbits-Lovers/dp/B0CV43GKGZ"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Cat-Coloring-Book-Cats-Windows/dp/B0CVLFSSGC"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // AI content farms
