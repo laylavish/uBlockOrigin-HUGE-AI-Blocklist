@@ -387,6 +387,7 @@
 *://*.stablediffusionaigenerator.com/*
 *://*.7mmblog.com/*
 *://*.dreamsofbooks.com/*
+*://*.conservationcubclub.com/*
 
 
 ! Sites that have .art domain extentions
