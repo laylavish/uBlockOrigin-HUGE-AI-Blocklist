@@ -950,6 +950,7 @@ google.com,duckduckgo.com,bing.com##a[href*="artstation.com/tryintogetthere"]:up
 ! Block list of AI "artists"/orgs (facebook)
 google.com,duckduckgo.com,bing.com##a[href*="m.facebook.com/cuteanimegirl99"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="facebook.com/cuteanimegirl99"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="facebook.com/TheTiniestTiger"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Artstation shit
