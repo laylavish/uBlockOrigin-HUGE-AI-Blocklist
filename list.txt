@@ -1,3 +1,12 @@
+! Title: Huge AI Blocklist
+! Expires: 1 day
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+!
+! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+! Feel free to fork and submit pr's if you find more sites 
+
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extentions
