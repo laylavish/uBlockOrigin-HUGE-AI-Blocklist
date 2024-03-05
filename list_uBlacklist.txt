@@ -942,6 +942,7 @@
 ! Block list of AI "artists"/orgs (facebook)
 *://*.m.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/cuteanimegirl99/*
+*://*.facebook.com/TheTiniestTiger/*
 
 
 ! Artstation shit
