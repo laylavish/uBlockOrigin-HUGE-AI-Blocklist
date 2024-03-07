@@ -230,6 +230,7 @@
 *://*.mirrorize.ai/*
 *://*.anakin.ai/*
 *://*.ideogram.ai/*
+*://*.2moons.ai/*
 
 
 ! Sites that have .com domain extentions
@@ -933,6 +934,7 @@
 *://*.deviantart.com/zkreations/*
 *://*.deviantart.com/darkprncsai/*
 *://*.deviantart.com/dendyh7/*
+*://*.deviantart.com/jaredsyn/*
 
 
 ! Block list of AI "artists"/orgs (artstation)
