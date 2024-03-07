@@ -239,6 +239,7 @@ google.com,duckduckgo.com,bing.com##a[href*="pandorasbox.ai"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="mirrorize.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="anakin.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ideogram.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="2moons.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extentions
@@ -941,6 +942,7 @@ google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/allbeautifulgirl"]:u
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/zkreations"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/darkprncsai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/dendyh7"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/jaredsyn"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
