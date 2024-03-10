@@ -1120,6 +1120,10 @@
 !// Reddit shit placeholder
 
 
+! // Pixels
+*://*.pixels.com/profiles/lm2kone/*
+*://*.pixels.com/featured/beautiful-chinese-dragon-lmzkone-narciso/*
+
 ! // Amazon shit
 *://*.amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/*
 *://*.amazon.com/Cat-Coloring-Book-Wearing-Scarves/dp/B0CVTYD34P/*
