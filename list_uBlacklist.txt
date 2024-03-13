@@ -729,6 +729,14 @@
 *://*.celebjihad.com/*
 *://*.soulfun.ai/*
 *://*.ainude.ai/*
+*://*.nudefusion.com/*
+*://*.undress.app/*
+*://*.pixelmaniya.com/*
+*://*.undressai.com/*
+*://*.ainude.porn/*
+*://*.nudify-her.com/*
+*://*.nudes.ai/*
+*://*.deepnude-ai.com/*
 
 
 ! //// Block lists of individual users
