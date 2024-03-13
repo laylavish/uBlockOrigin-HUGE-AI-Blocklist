@@ -10,7 +10,7 @@
 *://*.artsi.ai/*
 *://*.getimg.ai/*
 *://*.zmo.ai/*
-*://*.opendream.ai/*
+*://*.dream.ai/*
 *://*.arthub.ai/*
 *://*.opendream.ai/*
 *://*.wallpapers.ai/*
@@ -324,7 +324,7 @@
 *://*.ai-fantasy-art.com/*
 *://*.findmyaitool.com/*
 *://*.https://cloe.bytebeacon.com/@bb_ras/*
-*://*.adobe.com/products/firefly.html/*
+*://*.adobe.com/products/firefly/*
 *://*.adobe.com/ca/products/firefly/*
 *://*.adobe.com/uk/products/firefly/*
 *://*.portraitai.com/*
@@ -389,6 +389,12 @@
 *://*.7mmblog.com/*
 *://*.dreamsofbooks.com/*
 *://*.conservationcubclub.com/*
+*://*.easywithai.com/*
+*://*.future-pedia.com/*
+*://*.pixai.com/*
+*://*.canva.com/ai-art-generator/*
+*://*.picsart.com/ai-image-generator/*
+*://*.magicstudio.com/*
 
 
 ! Sites that have .art domain extentions
@@ -486,6 +492,8 @@
 *://*.bloomoon.art/*
 *://*.bashable.art/*
 *://*.assetsai.art/*
+*://*.liblib.art/*
+
 
 
 ! Sites that have .co domain extention
@@ -541,6 +549,7 @@
 *://*.teacherbot.io/*
 *://*.latitude.io/*
 *://*.ggpredict.io/*
+*://*.artimator.io/*
 *://*.memo.tv/*
 *://*.quasi.market/*
 *://*.diffusion.land/*
@@ -1109,6 +1118,7 @@
 *://*.reddit.com/r/Ai_and_Digital_arts/*
 *://*.reddit.com/r/AiHentaiArtwork/*
 *://*.reddit.com/r/singularity/*
+*://*.reddit.com/r/Pixai_Official/*
 
 
 ! // Block list of AI reddit users
