@@ -19,7 +19,7 @@ google.com,duckduckgo.com,bing.com##a[href*="artguru.ai"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="artsi.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="getimg.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="zmo.ai"]:upward(div):style(opacity:0.00!important;)
-google.com,duckduckgo.com,bing.com##a[href*="opendream.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="dream.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="arthub.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="opendream.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="wallpapers.ai"]:upward(div):style(opacity:0.00!important;)
@@ -333,7 +333,7 @@ google.com,duckduckgo.com,bing.com##a[href*="pica-ai.com"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="ai-fantasy-art.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="findmyaitool.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="https://cloe.bytebeacon.com/@bb_ras"]:upward(div):style(opacity:0.00!important;)
-google.com,duckduckgo.com,bing.com##a[href*="adobe.com/products/firefly.html"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="adobe.com/products/firefly"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="adobe.com/ca/products/firefly"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="adobe.com/uk/products/firefly"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="portraitai.com"]:upward(div):style(opacity:0.00!important;)
@@ -399,6 +399,12 @@ google.com,duckduckgo.com,bing.com##a[href*="7mmblog.com"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="pfptown.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="dreamsofbooks.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="conservationcubclub.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="easywithai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="future-pedia.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pixai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="canva.com/ai-art-generator"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="picsart.com/ai-image-generator"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="magicstudio.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extentions
@@ -496,6 +502,7 @@ google.com,duckduckgo.com,bing.com##a[href*="pictureit.art"]:upward(div):style(o
 google.com,duckduckgo.com,bing.com##a[href*="bloomoon.art"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bashable.art"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="assetsai.art"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="liblib.art"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .co domain extention
@@ -551,6 +558,7 @@ google.com,duckduckgo.com,bing.com##a[href*="lorro.io"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="teacherbot.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="latitude.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ggpredict.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="artimator.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="memo.tv"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="quasi.market"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="diffusion.land"]:upward(div):style(opacity:0.00!important;)
@@ -1118,6 +1126,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/AiUncensored"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/Ai_and_Digital_arts"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/AiHentaiArtwork"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/singularity"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/Pixai_Official"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
