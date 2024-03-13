@@ -728,6 +728,7 @@
 *://*.nudeai.com/*
 *://*.celebjihad.com/*
 *://*.soulfun.ai/*
+*://*.ainude.ai/*
 
 
 ! //// Block lists of individual users
