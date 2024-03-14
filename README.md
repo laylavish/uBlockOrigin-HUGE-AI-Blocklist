@@ -1,5 +1,5 @@
 # uBlockOrigin & uBlacklist Huge AI Blocklist
-A huge blocklist of sites (~850) that contain AI generated content, for the purposes of cleaning image search engines (Google Image Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist.
+A huge blocklist of sites (~850) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist.
 
 
 
