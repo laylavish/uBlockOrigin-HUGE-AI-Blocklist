@@ -1191,5 +1191,8 @@ google.com,duckduckgo.com,bing.com##div>a:has-text(/niji/i):upward(div):style(op
 google.com,duckduckgo.com,bing.com##div>a:has-text(/SDXL/i):upward(div):style(opacity:0!important)
 google.com,duckduckgo.com,bing.com##div>a:has-text(/ai generated/i):upward(div):style(opacity:0!important)
 google.com,duckduckgo.com,bing.com##div>a:has-text(/text image synthesis/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/aiart/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/AI illustration/i):upward(div):style(opacity:0!important)
+
 
 
