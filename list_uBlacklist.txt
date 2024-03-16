@@ -231,6 +231,7 @@
 *://*.anakin.ai/*
 *://*.ideogram.ai/*
 *://*.2moons.ai/*
+*://*.alignmentlab.ai/*
 
 
 ! Sites that have .com domain extentions
@@ -811,6 +812,8 @@
 *://*.x.com/ver_AI_/*
 *://*.twitter.com/ObeyAiArt/*
 *://*.x.com/ObeyAiArt/*
+*://*.twitter.com/alignment_lab/*
+*://*.x.com/alignment_lab/*
 
 
 
