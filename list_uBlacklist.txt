@@ -814,6 +814,8 @@
 *://*.x.com/ObeyAiArt/*
 *://*.twitter.com/alignment_lab/*
 *://*.x.com/alignment_lab/*
+*://*.twitter.com/EMostaque/*
+*://*.x.com/EMostaque/*
 
 
 
