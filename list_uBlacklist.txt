@@ -611,6 +611,7 @@
 *://*.echo.win/*
 *://*.aigirlfriend.wtf/*
 *://*.ai.google/*
+*://*.olafjeziorski.pl/*
 
 
 ! Google Play/Apple AI applications
