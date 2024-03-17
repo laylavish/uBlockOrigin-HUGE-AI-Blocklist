@@ -38,3 +38,4 @@
 *://*.abposters.com/*
 *://*.posterlounge.com/*
 *://*.uhdpaper.com/*
+*://*.wallhere.com/*
