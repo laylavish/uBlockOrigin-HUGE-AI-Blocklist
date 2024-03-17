@@ -71,23 +71,23 @@ In order to use the **Nuclear** list, do the same steps that you did in the sect
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
 ```
 
-## Whitelisting sites
-If you find that you don't like a certain website being blocked, you can create a whitelist in your own personal uBlock Origin or uBlacklist filter list. Here's how to do it.
+## Allowlisting sites
+If you find that you don't like a certain website being blocked, you can create an allowlist in your own personal uBlock Origin or uBlacklist filter list. Here's how to do it.
 
 ### For uBlock Origin:
 1. Toggle the [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector) `</>` through uBlock Origin's [logger](https://github.com/gorhill/uBlock/wiki/The-logger).
-2. Locate the url you want to whitelist.
+2. Locate the url you want to allowlist.
 3. Click on the filter you want to disable (eg. vecteezy.com); it should then be crossed out.
 4. Then press the save icon, then the "Create" button.
 
-Boom! Now it's whitelisted!
+Boom! Now it's allowlisted!
 
 Or, if you don't want to go through that mumbo-jumbo, add this line in your filter list: 
 ```
 #@#a[href*="example.com"]:upward(div):style(opacity:0.00!important;)
 ```
 
-Change "example.com" to the url you want to whitelist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
+Change "example.com" to the url you want to allowlist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
 
 ### For uBlacklist:
 1. Enter uBlacklist's options panel. 
@@ -95,7 +95,7 @@ Change "example.com" to the url you want to whitelist. Copy & paste that in uBlo
 ```
 @*://*.example.com/*
 ```
-3. Change "example.com" to a website you want whitelisted. 
+3. Change "example.com" to a website you want allowlisted. 
 4. Click save. Done!
 
 
