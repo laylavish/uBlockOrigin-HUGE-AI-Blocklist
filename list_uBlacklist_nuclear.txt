@@ -37,3 +37,4 @@
 *://*.gettywallpapers.com/*
 *://*.abposters.com/*
 *://*.posterlounge.com/*
+*://*.uhdpaper.com/*
