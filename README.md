@@ -5,7 +5,7 @@ A huge blocklist of sites (~850) that contain AI generated content, for the purp
 
 ## How to install the blocklist (uBlock Origin)
 
-1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (works on Android too!).
+1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (works on Android too!).
 
 2. Click on the uBlock Origin Extension, and in the bottom right, there is a cog-wheel symbol--named the dashboard. Click it.
 
@@ -31,7 +31,7 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 ## How to install the blocklist (uBlacklist)
 
-1. Make sure that you have the uBlacklist extension for [firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/), [chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), or any browser that supports uBlacklist (works on Android too!).
+1. Make sure that you have the uBlacklist extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/), [Chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), or any browser that supports uBlacklist (works on Android too!).
 
 2. Click on your extensions list, select uBlacklist, then click on the "options" text, highlighted in blue.
 > This will take you to the uBlacklist options panel, similar to the Dashboard in uBlock Origin
