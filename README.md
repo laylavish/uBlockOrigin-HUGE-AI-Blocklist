@@ -5,22 +5,22 @@ A huge blocklist of sites (~850) that contain AI generated content, for the purp
 
 ## How to install the blocklist (uBlock Origin)
 
-1. Make sure that you have the uBlock Origin Extension for [firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (works on Android too!).
+1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (works on Android too!).
 
 2. Click on the uBlock Origin Extension, and in the bottom right, there is a cog-wheel symbol--named the dashboard. Click it.
 
-3. Once you are in the dashboard, look towards the top. Click on the tab that says "Filter lists"
+3. Once you are in the dashboard, look towards the top. Click on the tab that says "Filter lists".
 
 4. Look towards the bottom, and expand the ```Import``` button.
 
-5. Copy and paste this url into the dialogue box: 
+5. Copy and paste this URL into the dialogue box: 
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
 ```
 
-6. Apply changes, and your set!
+6. Apply changes, and you're set!
 
-A video guide on how to do this is available, as well:
+A video guide on how to do this is available as well:
 
 https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/assets/128162304/7b8810dc-ce87-4cdc-8b5a-95dc5b0f56c3
 
@@ -38,7 +38,7 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 3. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
 
-4. Give a name for the added blocklist. (eg. Main AI blocklist)
+4. Give a name for the added blocklist (eg. Main AI blocklist).
   
 5. Copy and paste this url 
 ```
@@ -53,7 +53,7 @@ into the "URL" part of the dialogue box, then press the blue "Add" button.
 
 ## Additional list(s)
 
-As of right now, there are two lists. The main default list, and the nuclear list. 
+As of right now, there are two lists. The main default list, and the nuclear list.
 
 The nuclear list has sites that contain a mix of authentic and AI generated imagery (eg. DeviantArt, Artstation, Stock Photography sites, etc), which make it tricky to outright block in the main filter list, so I've designated it to a separate list that you can toggle on and off if you so desire.
 
@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 ```
 
 ### uBlacklist
-In order to use the **Nuclear** list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other url, use:
+In order to use the **Nuclear** list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other URL, use:
 
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
@@ -76,9 +76,9 @@ If you find that you don't like a certain website being blocked, you can create 
 
 ### For uBlock Origin:
 1. Toggle the [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector) `</>` through uBlock Origin's [logger](https://github.com/gorhill/uBlock/wiki/The-logger).
-2. Locate the url you want to allowlist.
+2. Locate the URL you want to allowlist.
 3. Click on the filter you want to disable (eg. vecteezy.com); it should then be crossed out.
-4. Then press the save icon, then the "Create" button.
+4. Press the save icon, then the "Create" button.
 
 Boom! Now it's allowlisted!
 
@@ -87,7 +87,9 @@ Or, if you don't want to go through that mumbo-jumbo, add this line in your filt
 #@#a[href*="example.com"]:upward(div):style(opacity:0.00!important;)
 ```
 
-Change "example.com" to the url you want to allowlist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
+
+Change "example.com" to the URL you want to allowlist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
+
 
 ### For uBlacklist:
 1. Enter uBlacklist's options panel. 
@@ -100,9 +102,9 @@ Change "example.com" to the url you want to allowlist. Copy & paste that in uBlo
 
 
 ## What is the difference between uBlock Origin and uBlacklist implementations?
-uBlock Origin's implementation is technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods. 
+uBlock Origin's implementation is technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods.
 
-uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your image search results, you will not be able to scroll any father then the first 6 rows of images (seems to be exclusive to Google Images).
+uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your image search results, you will not be able to scroll any further than the first 6 rows of images (seems to be exclusive to Google Images).
 
 Although the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklist's part).
 
