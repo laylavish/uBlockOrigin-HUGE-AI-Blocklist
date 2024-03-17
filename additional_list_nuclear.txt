@@ -46,3 +46,4 @@ google.com,duckduckgo.com,bing.com##a[href*="gachax.com/anime"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="gettywallpapers.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="abposters.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="posterlounge.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="uhdpaper.com"]:upward(div):style(opacity:0.00!important;)
