@@ -620,6 +620,7 @@ google.com,duckduckgo.com,bing.com##a[href*="damngood.tools"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="echo.win"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aigirlfriend.wtf"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ai.google"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="olafjeziorski.pl"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play/Apple AI applications
