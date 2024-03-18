@@ -238,7 +238,6 @@
 *://*.hayo.com/*
 *://*.yodayo.com/*
 *://*.stable-diffusion-art.com/*
-*://*.medium.com/generative-ai//*
 *://*.prompthero.com/*
 *://*.civitai.com/*
 *://*.aituts.com/*
@@ -278,7 +277,6 @@
 *://*.virtulook.wondershare.com/*
 *://*.technolynx.com/*
 *://*.segmind.com/*
-*://*.medium.com/generative-ai//*
 *://*.sarahmeyohas.com/*
 *://*.davidarielszauder.com/*
 *://*.sarahmeyohas.com/*
@@ -324,10 +322,7 @@
 *://*.pica-ai.com/*
 *://*.ai-fantasy-art.com/*
 *://*.findmyaitool.com/*
-*://*.https://cloe.bytebeacon.com/@bb_ras/*
-*://*.adobe.com/products/firefly/*
-*://*.adobe.com/ca/products/firefly/*
-*://*.adobe.com/uk/products/firefly/*
+*://*.cloe.bytebeacon.com/@bb_ras/*
 *://*.portraitai.com/*
 *://*.dall-efree.com/*
 *://*.dopaminegirl.com/*
@@ -344,7 +339,6 @@
 *://*.problembo.com/*
 *://*.cloudbooklet.com/*
 *://*.kawaiiai.com/*
-*://*.dalle2.tumblr.com/*
 *://*.pixlr.com/*
 *://*.curiousrefuge.com/*
 *://*.promeai.com/*
@@ -614,7 +608,7 @@
 *://*.olafjeziorski.pl/*
 
 
-! Google Play/Apple AI applications
+! Google Play AI applications
 *://*.play.google.com/store/apps/details?id=com.sola.anime.ai.generator/*
 *://*.play.google.com/store/apps/details?id=com.vyroai.animeart/*
 *://*.play.google.com/store/apps/details?id=ai.art.anime/*
@@ -633,9 +627,12 @@
 *://*.play.google.com/store/apps/details?id=com.supono.dalleaigenerator/*
 *://*.play.google.com/store/apps/details?id=lava.aesthetic.art.anime.wallpapers.com/*
 *://*.play.google.com/store/apps/details?id=anime.wallpapers4k.offline/*
-*://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
 *://*.play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique/*
 *://*.play.google.com/store/apps/details?id=ai.art.generator.design/*
+
+
+! Apple AI applications
+*://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
 
 
 ! Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
@@ -745,9 +742,13 @@
 
 ! Block list of AI "artists"/orgs (twitter)
 *://*.x.com/ew_corpse/*
+*://*.twitter.com/ew_corpse/*
 *://*.x.com/TimChia83/*
+*://*.twitter.com/TimChia83/*
 *://*.x.com/LearnAI_MJ/*
+*://*.twitter.com/LearnAI_MJ/*
 *://*.x.com/ai_insights_lab/*
+*://*.twitter.com/ai_insights_lab/*
 *://*.x.com/Lykon4072/*
 *://*.twitter.com/Lykon4072/*
 *://*.x.com/LeonardoAi_/*
@@ -819,8 +820,6 @@
 *://*.x.com/EMostaque/*
 
 
-
-
 ! Block list of AI "artists"/orgs (youtube)
 *://*.youtube.com/@shadiversity/*
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
@@ -851,7 +850,7 @@
 *://*.instagram.com/reel/*
 *://*.instagram.com/hirokazu_yokohara/*
 *://*.instagram.com/blxck.ai/*
-*://*.castorai430/*
+*://*.instagram.com/castorai430/*
 *://*.instagram.com/ai_chan_neuroart/*
 *://*.instagram.com/nickocreates.ai/*
 *://*.instagram.com/innadakota.anime/*
@@ -966,7 +965,7 @@
 
 
 ! Block list of AI "artists"/orgs (facebook)
-*://*.m.facebook.com/cuteanimegirl99/*
+*://*.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/TheTiniestTiger/*
 
@@ -1003,45 +1002,7 @@
 *://*.medium.com/@inchristiely/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/mlearning-ai/*
-
-
-! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork)
-
-*://*.stock.adobe.com/*
-*://*.artmajeur.com/*
-*://*.artpal.com/*
-*://*.freepik.com/*
-*://*.shutterstock.com/*
-*://*.redbubble.com/*
-*://*.3tdesign.edu.vn/*
-! *://*.artstation.com/*
-! *://*.deviantart.com/*
-! *://*.alamy.com/*
-*://*.vecteezy.com/*
-*://*.pixabay.com/*
-*://*.dreamstime.com/*
-*://*.pngtree.com/*
-! *://*.peakpx.com.com/*
-*://*.lunarmimi.net/*
-! *://*.displate.com/*
-! *://*.pinterest.com/*
-! *://*.etsy.com/*
-*://*.123rf.com/*
-*://*.creativefabrica.com/*
-*://*.vanasplus.com/*
-*://*.downgraf.com/*
-! *://*.pinterest.com/*
-*://*.pinterest.com/Sereneshell/*
-*://*.uxdesign.cc/*
-*://*.thehungryjpeg.com/*
-*://*.gachax.com/anime/*
-*://*.abposters.com/*
-*://*.thirstymag.com/*
-*://*.reddit.com/r/CatgirlSFW/*
-*://*.kemono.su/*
-*://*.kemono.party/*
-*://*.alphacoders.com/*
-*://*.medium.com/*
+*://*.medium.com/generative-ai/*
 
 
 ! // Miscellaneous crypto/nft shit
@@ -1064,6 +1025,11 @@
 *://*.pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/*
 *://*.pinterest.com/pin/mulher-fatal/*
 *://*.pinterest.com/pin/563018696976219/*
+
+
+! // Adobe shit
+*://*.adobe.com/products/firefly/*
+*://*.adobe.com/*/products/firefly/*
 
 
 ! // Individual Adobe Stock shit
@@ -1145,6 +1111,10 @@
 !// Reddit shit placeholder
 
 
+!// Tumblr shit
+*://*.dalle2.tumblr.com/*
+
+
 ! // Pixels
 *://*.pixels.com/profiles/lm2kone/*
 *://*.pixels.com/featured/beautiful-chinese-dragon-lmzkone-narciso/*
@@ -1164,10 +1134,11 @@
 *://*.outsourceit.today/*
 *://*.metaroids.com/*
 *://*.90creators.com/*
+*://*.gachax.com/anime/*
 
 
 ! // VoiceMod shit 
-*://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb*
+*://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb
 
 
 ! // Getty Wallpapers
