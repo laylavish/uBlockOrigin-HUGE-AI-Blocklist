@@ -2,8 +2,13 @@
 A huge blocklist of sites (~850) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist.
 
 
-
 ## How to install the blocklist (uBlock Origin)
+
+### Click and import
+
+If you have uBlock Origin installed, just click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist.txt&title=Sites%20using%20AI%20generated%20content) to import the filter list into any popular ad blocker (including uBlock Origin)!
+
+### Import manually
 
 1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (works on Android too!).
 
