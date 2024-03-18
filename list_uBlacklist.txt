@@ -1150,12 +1150,12 @@
 *://*.pixels.com/featured/beautiful-chinese-dragon-lmzkone-narciso/*
 
 ! // Amazon shit
-*://*.amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/*
-*://*.amazon.com/Cat-Coloring-Book-Wearing-Scarves/dp/B0CVTYD34P/*
-*://*.amazon.com/Easter-Rabbit-Coloring-Book-Lovers/dp/B0CVVJQP39/*
-*://*.amazon.com/Rabbit-Coloring-Book-Rabbits-Lovers/dp/B0CV43GKGZ/*
-*://*.amazon.com/Cat-Coloring-Book-Cats-Windows/dp/B0CVLFSSGC/*
-*://*.amazon.com/Squirrel-Coloring-Book-Squirrels-Lovers/dp/B0CVHLGJS8/*
+*://*.amazon.*/Cute-Anime-Girls-Fantasy-Inspired-Characters/*
+*://*.amazon.*/*/dp/B0CVTYD34P/*
+*://*.amazon.*/*/dp/B0CVVJQP39/*
+*://*.amazon.*/*/dp/B0CV43GKGZ/*
+*://*.amazon.*/*/dp/B0CVLFSSGC/*
+*://*.amazon.*/*/dp/B0CVHLGJS8/*
 
 
 ! // AI content farms
