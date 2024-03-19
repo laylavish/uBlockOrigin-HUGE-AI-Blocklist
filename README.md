@@ -4,9 +4,9 @@ A huge blocklist of sites (~850) that contain AI generated content, for the purp
 
 ## How to install the blocklist (uBlock Origin)
 
-### Click and import
+### One-click filter import
 
-If you have uBlock Origin installed, just click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist.txt&title=Sites%20using%20AI%20generated%20content) to import the filter list into any popular ad blocker (including uBlock Origin)!
+If you have uBlock Origin installed, click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist.txt&title=Sites%20using%20AI%20generated%20content) to import the filter list in just a click! Quick and simple.
 
 ### Import manually
 
