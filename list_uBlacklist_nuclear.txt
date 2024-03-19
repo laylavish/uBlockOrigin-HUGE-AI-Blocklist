@@ -19,23 +19,31 @@
 *://*.displate.com/*
 *://*.inprnt.com/*
 *://*.europosters.eu/*
-*://*.pinterest.com/*
 *://*.etsy.com/*
 *://*.123rf.com/*
 *://*.creativefabrica.com/*
 *://*.vanasplus.com/*
 *://*.downgraf.com/*
-*://*.pinterest.com/*
-*://*.pinterest.com/Sereneshell/*
 *://*.uxdesign.cc/*
 *://*.geekysweetie.com/*
-*://*.reddit.com/r/100Kanojo/*
 *://*.medium.com/*
 *://*.imgchest.com/*
 *://*.pixels.com/*
-*://*.gachax.com/anime/*
 *://*.gettywallpapers.com/*
 *://*.abposters.com/*
 *://*.posterlounge.com/*
 *://*.uhdpaper.com/*
 *://*.wallhere.com/*
+*://*.thehungryjpeg.com/*
+*://*.thirstymag.com/*
+*://*.kemono.su/*
+*://*.kemono.party/*
+*://*.alphacoders.com/*
+
+! //// Subreddits
+*://*.reddit.com/r/CatgirlSFW/*
+*://*.reddit.com/r/100Kanojo/*
+
+! //// Pinterest
+*://*.pinterest.com/*
+*://*.pinterest.com/Sereneshell/*
