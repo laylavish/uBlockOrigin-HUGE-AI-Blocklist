@@ -1,6 +1,6 @@
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
-! Sites that have .ai domain extentions
+# Sites that have .ai domain extentions
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
 *://*.plugger.ai/*
