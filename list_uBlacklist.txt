@@ -819,6 +819,8 @@
 *://*.x.com/alignment_lab/*
 *://*.twitter.com/EMostaque/*
 *://*.x.com/EMostaque/*
+*://*.twitter.com/DeviantArt/*
+*://*.x.com/DeviantArt/*
 
 
 # Block list of AI "artists"/orgs (youtube)
