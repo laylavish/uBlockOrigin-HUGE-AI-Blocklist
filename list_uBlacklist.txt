@@ -1,6 +1,6 @@
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
-# Sites that have .ai domain extentions
+# Sites that have .ai domain extension
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
 *://*.plugger.ai/*
@@ -234,7 +234,7 @@
 *://*.alignmentlab.ai/*
 
 
-# Sites that have .com domain extentions
+# Sites that have .com domain extension
 *://*.hayo.com/*
 *://*.yodayo.com/*
 *://*.stable-diffusion-art.com/*
@@ -392,7 +392,7 @@
 *://*.magicstudio.com/*
 
 
-# Sites that have .art domain extentions
+# Sites that have .art domain extension
 *://*.imagine.art/*
 *://*.jasper.art/*
 *://*.artgeneratorai.art/*
@@ -491,7 +491,7 @@
 
 
 
-# Sites that have .co domain extention
+# Sites that have .co domain extension
 *://*.huggingface.co/*
 *://*.clipdrop.co/*
 *://*.postalai.co/*
@@ -509,7 +509,7 @@
 *://*.hiddendoor.co/*
 
 
-# Sites that have .net domain extention
+# Sites that have .net domain extension
 *://*.illusiondiffusion.net/*
 *://*.kreaai.net/*
 *://*.nicepixels.net/*

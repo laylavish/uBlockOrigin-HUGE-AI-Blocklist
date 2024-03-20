@@ -9,7 +9,7 @@
 
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
-! Sites that have .ai domain extentions
+! Sites that have .ai domain extension
 google.com,duckduckgo.com,bing.com##a[href*="animegenius.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="artvy.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="plugger.ai"]:upward(div):style(opacity:0.00!important;)
@@ -243,7 +243,7 @@ google.com,duckduckgo.com,bing.com##a[href*="2moons.ai"]:upward(div):style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="alignmentlab.ai"]:upward(div):style(opacity:0.00!important;)
 
 
-! Sites that have .com domain extentions
+! Sites that have .com domain extension
 google.com,duckduckgo.com,bing.com##a[href*="hayo.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="yodayo.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stable-diffusion-art.com"]:upward(div):style(opacity:0.00!important;)
@@ -402,7 +402,7 @@ google.com,duckduckgo.com,bing.com##a[href*="picsart.com/ai-image-generator"]:up
 google.com,duckduckgo.com,bing.com##a[href*="magicstudio.com"]:upward(div):style(opacity:0.00!important;)
 
 
-! Sites that have .art domain extentions
+! Sites that have .art domain extension
 google.com,duckduckgo.com,bing.com##a[href*="imagine.art"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="jasper.art"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="artgeneratorai.art"]:upward(div):style(opacity:0.00!important;)
@@ -500,7 +500,7 @@ google.com,duckduckgo.com,bing.com##a[href*="assetsai.art"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="liblib.art"]:upward(div):style(opacity:0.00!important;)
 
 
-! Sites that have .co domain extention
+! Sites that have .co domain extension
 google.com,duckduckgo.com,bing.com##a[href*="huggingface.co"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="clipdrop.co"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="postalai.co"]:upward(div):style(opacity:0.00!important;)
@@ -518,7 +518,7 @@ google.com,duckduckgo.com,bing.com##a[href*="superreply.co"]:upward(div):style(o
 google.com,duckduckgo.com,bing.com##a[href*="hiddendoor.co"]:upward(div):style(opacity:0.00!important;)
 
 
-! Sites that have .net domain extention
+! Sites that have .net domain extension
 google.com,duckduckgo.com,bing.com##a[href*="illusiondiffusion.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="kreaai.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nicepixels.net"]:upward(div):style(opacity:0.00!important;)
