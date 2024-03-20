@@ -111,7 +111,7 @@ uBlock Origin's implementation is technically superior, as it allows you to cont
 
 uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your image search results, you will not be able to scroll any further than the first 6 rows of images (seems to be exclusive to Google Images).
 
-Although the latter is inferrior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklist's part).
+Although the latter is inferior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklist's part).
 
 ## What if you want to go even further beyond?
 
