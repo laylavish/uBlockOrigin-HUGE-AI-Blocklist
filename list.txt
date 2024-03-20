@@ -828,6 +828,8 @@ google.com,duckduckgo.com,bing.com##a[href*="twitter.com/alignment_lab"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="x.com/alignment_lab"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/EMostaque"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/EMostaque"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/deviantart"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/deviantart"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
