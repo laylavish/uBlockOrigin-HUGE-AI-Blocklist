@@ -39,6 +39,7 @@
 *://*.kemono.su/*
 *://*.kemono.party/*
 *://*.alphacoders.com/*
+*://*.rollingpress.co.ke/*
 
 # //// Subreddits
 *://*.reddit.com/r/CatgirlSFW/*
