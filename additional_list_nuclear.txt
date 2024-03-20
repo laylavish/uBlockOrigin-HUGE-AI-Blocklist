@@ -53,6 +53,7 @@ google.com,duckduckgo.com,bing.com##a[href*="thirstymag.com"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="kemono.su"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="kemono.party"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="alphacoders.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="rollingpress.co.ke"]:upward(div):style(opacity:0.00!important;)
 
 ! // Subreddits
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/CatgirlSFW"]:upward(div):style(opacity:0.00!important;)
