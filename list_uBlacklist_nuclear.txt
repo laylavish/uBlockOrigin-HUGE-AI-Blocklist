@@ -40,10 +40,10 @@
 *://*.kemono.party/*
 *://*.alphacoders.com/*
 
-! //// Subreddits
+# //// Subreddits
 *://*.reddit.com/r/CatgirlSFW/*
 *://*.reddit.com/r/100Kanojo/*
 
-! //// Pinterest
+# //// Pinterest
 *://*.pinterest.com/*
 *://*.pinterest.com/Sereneshell/*
