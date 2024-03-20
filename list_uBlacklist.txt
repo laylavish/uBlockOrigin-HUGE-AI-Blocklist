@@ -606,6 +606,7 @@
 *://*.aigirlfriend.wtf/*
 *://*.ai.google/*
 *://*.olafjeziorski.pl/*
+*://*.otasarimciol.shop/*
 
 
 # Google Play AI applications
