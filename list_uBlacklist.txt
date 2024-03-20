@@ -274,7 +274,7 @@
 *://*.starryai.com/*
 *://*.img2go.com/*
 *://*.shruggingface.com/*
-*://*.virtulook.wondershare.com/*
+*://*.wondershare.com/*
 *://*.technolynx.com/*
 *://*.segmind.com/*
 *://*.sarahmeyohas.com/*
