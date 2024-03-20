@@ -1,4 +1,4 @@
-!//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
+#//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extentions
 *://*.animegenius.ai/*
@@ -234,7 +234,7 @@
 *://*.alignmentlab.ai/*
 
 
-! Sites that have .com domain extentions
+# Sites that have .com domain extentions
 *://*.hayo.com/*
 *://*.yodayo.com/*
 *://*.stable-diffusion-art.com/*
@@ -392,7 +392,7 @@
 *://*.magicstudio.com/*
 
 
-! Sites that have .art domain extentions
+# Sites that have .art domain extentions
 *://*.imagine.art/*
 *://*.jasper.art/*
 *://*.artgeneratorai.art/*
@@ -491,7 +491,7 @@
 
 
 
-! Sites that have .co domain extention
+# Sites that have .co domain extention
 *://*.huggingface.co/*
 *://*.clipdrop.co/*
 *://*.postalai.co/*
@@ -509,7 +509,7 @@
 *://*.hiddendoor.co/*
 
 
-! Sites that have .net domain extention
+# Sites that have .net domain extention
 *://*.illusiondiffusion.net/*
 *://*.kreaai.net/*
 *://*.nicepixels.net/*
@@ -520,7 +520,7 @@
 *://*.promptpal.net/*
 
 
-! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+# Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
 *://*.transpic.cn/*
 *://*.sticky.cool/*
 *://*.live3d.io/*
@@ -608,7 +608,7 @@
 *://*.olafjeziorski.pl/*
 
 
-! Google Play AI applications
+# Google Play AI applications
 *://*.play.google.com/store/apps/details?id=com.sola.anime.ai.generator/*
 *://*.play.google.com/store/apps/details?id=com.vyroai.animeart/*
 *://*.play.google.com/store/apps/details?id=ai.art.anime/*
@@ -631,11 +631,11 @@
 *://*.play.google.com/store/apps/details?id=ai.art.generator.design/*
 
 
-! Apple AI applications
+# Apple AI applications
 *://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
 
 
-! Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
+# Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
 *://*.sukebezone.com/*
 *://*.fantasygf.ai/*
 *://*.n8ked.app/*
@@ -738,9 +738,9 @@
 *://*.deepnude-ai.com/*
 
 
-! //// Block lists of individual users
+# //// Block lists of individual users
 
-! Block list of AI "artists"/orgs (twitter)
+# Block list of AI "artists"/orgs (twitter)
 *://*.x.com/ew_corpse/*
 *://*.twitter.com/ew_corpse/*
 *://*.x.com/TimChia83/*
@@ -820,7 +820,7 @@
 *://*.x.com/EMostaque/*
 
 
-! Block list of AI "artists"/orgs (youtube)
+# Block list of AI "artists"/orgs (youtube)
 *://*.youtube.com/@shadiversity/*
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
 *://*.youtube.com/@SHAD_AI/*
@@ -832,7 +832,7 @@
 *://*.youtube.com/@OlivioSarikas/*
 
 
-! Block list of AI "artists"/orgs (instagram)
+# Block list of AI "artists"/orgs (instagram)
 *://*.instagram.com/_prateekarora/*
 *://*.instagram.com/xonorika/*
 *://*.instagram.com/slickcityceo/*
@@ -876,7 +876,7 @@
 *://*.instagram.com/wand.official/*
 
 
-! Block list of AI "artists"/orgs (pinterest)
+# Block list of AI "artists"/orgs (pinterest)
 *://*.pinterest.com/warking999999/*
 *://*.pinterest.com/racingtff/*
 *://*.pinterest.com/aquanier2b/*
@@ -939,15 +939,15 @@
 *://*.pinterest.com/fira1747/*
 
 
-! Block list of AI "artists"/orgs (behance)
+# Block list of AI "artists"/orgs (behance)
 *://*.behance.net/oliviosarikas/*
 
 
-! Block list of AI "artists"/orgs (ko-fi)
+# Block list of AI "artists"/orgs (ko-fi)
 *://*.ko-fi.com/ainomad/*
 
 
-! Block list of AI "artists"/orgs (deviantart)
+# Block list of AI "artists"/orgs (deviantart)
 *://*.deviantart.com/vyerran/*
 *://*.deviantart.com/alyskan/*
 *://*.deviantart.com/rasooliartworks/*
@@ -960,25 +960,25 @@
 *://*.deviantart.com/jaredsyn/*
 
 
-! Block list of AI "artists"/orgs (artstation)
+# Block list of AI "artists"/orgs (artstation)
 *://*.artstation.com/tryintogetthere/*
 
 
-! Block list of AI "artists"/orgs (facebook)
+# Block list of AI "artists"/orgs (facebook)
 *://*.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/TheTiniestTiger/*
 
 
-! Artstation shit
+# Artstation shit
 *://*.artstation.com/artwork/KOJ80W/*
 
 
-! s.id garbage
+# s.id garbage
 *://*.s.id/AIArtGaia/*
 
 
-! ko-fi garbage
+# ko-fi garbage
 *://*.ko-fi.com/s/cfcbe64e46/*
 *://*.ko-fi.com/s/0b1ee02cef/*
 *://*.ko-fi.com/s/12dd0f892e/*
@@ -986,7 +986,7 @@
 *://*.ko-fi.com/s/af9a23d375/*
 
 
-! Freepik garbage
+# Freepik garbage
 *://*.freepik.com/premium-ai-image/*
 *://*.freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921/*
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm/*
@@ -994,29 +994,29 @@
 *://*.freepik.com/author/smmstore773/*
 
 
-! Linkedin garbage
+# Linkedin garbage
 *://*.linkedin.com/in/justmaier/*
 
 
-! Medium garbage
+# Medium garbage
 *://*.medium.com/@inchristiely/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/mlearning-ai/*
 *://*.medium.com/generative-ai/*
 
 
-! // Miscellaneous crypto/nft shit
+# // Miscellaneous crypto/nft shit
 *://*.cryptoart.io/*
 *://*.opensea.io/*
 *://*.datadriveninvestor.com/*
 
 
-! // Etsy shit
+# // Etsy shit
 *://*.etsy.com/listing/1458059429/*
 *://*.etsy.com/listing/1368236844/*
 
 
-! // Individual Pinterest shit
+# // Individual Pinterest shit
 *://*.pinterest.com/pin/428053139600411583/*
 *://*.pinterest.com/pin/143130094401282814/*
 *://*.pinterest.com/pin/1041879695027157288//*
@@ -1027,25 +1027,25 @@
 *://*.pinterest.com/pin/563018696976219/*
 
 
-! // Adobe shit
+# // Adobe shit
 *://*.adobe.com/products/firefly/*
 *://*.adobe.com/*/products/firefly/*
 
 
-! // Individual Adobe Stock shit
+# // Individual Adobe Stock shit
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927/*
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986/*
 
 
-! // Individual Artstation shit
+# // Individual Artstation shit
 *://*.artstation.com/artwork/kQZoLA/*
 
 
-! // Fiverr shit
+# // Fiverr shit
 *://*.fiverr.com/bleassome/*
 
 
-! //// Block list of AI subreddits
+# //// Block list of AI subreddits
 *://*.reddit.com/r/StableDiffusion/*
 *://*.reddit.com/r/aiArt/*
 *://*.reddit.com/r/midjourney/*
@@ -1102,24 +1102,24 @@
 *://*.reddit.com/r/Pixai_Official/*
 
 
-! // Block list of AI reddit users
+# // Block list of AI reddit users
 *://*.reddit.com/user/aidaily0/*
 *://*.reddit.com/user/Wyprany/*
 *://*.reddit.com/user/AIContent/*
 
 
-!// Reddit shit placeholder
+#// Reddit shit placeholder
 
 
-!// Tumblr shit
+#// Tumblr shit
 *://*.dalle2.tumblr.com/*
 
 
-! // Pixels
+# // Pixels
 *://*.pixels.com/profiles/lm2kone/*
 *://*.pixels.com/featured/beautiful-chinese-dragon-lmzkone-narciso/*
 
-! // Amazon shit
+# // Amazon shit
 *://*.amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/*
 *://*.amazon.com/Cat-Coloring-Book-Wearing-Scarves/dp/B0CVTYD34P/*
 *://*.amazon.com/Easter-Rabbit-Coloring-Book-Lovers/dp/B0CVVJQP39/*
@@ -1128,7 +1128,7 @@
 *://*.amazon.com/Squirrel-Coloring-Book-Squirrels-Lovers/dp/B0CVHLGJS8/*
 
 
-! // AI content farms
+# // AI content farms
 *://*.boddeswasusi.github.io/*
 *://*.stl24.com/*
 *://*.outsourceit.today/*
@@ -1137,9 +1137,9 @@
 *://*.gachax.com/anime/*
 
 
-! // VoiceMod shit 
+# // VoiceMod shit 
 *://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb
 
 
-! // Getty Wallpapers
+# // Getty Wallpapers
 *://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
