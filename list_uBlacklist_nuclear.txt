@@ -1,4 +1,4 @@
-! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork;)
+# //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork;)
 
 *://*.stock.adobe.com/*
 *://*.artmajeur.com/*
