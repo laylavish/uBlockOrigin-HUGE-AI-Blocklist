@@ -1139,6 +1139,7 @@
 /amazon.+\/.+\/dp\/B0CV43GKGZ/
 /amazon.+\/.+\/dp\/B0CVLFSSGC/
 /amazon.+\/.+\/dp\/B0CVHLGJS8/
+/amazon.+\/.+\/dp\/B0C9S8W4PW/
 
 
 # // AI content farms
