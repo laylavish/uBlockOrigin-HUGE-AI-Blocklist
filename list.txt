@@ -612,6 +612,7 @@ google.com,duckduckgo.com,bing.com##a[href*="aitools.fyi"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="image.computer"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="carboncopy.pro"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aimojo.pro"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pandia.pro"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="damngood.tools"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="echo.win"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aigirlfriend.wtf"]:upward(div):style(opacity:0.00!important;)
