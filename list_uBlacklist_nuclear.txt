@@ -48,3 +48,6 @@
 # //// Pinterest
 *://*.pinterest.com/*
 *://*.pinterest.com/Sereneshell/*
+
+# //// Alternate App Stores
+*://*.cafebazaar.ir/*
