@@ -527,6 +527,7 @@ google.com,duckduckgo.com,bing.com##a[href*="stable-diffusion.net"]:upward(div):
 google.com,duckduckgo.com,bing.com##a[href*="csdn.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="podcastrocket.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptpal.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="novelai.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
