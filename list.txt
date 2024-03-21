@@ -1148,6 +1148,7 @@ google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Easter-Rabbit-Coloring-B
 google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Squirrel-Coloring-Book-Squirrels-Lovers/dp/B0CVHLGJS8"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Rabbit-Coloring-Book-Rabbits-Lovers/dp/B0CV43GKGZ"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Cat-Coloring-Book-Cats-Windows/dp/B0CVLFSSGC"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Kawaii-Sketchbook-drawing-notebook-journal/dp/B0C9S8W4PW"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // AI content farms
