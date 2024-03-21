@@ -55,6 +55,7 @@ google.com,duckduckgo.com,bing.com##a[href*="kemono.party"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="alphacoders.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="rollingpress.co.ke"]:upward(div):style(opacity:0.00!important;)
 
+
 ! // Subreddits
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/CatgirlSFW"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="100Kanojo"]:upward(div):style(opacity:0.00!important;)
@@ -64,3 +65,5 @@ google.com,duckduckgo.com,bing.com##a[href*="100Kanojo"]:upward(div):style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="pinterest.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pinterest.com/Sereneshell"]:upward(div):style(opacity:0.00!important;)
 
+! // Alternate App Stores
+google.com,duckduckgo.com,bing.com##a[href*="cafebazaar.ir"]:upward(div):style(opacity:0.00!important;)
