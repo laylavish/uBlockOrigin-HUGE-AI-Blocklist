@@ -603,6 +603,7 @@
 *://*.image.computer/*
 *://*.carboncopy.pro/*
 *://*.aimojo.pro/*
+*://*.pandia.pro/*
 *://*.damngood.tools/*
 *://*.echo.win/*
 *://*.aigirlfriend.wtf/*
