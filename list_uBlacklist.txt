@@ -390,6 +390,7 @@
 *://*.canva.com/ai-art-generator/*
 *://*.picsart.com/ai-image-generator/*
 *://*.magicstudio.com/*
+*://*.openai.com/*
 
 
 # Sites that have .art domain extension
