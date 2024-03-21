@@ -518,6 +518,7 @@
 *://*.csdn.net/*
 *://*.podcastrocket.net/*
 *://*.promptpal.net/*
+*://*.novelai/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -821,6 +822,10 @@
 *://*.x.com/EMostaque/*
 *://*.twitter.com/DeviantArt/*
 *://*.x.com/DeviantArt/*
+*://*.twitter.com/NovelAIAnime/*
+*://*.x.com/NovelAIAnime/*
+*://*.twitter.com/novelaiofficial/*
+*://*.x.com/novelaiofficial/*
 
 
 # Block list of AI "artists"/orgs (youtube)
