@@ -633,6 +633,7 @@
 *://*.play.google.com/store/apps/details?id=anime.wallpapers4k.offline/*
 *://*.play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique/*
 *://*.play.google.com/store/apps/details?id=ai.art.generator.design/*
+*://*.play.google.com/store/apps/details?id=com.tapuniverse.aiartgenerator/*
 
 
 # Apple AI applications
