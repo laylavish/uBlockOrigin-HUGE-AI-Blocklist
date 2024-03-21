@@ -642,6 +642,7 @@ google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?
 google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=anime.wallpapers4k.offline"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=ai.art.generator.design"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.tapuniverse.aiartgenerator"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Apple AI applications
