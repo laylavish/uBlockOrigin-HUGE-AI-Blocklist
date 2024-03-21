@@ -526,6 +526,7 @@
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
 *://*.transpic.cn/*
 *://*.sticky.cool/*
+*://*.playform.io/*
 *://*.live3d.io/*
 *://*.toolspedia.io/*
 *://*.instantart.io/*
