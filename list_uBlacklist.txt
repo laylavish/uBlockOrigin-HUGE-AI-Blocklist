@@ -1146,3 +1146,8 @@
 
 # // Getty Wallpapers
 *://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
+
+
+# // Regular Expressions
+/(generative)? *\bAI\b *(art|generated|illustration)?/i
+/(ada)?Lo(RA|Con) *(model)?|((un)?stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|text *(image|img) *synthesis|text *(to|2) *(image|img|video)/i
