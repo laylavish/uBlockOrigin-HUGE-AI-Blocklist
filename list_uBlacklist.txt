@@ -232,6 +232,7 @@
 *://*.ideogram.ai/*
 *://*.2moons.ai/*
 *://*.alignmentlab.ai/*
+*://*.digitalmuses.ai/*
 
 
 # Sites that have .com domain extension
