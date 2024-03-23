@@ -391,6 +391,7 @@
 *://*.picsart.com/ai-image-generator/*
 *://*.magicstudio.com/*
 *://*.openai.com/*
+*://*.zebrabi.com/*
 
 
 # Sites that have .art domain extension
