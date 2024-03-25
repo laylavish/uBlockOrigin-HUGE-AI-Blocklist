@@ -233,6 +233,7 @@
 *://*.2moons.ai/*
 *://*.alignmentlab.ai/*
 *://*.digitalmuses.ai/*
+*://*.sakana.ai/*
 
 
 # Sites that have .com domain extension
