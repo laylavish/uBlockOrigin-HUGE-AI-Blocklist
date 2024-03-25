@@ -394,6 +394,7 @@
 *://*.magicstudio.com/*
 *://*.openai.com/*
 *://*.zebrabi.com/*
+*://*.mixcomfy.com/*
 
 
 # Sites that have .art domain extension
