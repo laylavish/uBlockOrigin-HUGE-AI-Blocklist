@@ -242,6 +242,7 @@ google.com,duckduckgo.com,bing.com##a[href*="ideogram.ai"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="2moons.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="alignmentlab.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="digitalmuses.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="sakana.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
