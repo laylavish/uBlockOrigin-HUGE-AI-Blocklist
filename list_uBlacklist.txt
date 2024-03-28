@@ -396,6 +396,7 @@
 *://*.zebrabi.com/*
 *://*.mixcomfy.com/*
 *://*.scenario.com/*
+*://*.araminta-k.com/*
 
 
 # Sites that have .art domain extension
@@ -836,6 +837,8 @@
 *://*.x.com/NovelAIAnime/*
 *://*.twitter.com/novelaiofficial/*
 *://*.x.com/novelaiofficial/*
+*://*.twitter.com/araminta_k/*
+*://*.x.com/araminta_k/*
 
 
 # Block list of AI "artists"/orgs (youtube)
