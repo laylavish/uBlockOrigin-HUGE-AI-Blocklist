@@ -406,6 +406,7 @@ google.com,duckduckgo.com,bing.com##a[href*="openai.com"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="zebrabi.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="mixcomfy.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="scenario.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="http://araminta-k.com/"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -845,6 +846,9 @@ google.com,duckduckgo.com,bing.com##a[href*="twitter.com/NovelAIAnime"]:upward(d
 google.com,duckduckgo.com,bing.com##a[href*="x.com/NovelAIAnime"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/novelaiofficial"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/novelaiofficial"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/araminta_k"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/araminta_k"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! Block list of AI "artists"/orgs (youtube)
