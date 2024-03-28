@@ -395,6 +395,7 @@
 *://*.openai.com/*
 *://*.zebrabi.com/*
 *://*.mixcomfy.com/*
+*://*.scenario.com/*
 
 
 # Sites that have .art domain extension
