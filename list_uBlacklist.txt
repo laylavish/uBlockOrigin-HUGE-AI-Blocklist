@@ -397,6 +397,7 @@
 *://*.mixcomfy.com/*
 *://*.scenario.com/*
 *://*.araminta-k.com/*
+*://*.tweetai.com/*
 
 
 # Sites that have .art domain extension
