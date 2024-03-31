@@ -234,6 +234,7 @@
 *://*.alignmentlab.ai/*
 *://*.digitalmuses.ai/*
 *://*.sakana.ai/*
+*://*.digi.ai/*
 
 
 # Sites that have .com domain extension
