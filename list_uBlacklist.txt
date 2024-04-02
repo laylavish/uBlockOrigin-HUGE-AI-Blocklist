@@ -1152,13 +1152,14 @@
 /amazon.+\/.+\/dp\/B0C9S8W4PW/
 
 
-# // AI content farms
+# // AI content farms/spam
 *://*.boddeswasusi.github.io/*
 *://*.stl24.com/*
 *://*.outsourceit.today/*
 *://*.metaroids.com/*
 *://*.90creators.com/*
 *://*.gachax.com/anime/*
+*://*.ocfchess.org/*
 
 
 # // VoiceMod shit 
