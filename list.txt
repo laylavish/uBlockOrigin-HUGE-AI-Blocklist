@@ -1162,13 +1162,14 @@ google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Cat-Coloring-Book-Cats-W
 google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Kawaii-Sketchbook-drawing-notebook-journal/dp/B0C9S8W4PW"]:upward(div):style(opacity:0.00!important;)
 
 
-! // AI content farms
+! // AI content farms/spam
 google.com,duckduckgo.com,bing.com##a[href*="boddeswasusi.github.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stl24.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="outsourceit.today"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="metaroids.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="90creators.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="gachax.com/anime"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ocfchess.org"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
