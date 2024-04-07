@@ -981,6 +981,7 @@
 *://*.deviantart.com/darkprncsai/*
 *://*.deviantart.com/dendyh7/*
 *://*.deviantart.com/jaredsyn/*
+*://*.deviantart.com/instaai/*
 
 
 # Block list of AI "artists"/orgs (artstation)
