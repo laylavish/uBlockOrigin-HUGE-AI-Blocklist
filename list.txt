@@ -629,6 +629,7 @@ google.com,duckduckgo.com,bing.com##a[href*="aigirlfriend.wtf"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="ai.google"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="olafjeziorski.pl"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="otasarimciol.shop"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pinokio.computer"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -760,6 +761,7 @@ google.com,duckduckgo.com,bing.com##a[href*="ainude.porn"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="nudify-her.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nudes.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deepnude-ai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="rundiffusion.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! //// Block lists of individual users
