@@ -620,6 +620,7 @@
 *://*.ai.google/*
 *://*.olafjeziorski.pl/*
 *://*.otasarimciol.shop/*
+*://*.pinokio.computer/*
 
 
 # Google Play AI applications
@@ -751,6 +752,7 @@
 *://*.nudify-her.com/*
 *://*.nudes.ai/*
 *://*.deepnude-ai.com/*
+*://*.rundiffusion.com/*
 
 
 # //// Block lists of individual users
