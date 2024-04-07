@@ -991,6 +991,7 @@ google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/zkreations"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/darkprncsai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/dendyh7"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/jaredsyn"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/instaai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
