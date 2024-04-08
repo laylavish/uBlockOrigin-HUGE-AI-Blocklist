@@ -1040,7 +1040,7 @@ google.com,duckduckgo.com,bing.com##a[href*="linkedin.com/in/justmaier"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@inchristiely"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@aitubo011"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/mlearning-ai"]:upward(div):style(opacity:0.00!important;)
-google.com,duckduckgo.com,bing.com##a[href*="medium.com/generative-ai/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="medium.com/generative-ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit
