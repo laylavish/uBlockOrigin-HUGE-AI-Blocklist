@@ -970,14 +970,14 @@
 
 
 # // Individual Pinterest shit
-/pinterest.+\/.+\/pin/428053139600411583/
-/pinterest.+\/.+\/pin/143130094401282814/
-/pinterest.+\/.+\/pin/1041879695027157288/
-/pinterest.+\/.+\/pin/quick-saves--1041879695027157288/
-/pinterest.+\/.+\/pin/594967800804194444/
-/pinterest.+\/.+\/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/
-/pinterest.+\/.+\/pin/mulher-fatal/
-/pinterest.+\/.+\/pin/563018696976219/
+/pinterest.+\/.+\/pin\/428053139600411583/
+/pinterest.+\/.+\/pin\/143130094401282814/
+/pinterest.+\/.+\/pin\/1041879695027157288/
+/pinterest.+\/.+\/pin\/quick-saves--1041879695027157288/
+/pinterest.+\/.+\/pin\/594967800804194444/
+/pinterest.+\/.+\/pin\/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/
+/pinterest.+\/.+\/pin\/mulher-fatal/
+/pinterest.+\/.+\/pin\/563018696976219/
 
 
 # Block list of AI "artists"/orgs (behance)
