@@ -843,6 +843,8 @@
 *://*.x.com/novelaiofficial/*
 *://*.twitter.com/araminta_k/*
 *://*.x.com/araminta_k/*
+*://*.twitter.com/cocktailpeanut/*
+*://*.x.com/cocktailpeanut/*
 
 
 # Block list of AI "artists"/orgs (youtube)
