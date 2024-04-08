@@ -398,10 +398,6 @@
 *://*.tweetai.com/*
 *://*.typedream.com/*
 
-*://*.canva.com/ai-art-generator/*
-*://*.picsart.com/ai-image-generator/*
-
-*://*.cloe.bytebeacon.com/@bb_ras/*
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
@@ -499,7 +495,6 @@
 *://*.bashable.art/*
 *://*.assetsai.art/*
 *://*.liblib.art/*
-
 
 
 # Sites that have .co domain extension
@@ -620,9 +615,15 @@
 *://*.otasarimciol.shop/*
 *://*.pinokio.computer/*
 
+
+# AI projects hosted on other sites
+*://*.canva.com/ai-art-generator/*
+*://*.picsart.com/ai-image-generator/*
+*://*.cloe.bytebeacon.com/@bb_ras/*
+*://*.aipicasso.studio.site/*
 *://*.giotto.streamlit.app/*
 *://*.acrylic.typedream.app/*
-*://*.aipicasso.studio.site/*
+
 
 
 # Google Play AI applications
@@ -906,66 +907,77 @@
 
 
 # Block list of AI "artists"/orgs (pinterest)
-*://*.pinterest.com/warking999999/*
-*://*.pinterest.com/racingtff/*
-*://*.pinterest.com/aquanier2b/*
-*://*.pinterest.com/aiartyapp/*
-*://*.pinterest.com/Misaffective/*
-*://*.pinterest.com/ItzK4rm4/*
-*://*.pinterest.com/digantachangmai1/*
-*://*.pinterest.com/bunnycherry07112003/*
-*://*.pinterest.com/matcha_blossom001/*
-*://*.pinterest.com/dalehandie99/*
-*://*.pinterest.com/dikshathakur9844/*
-*://*.pinterest.com/aniketakuminsan/*
-*://*.pinterest.com/jesmayne18/*
-*://*.pinterest.com/iceprincessesra/*
-*://*.pinterest.com/Aiartanime/*
-*://*.pinterest.com/evolvAI/*
-*://*.pinterest.com/komalpanth/*
-*://*.pinterest.com/raj5hajong/*
-*://*.pinterest.com/saeedahmadi694/*
-*://*.pinterest.com/wangxu3409720947/*
-*://*.pinterest.com/peter123sss/*
-*://*.pinterest.com/seraphiana/*
-*://*.pinterest.com/img2prompt/*
-*://*.pinterest.com/raphaelvalentine257/*
-*://*.pinterest.com/maidelisavila/*
-*://*.pinterest.com/radsamkat/*
-*://*.pinterest.com/imagin8st/*
-*://*.pinterest.com/personalparanoiaparadox/*
-*://*.pinterest.com/nandiswapan/*
-*://*.pinterest.com/artsbyai/*
-*://*.pinterest.com/saharabegum0030/*
-*://*.pinterest.com/hughjamin/*
-*://*.pinterest.com/jackwalker78787/*
-*://*.pinterest.com/moon_cat_art/*
-*://*.pinterest.com/TooGood_FSH/*
-*://*.pinterest.com/tonnyfroyen/*
-*://*.pinterest.com/rhiakai86/*
-*://*.pinterest.com/hardikmd124/*
-*://*.pinterest.com/WinterAIArt/*
-*://*.pinterest.com/Aiartanime/*
-*://*.pinterest.com/arabiclogos_com/*
-*://*.pinterest.com/emmapreston93/*
-*://*.pinterest.com/isabellakinape/*
-*://*.pinterest.com/dlm003/*
-*://*.pinterest.com/colorimagerystudio/*
-*://*.pinterest.com/RhamonYves/*
-*://*.pinterest.com/demitobella/*
-*://*.pinterest.com/glee4076/*
-*://*.pinterest.com/arslanali4343/*
-*://*.pinterest.com/Artify_ai/*
-*://*.pinterest.com/0ccmbkgxrcqh40h/*
-*://*.pinterest.com/daotae/*
-*://*.pinterest.com/aiart1/*
-*://*.pinterest.com/aesgirf/*
-*://*.pinterest.com/moroccan4968/*
-*://*.pinterest.com/EnchantedRoze3/*
-*://*.pinterest.com/animeaiwaifus/*
-*://*.pinterest.com/kingvinst/*
-*://*.pinterest.com/BellaBlues99/*
-*://*.pinterest.com/fira1747/*
+/pinterest.+\/.+\/warking999999/
+/pinterest.+\/.+\/racingtff/
+/pinterest.+\/.+\/aquanier2b/
+/pinterest.+\/.+\/aiartyapp/
+/pinterest.+\/.+\/Misaffective/
+/pinterest.+\/.+\/ItzK4rm4/
+/pinterest.+\/.+\/digantachangmai1/
+/pinterest.+\/.+\/bunnycherry07112003/
+/pinterest.+\/.+\/matcha_blossom001/
+/pinterest.+\/.+\/dalehandie99/
+/pinterest.+\/.+\/dikshathakur9844/
+/pinterest.+\/.+\/aniketakuminsan/
+/pinterest.+\/.+\/jesmayne18/
+/pinterest.+\/.+\/iceprincessesra/
+/pinterest.+\/.+\/Aiartanime/
+/pinterest.+\/.+\/evolvAI/
+/pinterest.+\/.+\/komalpanth/
+/pinterest.+\/.+\/raj5hajong/
+/pinterest.+\/.+\/saeedahmadi694/
+/pinterest.+\/.+\/wangxu3409720947/
+/pinterest.+\/.+\/peter123sss/
+/pinterest.+\/.+\/seraphiana/
+/pinterest.+\/.+\/img2prompt/
+/pinterest.+\/.+\/raphaelvalentine257/
+/pinterest.+\/.+\/maidelisavila/
+/pinterest.+\/.+\/radsamkat/
+/pinterest.+\/.+\/imagin8st/
+/pinterest.+\/.+\/personalparanoiaparadox/
+/pinterest.+\/.+\/nandiswapan/
+/pinterest.+\/.+\/artsbyai/
+/pinterest.+\/.+\/saharabegum0030/
+/pinterest.+\/.+\/hughjamin/
+/pinterest.+\/.+\/jackwalker78787/
+/pinterest.+\/.+\/moon_cat_art/
+/pinterest.+\/.+\/TooGood_FSH/
+/pinterest.+\/.+\/tonnyfroyen/
+/pinterest.+\/.+\/rhiakai86/
+/pinterest.+\/.+\/hardikmd124/
+/pinterest.+\/.+\/WinterAIArt/
+/pinterest.+\/.+\/Aiartanime/
+/pinterest.+\/.+\/arabiclogos_com/
+/pinterest.+\/.+\/emmapreston93/
+/pinterest.+\/.+\/isabellakinape/
+/pinterest.+\/.+\/dlm003/
+/pinterest.+\/.+\/colorimagerystudio/
+/pinterest.+\/.+\/RhamonYves/
+/pinterest.+\/.+\/demitobella/
+/pinterest.+\/.+\/glee4076/
+/pinterest.+\/.+\/arslanali4343/
+/pinterest.+\/.+\/Artify_ai/
+/pinterest.+\/.+\/0ccmbkgxrcqh40h/
+/pinterest.+\/.+\/daotae/
+/pinterest.+\/.+\/aiart1/
+/pinterest.+\/.+\/aesgirf/
+/pinterest.+\/.+\/moroccan4968/
+/pinterest.+\/.+\/EnchantedRoze3/
+/pinterest.+\/.+\/animeaiwaifus/
+/pinterest.+\/.+\/kingvinst/
+/pinterest.+\/.+\/BellaBlues99/
+/pinterest.+\/.+\/fira1747/
+
+
+# // Individual Pinterest shit
+/pinterest.+\/.+\/pin/428053139600411583/
+/pinterest.+\/.+\/pin/143130094401282814/
+/pinterest.+\/.+\/pin/1041879695027157288/
+/pinterest.+\/.+\/pin/quick-saves--1041879695027157288/
+/pinterest.+\/.+\/pin/594967800804194444/
+/pinterest.+\/.+\/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/
+/pinterest.+\/.+\/pin/mulher-fatal/
+/pinterest.+\/.+\/pin/563018696976219/
 
 
 # Block list of AI "artists"/orgs (behance)
@@ -993,6 +1005,9 @@
 # Block list of AI "artists"/orgs (artstation)
 *://*.artstation.com/tryintogetthere/*
 
+# // Individual Artstation shit
+*://*.artstation.com/artwork/kQZoLA/*
+*://*.artstation.com/artwork/KOJ80W/*
 
 # Block list of AI "artists"/orgs (facebook)
 *://*.facebook.com/cuteanimegirl99/*
@@ -1016,8 +1031,8 @@
 # Freepik garbage
 *://*.freepik.com/premium-ai-image/*
 *://*.freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921/*
-*://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm/*
-*://*.freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm/*
+*://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
+*://*.freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm
 *://*.freepik.com/author/smmstore773/*
 
 
@@ -1043,17 +1058,6 @@
 *://*.etsy.com/listing/1368236844/*
 
 
-# // Individual Pinterest shit
-*://*.pinterest.com/pin/428053139600411583/*
-*://*.pinterest.com/pin/143130094401282814/*
-*://*.pinterest.com/pin/1041879695027157288//*
-*://*.pinterest.com/pin/quick-saves--1041879695027157288/*
-*://*.pinterest.com/pin/594967800804194444/*
-*://*.pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/*
-*://*.pinterest.com/pin/mulher-fatal/*
-*://*.pinterest.com/pin/563018696976219/*
-
-
 # // Adobe shit
 *://*.adobe.com/products/firefly/*
 *://*.adobe.com/*/products/firefly/*
@@ -1063,10 +1067,6 @@
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927/*
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986/*
 
-
-# // Individual Artstation shit
-*://*.artstation.com/artwork/kQZoLA/*
-*://*.artstation.com/artwork/KOJ80W/*
 
 # // Fiverr shit
 *://*.fiverr.com/bleassome/*
