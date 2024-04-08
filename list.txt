@@ -852,6 +852,8 @@ google.com,duckduckgo.com,bing.com##a[href*="twitter.com/novelaiofficial"]:upwar
 google.com,duckduckgo.com,bing.com##a[href*="x.com/novelaiofficial"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/araminta_k"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/araminta_k"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/cocktailpeanut"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/cocktailpeanut"]:upward(div):style(opacity:0.00!important;)
 
 
 
