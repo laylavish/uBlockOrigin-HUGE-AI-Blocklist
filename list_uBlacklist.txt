@@ -286,7 +286,7 @@
 *://*.violetforest.com/*
 *://*.dreamup.com/*
 *://*.artbreeder/*
-*://*.portrait.vana.com/*
+*://*.vana.com/*
 *://*.aiartapps.com/*
 *://*.diffusionbee.com/*
 *://*.nijijourney.com/*
@@ -310,7 +310,7 @@
 *://*.color-anything.com/*
 *://*.blimeycreate.com/*
 *://*.artreviewgenerator.com/*
-*://*.bdiscover.kakobrain.com/*
+*://*.kakobrain.com/*
 *://*.yodayo.com/*
 *://*.aidungeon.com/*
 *://*.zazow.com/*
@@ -325,7 +325,6 @@
 *://*.pica-ai.com/*
 *://*.ai-fantasy-art.com/*
 *://*.findmyaitool.com/*
-*://*.cloe.bytebeacon.com/@bb_ras/*
 *://*.portraitai.com/*
 *://*.dall-efree.com/*
 *://*.dopaminegirl.com/*
@@ -390,8 +389,6 @@
 *://*.easywithai.com/*
 *://*.future-pedia.com/*
 *://*.pixai.com/*
-*://*.canva.com/ai-art-generator/*
-*://*.picsart.com/ai-image-generator/*
 *://*.magicstudio.com/*
 *://*.openai.com/*
 *://*.zebrabi.com/*
@@ -399,7 +396,12 @@
 *://*.scenario.com/*
 *://*.araminta-k.com/*
 *://*.tweetai.com/*
+*://*.typedream.com/*
 
+*://*.canva.com/ai-art-generator/*
+*://*.picsart.com/ai-image-generator/*
+
+*://*.cloe.bytebeacon.com/@bb_ras/*
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
@@ -562,7 +564,7 @@
 *://*.diffusion.land/*
 *://*.neural.love/*
 *://*.mage.space/*
-*://*.aipicasso.studio.site/*
+*://*.aipicasso.app/*
 *://*.phraser.tech/*
 *://*.imagineme.app/*
 *://*.roughly.app/*
@@ -571,15 +573,13 @@
 *://*.spreadai.app/*
 *://*.hypic.app/*
 *://*.animeai.app/*
-*://*.giotto.streamlit.app/*
-*://*.acrylic.typedream.app/*
 *://*.imageai.app/*
 *://*.wand.app/*
 *://*.make3d.app/*
 *://*.petbooth.app/*
 *://*.outfitanyone.app/*
 *://*.phraser.tech/*
-*://*.client.aigur.dev/*
+*://*.aigur.dev/*
 *://*.aiart.dev/*
 *://*.background.lol/*
 *://*.deepanime.software/*
@@ -597,10 +597,8 @@
 *://*.generaitiv.xyz/*
 *://*.petalica.paint/*
 *://*.yoohoo.cards/*
-*://*.nightcafe.studio/*
 *://*.cutout.pro/*
 *://*.freeaiavatargenerator.pro/*
-*://*.nightcafe.studio/*
 *://*.nightcafe.studio/*
 *://*.diffusion.to/*
 *://*.deepai.org/*
@@ -621,6 +619,10 @@
 *://*.olafjeziorski.pl/*
 *://*.otasarimciol.shop/*
 *://*.pinokio.computer/*
+
+*://*.giotto.streamlit.app/*
+*://*.acrylic.typedream.app/*
+*://*.aipicasso.studio.site/*
 
 
 # Google Play AI applications
@@ -996,9 +998,6 @@
 *://*.facebook.com/TheTiniestTiger/*
 
 
-# Artstation shit
-*://*.artstation.com/artwork/KOJ80W/*
-
 
 # s.id garbage
 *://*.s.id/AIArtGaia/*
@@ -1065,7 +1064,7 @@
 
 # // Individual Artstation shit
 *://*.artstation.com/artwork/kQZoLA/*
-
+*://*.artstation.com/artwork/KOJ80W/*
 
 # // Fiverr shit
 *://*.fiverr.com/bleassome/*
