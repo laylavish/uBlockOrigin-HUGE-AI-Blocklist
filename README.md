@@ -2,13 +2,13 @@
 A huge blocklist of sites (~850) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist.
 
 
-## How to install the blocklist (uBlock Origin)
+## Installing the blocklist for uBlock Origin
 
 ### One-click filter import
 
 If you have uBlock Origin installed, click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist.txt&title=Sites%20using%20AI%20generated%20content) to import the filter list in just a click! Quick and simple.
 
-### Import manually
+### Manual Import
 
 1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (works on Android too!).
 
@@ -34,7 +34,7 @@ uBlock Origin will automatically refresh the filter list once a day, so you'll a
 
 If you want to force an update of the filter list, pressing the stopwatch next to the newly added list, then pressing ```Update now``` will achieve that.
 
-## How to install the blocklist (uBlacklist)
+## Installing the blocklist for uBlacklist
 
 1. Make sure that you have the uBlacklist extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/), [Chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), or any browser that supports uBlacklist (works on Android too!).
 
@@ -124,6 +124,7 @@ Not only that, but there are lots of lists you can subscribe to that will clean 
 ✅ Provide blocklist for uBlacklist compatibility
 
 ✅ Make blocklist work on other search engines such as DuckDuckGo and Bing (ew)
+
 
 ## Special thanks
 
