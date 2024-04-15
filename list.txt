@@ -590,6 +590,7 @@ google.com,duckduckgo.com,bing.com##a[href*="wand.app"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="make3d.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="petbooth.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="outfitanyone.app"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="wonderai.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="phraser.tech"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="client.aigur.dev"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aiart.dev"]:upward(div):style(opacity:0.00!important;)
