@@ -618,6 +618,8 @@
 *://*.olafjeziorski.pl/*
 *://*.otasarimciol.shop/*
 *://*.pinokio.computer/*
+*://*.aiartists.org/*
+
 
 
 # AI projects hosted on other sites
