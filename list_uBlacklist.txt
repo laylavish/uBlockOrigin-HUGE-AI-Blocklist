@@ -397,6 +397,7 @@
 *://*.araminta-k.com/*
 *://*.tweetai.com/*
 *://*.typedream.com/*
+*://*.bing.com/images/create/*
 
 
 # Sites that have .art domain extension
