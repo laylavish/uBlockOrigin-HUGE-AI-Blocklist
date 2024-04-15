@@ -398,6 +398,8 @@
 *://*.tweetai.com/*
 *://*.typedream.com/*
 *://*.bing.com/images/create/*
+*://*.stablecog.com/*
+*://*.playground.com/*
 
 
 # Sites that have .art domain extension
