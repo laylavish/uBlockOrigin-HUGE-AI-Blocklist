@@ -576,6 +576,7 @@
 *://*.make3d.app/*
 *://*.petbooth.app/*
 *://*.outfitanyone.app/*
+*://*.wonderai.app/*
 *://*.phraser.tech/*
 *://*.aigur.dev/*
 *://*.aiart.dev/*
