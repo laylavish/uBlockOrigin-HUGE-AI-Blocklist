@@ -400,6 +400,7 @@
 *://*.bing.com/images/create/*
 *://*.stablecog.com/*
 *://*.playground.com/*
+*://*.miaoshouai.com/*
 
 
 # Sites that have .art domain extension
