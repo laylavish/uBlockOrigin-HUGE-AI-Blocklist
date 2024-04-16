@@ -412,6 +412,7 @@ google.com,duckduckgo.com,bing.com##a[href*="TweetAI.com"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="bing.com/images/create"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablecog.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="playground.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="miaoshouai.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
