@@ -764,6 +764,7 @@
 *://*.deepnude-ai.com/*
 *://*.rundiffusion.com/*
 *://*.faceplay.info/*
+*://*.getmynudes.com/*
 
 
 # //// Block lists of individual users
