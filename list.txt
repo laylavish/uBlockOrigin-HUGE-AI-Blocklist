@@ -878,12 +878,14 @@ google.com,duckduckgo.com,bing.com##a[href*="nudes.ai"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="deepnude-ai.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="rundiffusion.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="faceplay.info"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="getmynudes.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ai-hentai.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deepfake.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="onlywaifus.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pornshow.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pornsword.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reporn.ai"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! //// Block lists of individual users

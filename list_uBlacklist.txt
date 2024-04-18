@@ -880,6 +880,7 @@
 *://*.deepnude-ai.com/*
 *://*.rundiffusion.com/*
 *://*.faceplay.info/*
+*://*.getmynudes.com/*
 *://*.ai-hentai.net/*
 *://*.deepfake.com/*
 *://*.onlywaifus.ai/*
