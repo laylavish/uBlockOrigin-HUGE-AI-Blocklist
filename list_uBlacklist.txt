@@ -487,6 +487,7 @@
 *://*.wellsaidlabs.com/*
 *://*.wonder-ai.com/*
 *://*.wordspilot.com/*
+*://*.pfptown.com/*
 
 
 # Sites that have .art domain extension
