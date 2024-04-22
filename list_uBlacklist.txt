@@ -235,6 +235,44 @@
 *://*.digitalmuses.ai/*
 *://*.sakana.ai/*
 *://*.digi.ai/*
+*://*.aiva.ai/*
+*://*.aivoicestudio.ai/*
+*://*.background.zmo.ai/*
+*://*.beatoven.ai/*
+*://*.clova.ai/*
+*://*.crushon.ai/*
+*://*.deepfloyd.ai/*
+*://*.designs.ai/*
+*://*.dopple.ai/*
+*://*.drawgpt.ai/*
+*://*.dubverse.ai/*
+*://*.eleuther.ai/*
+*://*.fuups.ai/*
+*://*.genmo.ai/*
+*://*.hourone.ai/*
+*://*.idomoo.ai/*
+*://*.kajiwoto.ai/*
+*://*.murf.ai/*
+*://*.musicstar.ai/*
+*://*.nbox.ai/*
+*://*.newmusic.ai/*
+*://*.painter-ai.ai/*
+*://*.patience.ai/*
+*://*.resemble.ai/*
+*://*.soca.ai/*
+*://*.soulgen.ai/*
+*://*.spicychat.ai/*
+*://*.staccato.ai/*
+*://*.steve.ai/*
+*://*.suno.ai/*
+*://*.tammy.ai/*
+*://*.typecast.ai/*
+*://*.uberduck.ai/*
+*://*.unprompt.ai/*
+*://*.vidyo.ai/*
+*://*.voice-swap.ai/*
+*://*.voice.ai/*
+*://*.voiceand.ai/*
 
 
 # Sites that have .com domain extension
@@ -401,6 +439,54 @@
 *://*.stablecog.com/*
 *://*.playground.com/*
 *://*.miaoshouai.com/*
+*://*.aiart-navi.com/*
+*://*.aiartstock.com/*
+*://*.aicameo.com/*
+*://*.aigreem.com/*
+*://*.aipictors.com/*
+*://*.aisozai.com/*
+*://*.aiweirdness.com/*
+*://*.allthedifferences.com/*
+*://*.artbreeder.com/*
+*://*.bdiscover.kakaobrain.com/*
+*://*.boomy.com/*
+*://*.chatai.com/*
+*://*.chichi-pui.com/*
+*://*.colossyan.com/*
+*://*.d-id.com/*
+*://*.fadr.com/*
+*://*.fakeyou.com/*
+*://*.heygen.com/*
+*://*.imagecreator.alkaidvision.com/*
+*://*.instantaiprompt.com/*
+*://*.interlinkedai.com/*
+*://*.janitorai.com/*
+*://*.kreadoai.com/*
+*://*.lalals.com/*
+*://*.loudly.com/*
+*://*.makersplace.com/*
+*://*.mubert.com/*
+*://*.pfpmaker.com/*
+*://*.picassoia.com/*
+*://*.picsart.com/*
+*://*.pikbest.com/*
+*://*.poe.com/*
+*://*.pornkai.com/*
+*://*.portrait.vana.com/*
+*://*.promptforum.com/*
+*://*.promptomania.com/*
+*://*.rakugaki-taro.com/*
+*://*.riffusion.com/*
+*://*.runwayml.com/*
+*://*.simplified.com/*
+*://*.soundful.com/*
+*://*.trustingeeks.com/*
+*://*.udio.com/*
+*://*.vanceai.com/*
+*://*.virtulook.wondershare.com/*
+*://*.wellsaidlabs.com/*
+*://*.wonder-ai.com/*
+*://*.wordspilot.com/*
 
 
 # Sites that have .art domain extension
@@ -499,6 +585,8 @@
 *://*.bashable.art/*
 *://*.assetsai.art/*
 *://*.liblib.art/*
+*://*.lunai.art/*
+*://*.pictab.art/*
 
 
 # Sites that have .co domain extension
@@ -517,6 +605,7 @@
 *://*.embolden.co/*
 *://*.superreply.co/*
 *://*.hiddendoor.co/*
+*://*.aiartmaster.co/*
 
 
 # Sites that have .net domain extension
@@ -530,6 +619,8 @@
 *://*.promptpal.net/*
 *://*.novelai.net/*
 *://*.miramuseai.net/*
+*://*.aichatting.net/*
+*://*.melodystudio.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -620,6 +711,31 @@
 *://*.otasarimciol.shop/*
 *://*.pinokio.computer/*
 *://*.aiartists.org/*
+*://*.ai-art.tokyo/*
+*://*.aibooru.online/*
+*://*.aimi.fm/*
+*://*.aimodels.org/*
+*://*.cheatsheet.md/*
+*://*.client.aigur.dev/*
+*://*.cohesive.so/*
+*://*.creator.nightcafe.studio/*
+*://*.deepbrain.io/*
+*://*.ebank.nz/*
+*://*.elai.io/*
+*://*.emojis.sh/*
+*://*.invideo.io/*
+*://*.laive.io/*
+*://*.media.io/*
+*://*.musicfy.lol/*
+*://*.play.ht/*
+*://*.prompt.quel.jp/*
+*://*.rizzgpt.app/*
+*://*.soundraw.io/*
+*://*.synthesia.io/*
+*://*.synthesys.io/*
+*://*.toolsadvisor.org/*
+*://*.veed.io/*
+*://*.visla.us/*
 
 
 
@@ -765,6 +881,13 @@
 *://*.rundiffusion.com/*
 *://*.faceplay.info/*
 *://*.getmynudes.com/*
+*://*.ai-hentai.net/*
+*://*.deepfake.com/*
+*://*.onlywaifus.ai/*
+*://*.pornshow.ai/*
+*://*.pornsword.io/*
+*://*.reporn.ai/*
+
 
 
 # //// Block lists of individual users
@@ -1136,6 +1259,15 @@
 *://*.reddit.com/r/AiHentaiArtwork/*
 *://*.reddit.com/r/singularity/*
 *://*.reddit.com/r/Pixai_Official/*
+*://*.reddit.com/r/aipromptprogramming/*
+*://*.reddit.com/r/bard/*
+*://*.reddit.com/r/ChatGPTCoding/*
+*://*.reddit.com/r/ChatGPTPro/*
+*://*.reddit.com/r/generativeAI/*
+*://*.reddit.com/r/generative/*
+*://*.reddit.com/r/GPT3/*
+*://*.reddit.com/r/SoraAi/*
+*://*.reddit.com/r/SunoAI/*
 
 
 # // Block list of AI reddit users
