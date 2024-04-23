@@ -77,7 +77,9 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 ```
 
 ## Allowlisting sites
-If you find that you don't like a certain website being blocked, you can create an allowlist in your own personal uBlock Origin or uBlacklist filter list. Here's how to do it.
+Don't like a website being blocked? You can easily create an allowlist in your own personal uBlock Origin or uBlacklist filter list. 
+
+Here's how to do it. 
 
 ### For uBlock Origin:
 1. Toggle the [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector) `</>` through uBlock Origin's [logger](https://github.com/gorhill/uBlock/wiki/The-logger).
