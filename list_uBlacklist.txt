@@ -981,6 +981,8 @@
 *://*.x.com/araminta_k/*
 *://*.twitter.com/cocktailpeanut/*
 *://*.x.com/cocktailpeanut/*
+*://*.twitter.com/Ai99gAmi/*
+*://*.x.com/Ai99gAmi/*
 
 
 # Block list of AI "artists"/orgs (youtube)
