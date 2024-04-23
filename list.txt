@@ -979,6 +979,8 @@ google.com,duckduckgo.com,bing.com##a[href*="twitter.com/araminta_k"]:upward(div
 google.com,duckduckgo.com,bing.com##a[href*="x.com/araminta_k"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/cocktailpeanut"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/cocktailpeanut"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/Ai99gAmi/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/Ai99gAmi/"]:upward(div):style(opacity:0.00!important;)
 
 
 
