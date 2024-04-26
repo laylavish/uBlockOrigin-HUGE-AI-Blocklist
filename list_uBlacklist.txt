@@ -273,6 +273,8 @@
 *://*.voice-swap.ai/*
 *://*.voice.ai/*
 *://*.voiceand.ai/*
+*://*.art.ai/*
+*://*.cognitive.ai/*
 
 
 # Sites that have .com domain extension
