@@ -506,6 +506,8 @@ google.com,duckduckgo.com,bing.com##a[href*="wellsaidlabs.com"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="wonder-ai.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="wordspilot.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pfptown.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stabledifffusion.com"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! Sites that have .art domain extension
