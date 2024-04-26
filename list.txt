@@ -282,6 +282,8 @@ google.com,duckduckgo.com,bing.com##a[href*="vidyo.ai"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="voice-swap.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="voice.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="voiceand.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="art.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="cognitive.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
