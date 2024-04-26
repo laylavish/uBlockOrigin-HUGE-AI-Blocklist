@@ -931,6 +931,7 @@
 *://*.braundress.net/*
 *://*.ai-nudes.ai/*
 *://*.undress.xxx/*
+*://*.girlfriend.ai/*
 
 
 # //// Block lists of individual users
