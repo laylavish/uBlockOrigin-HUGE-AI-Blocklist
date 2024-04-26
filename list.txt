@@ -929,6 +929,7 @@ google.com,duckduckgo.com,bing.com##a[href*="newfaceporn.com"]:upward(div):style
 google.com,duckduckgo.com,bing.com##a[href*="braundress.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ai-nudes.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="undress.xxx"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="girlfriend.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 
