@@ -275,6 +275,13 @@
 *://*.voiceand.ai/*
 *://*.art.ai/*
 *://*.cognitive.ai/*
+*://*.z.ai/*
+*://*.home.ai/*
+*://*.realestate.ai/*
+*://*.sound.ai/*
+*://*.blueprint.ai/*
+*://*.3d.ai/*
+*://*.partner.ai/*
 
 
 # Sites that have .com domain extension
