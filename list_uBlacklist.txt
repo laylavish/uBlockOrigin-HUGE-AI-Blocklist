@@ -497,6 +497,7 @@
 *://*.wonder-ai.com/*
 *://*.wordspilot.com/*
 *://*.pfptown.com/*
+*://*.stabledifffusion.com/*
 
 
 # Sites that have .art domain extension
