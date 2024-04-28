@@ -282,6 +282,7 @@
 *://*.blueprint.ai/*
 *://*.3d.ai/*
 *://*.partner.ai/*
+*://*.magnific.ai/*
 
 
 # Sites that have .com domain extension
