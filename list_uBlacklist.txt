@@ -499,6 +499,7 @@
 *://*.wordspilot.com/*
 *://*.pfptown.com/*
 *://*.stabledifffusion.com/*
+*://*.bestofai.com/*
 
 
 # Sites that have .art domain extension
