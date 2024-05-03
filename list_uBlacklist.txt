@@ -1361,6 +1361,7 @@
 *://*.90creators.com/*
 *://*.gachax.com/anime/*
 *://*.ocfchess.org/*
+*://*.onexception.dev/*
 
 
 # // VoiceMod shit 
