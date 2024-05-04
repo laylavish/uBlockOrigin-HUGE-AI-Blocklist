@@ -500,6 +500,7 @@
 *://*.pfptown.com/*
 *://*.stabledifffusion.com/*
 *://*.bestofai.com/*
+*://*.askmkbhd.com/*
 
 
 # Sites that have .art domain extension
