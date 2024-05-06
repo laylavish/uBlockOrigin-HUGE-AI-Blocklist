@@ -65,7 +65,7 @@ Since it was requested, I've added a list in HOSTS format for pi-hole/adguard or
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
 ```
 
-For use in your operating system, visit the url and copy-paste the contents inside your operating systems host file. 
+For use in your operating system, visit the url and copy-paste the contents inside your operating systems hosts file. 
 
 Here's a simple guide on how to [access your hosts file on Linux, macOS, and Windows.](https://linuxize.com/post/how-to-edit-your-hosts-file/)
 
