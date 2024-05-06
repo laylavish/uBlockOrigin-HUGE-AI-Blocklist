@@ -1376,24 +1376,3 @@ google.com,duckduckgo.com,bing.com##a[href*="tuna.voicemod.net/sound/1fdc3b37-44
 
 ! // Getty Wallpapers
 google.com,duckduckgo.com,bing.com##a[href*="gettywallpapers.com/cute-anime-girl-profile-pictures"]:upward(div):style(opacity:0.00!important;)
-
-
-! // Procedural Filtering
-
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Stable Diffusion/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/AI Art/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Generative AI/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Ai/):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/AI/):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Lora Model/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/diffusion/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/midjourney/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/niji/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/SDXL/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/ai generated/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/text image synthesis/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/aiart/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/AI illustration/i):upward(div):style(opacity:0!important)
-
-
-
