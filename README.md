@@ -1,5 +1,7 @@
 # uBlockOrigin & uBlacklist Huge AI Blocklist
-A huge blocklist of sites (~950) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist.
+A huge blocklist of sites (~950) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist. 
+
+A hosts file for pihole/adguard is available as well.
 
 
 ## Installing the blocklist for uBlock Origin
@@ -55,6 +57,33 @@ into the "URL" part of the dialogue box, then press the blue "Add" button.
 
 7. (optional) Set the update interval to an hour for near-realtime list updates.
 
+## Hosts file for pi-hole/adguard
+
+Since it was requested, I've added a list in HOSTS format for pi-hole/adguard or for use in your own operating system's hosts file.
+
+```
+https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
+```
+
+For use in your operating system, visit the url and copy-paste the contents inside your operating systems host file. 
+
+Here's a simple guide on how to [access your hosts file on Linux, macOS, and Windows.](https://linuxize.com/post/how-to-edit-your-hosts-file/)
+
+### For pi-hole: 
+1. Visit your admin's dashboard
+2. Click on `Adlists`
+3. Copy and paste the url into the `address:` box
+4. Hit the `add` button, and it should be added.
+
+### For Adguard:
+
+1. Open Adguard Home Dashboard
+2. Go to filters --> DNS blocklists.
+3. Click `Add blocklist`, then `Add a custom list`.
+4. Enter the name of the list (eg. AI blocklist) into the first dialogue box.
+5. Copy and paste the url into the second dialogue box.
+6. Hit save, and the list is added!
+
 
 ## Additional list(s)
 
@@ -63,14 +92,14 @@ As of right now, there are two lists. The main default list, and the nuclear lis
 The nuclear list has sites that contain a mix of authentic and AI generated imagery (eg. DeviantArt, Artstation, Stock Photography sites, etc), which make it tricky to outright block in the main filter list, so I've designated it to a separate list that you can toggle on and off if you so desire.
 
 ### uBlock Origin
-In order to use the **Nuclear** list, do the same steps that you did in the section "How to install the blocklist (uBlock Origin)", but instead of using the other url, use:
+In order to use the **Nuclear** list, do the same steps that you did in the section "Installing the blocklist for uBlock Origin", but instead of using the other url, use:
 
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/additional_list_nuclear.txt
 ```
 
 ### uBlacklist
-In order to use the **Nuclear** list, do the same steps that you did in the section "How to install the blocklist (uBlacklist)", but instead of using the other URL, use:
+In order to use the **Nuclear** list, do the same steps that you did in the section "Installing the blocklist for uBlacklist", but instead of using the other URL, use:
 
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
@@ -94,9 +123,7 @@ Or, if you don't want to go through that mumbo-jumbo, add this line in your filt
 #@#a[href*="example.com"]:upward(div):style(opacity:0.00!important;)
 ```
 
-
 Change "example.com" to the URL you want to allowlist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
-
 
 ### For uBlacklist:
 1. Enter uBlacklist's options panel. 
@@ -106,6 +133,48 @@ Change "example.com" to the URL you want to allowlist. Copy & paste that in uBlo
 ```
 3. Change "example.com" to a website you want allowlisted. 
 4. Click save. Done!
+
+## Extended Filtering
+
+It is possible to filter AI results based on keywords. It was originally in the list, but it's been taken out to make it configurable and/or optional (since it is a blanket ruling, and doesn't care about context).
+
+### uBlock Origin
+In your personal filter list, you can use this template to add your own keywords you would like to block.
+
+```
+google.com,duckduckgo.com,bing.com##div>a:has-text(/Your Text Here/i):upward(div):style(opacity:0!important)
+```
+Replace "Your Text Here" with your preferred keywords. A short list of **optional** procedural filters that you can use for uBlock Origin are listed below:
+
+```
+google.com,duckduckgo.com,bing.com##div>a:has-text(/Stable Diffusion/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/AI Art/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/Generative AI/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/Ai/):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/AI/):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/Lora Model/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/diffusion/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/midjourney/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/niji/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/SDXL/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/ai generated/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/aiart/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com##div>a:has-text(/AI illustration/i):upward(div):style(opacity:0!important)
+```
+
+### uBlacklist
+
+For uBlacklist, you can use [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to filter AI results based on keywords. 
+
+An example of a regular expression for uBlacklist would be: `/ai *(generated)?|stable *diffusion/i`
+
+Below is a small list of **optional** regular expressions that can be used to filter out AI results based on keywords:
+
+```
+/(generative)? *AI *(art|generated|illustration)?/i
+/(ada)?Lo(RA|Con) *(model)?|(stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|(text|txt|img|image) *(to|2) *(image|img|video)/i
+```
+
 
 
 ## What is the difference between uBlock Origin and uBlacklist implementations?
@@ -125,7 +194,11 @@ Not only that, but there are lots of lists you can subscribe to that will clean 
 ## To Do
 ✅ Provide blocklist for uBlacklist compatibility
 
-✅ Make blocklist work on other search engines such as DuckDuckGo and Bing (ew)
+✅ Blocklist functionality on DuckDuckGo and Bing (ew)
+
+✅ Create hosts file for pi-hole/adguard
+
+❌ Startpage, Ecosia, etc support 
 
 
 ## Special thanks
