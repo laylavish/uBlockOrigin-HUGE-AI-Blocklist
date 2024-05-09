@@ -943,6 +943,7 @@
 0.0.0.0 ocfchess.org
 0.0.0.0 onexception.dev
 0.0.0.0 cloe.bytebeacon.com
+0.0.0.0 maroonchess.com
 
 
 #### www. ver
@@ -1877,3 +1878,4 @@
 0.0.0.0 www.ocfchess.org
 0.0.0.0 www.onexception.dev
 0.0.0.0 www.cloe.bytebeacon.com
+0.0.0.0 www.maroonchess.com
