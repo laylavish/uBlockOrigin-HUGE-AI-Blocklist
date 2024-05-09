@@ -1179,6 +1179,7 @@ google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/darkprncsai"]:upward
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/dendyh7"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/jaredsyn"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/instaai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/lizzyrascal"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1368,6 +1369,7 @@ google.com,duckduckgo.com,bing.com##a[href*="90creators.com"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="gachax.com/anime"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ocfchess.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="onexception.dev"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="maroonchess.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
