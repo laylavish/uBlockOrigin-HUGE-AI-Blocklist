@@ -188,7 +188,7 @@ Although the latter is inferior, it is a bit rare for that to happen, especially
 
 I created a repo that houses [fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!
 
-Not only that, but there are lots of lists you can subscribe to that will clean up the internet more, such as [rjaus' awesome ublacklist subscription list](https://github.com/rjaus/awesome-ublacklist)
+Not only that, but there are lots of lists you can subscribe to that will clean up the internet more, such as [rjaus' awesome ublacklist subscription list.](https://github.com/rjaus/awesome-ublacklist)
 
 
 ## To Do
