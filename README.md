@@ -198,7 +198,7 @@ Not only that, but there are lots of lists you can subscribe to that will clean 
 
 ✅ Create hosts file for pi-hole/adguard
 
-❌ Startpage, Ecosia, etc support 
+❌ Startpage, Ecosia, Brave support 
 
 
 ## Special thanks
