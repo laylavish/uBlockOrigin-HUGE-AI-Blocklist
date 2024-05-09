@@ -1189,6 +1189,7 @@
 *://*.deviantart.com/dendyh7/*
 *://*.deviantart.com/jaredsyn/*
 *://*.deviantart.com/instaai/*
+*://*.deviantart.com/lizzyrascal/*
 
 
 # Block list of AI "artists"/orgs (artstation)
@@ -1363,6 +1364,7 @@
 *://*.gachax.com/anime/*
 *://*.ocfchess.org/*
 *://*.onexception.dev/*
+*://*.maroonchess.com/*
 
 
 # // VoiceMod shit 
