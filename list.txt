@@ -751,7 +751,8 @@ google.com,duckduckgo.com,bing.com##a[href*="invideo.io"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="laive.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="media.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="musicfy.lol"]:upward(div):style(opacity:0.00!important;)
-google.com,duckduckgo.com,bing.com##a[href*="play.ht"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="/play.ht"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*=".play.ht"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="prompt.quel.jp"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="rizzgpt.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="soundraw.io"]:upward(div):style(opacity:0.00!important;)
@@ -1378,3 +1379,7 @@ google.com,duckduckgo.com,bing.com##a[href*="tuna.voicemod.net/sound/1fdc3b37-44
 
 ! // Getty Wallpapers
 google.com,duckduckgo.com,bing.com##a[href*="gettywallpapers.com/cute-anime-girl-profile-pictures"]:upward(div):style(opacity:0.00!important;)
+
+! // Just in case exceptions
+mail.google.com#@#a[href*="/play.ht"]:upward(div):style(opacity:0.00!important;)
+mail.google.com#@#a[href*=".play.ht"]:upward(div):style(opacity:0.00!important;)
