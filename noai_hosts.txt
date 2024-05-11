@@ -346,7 +346,6 @@
 0.0.0.0 sarahmeyohas.com
 0.0.0.0 violetforest.com
 0.0.0.0 dreamup.com
-0.0.0.0 artbreeder
 0.0.0.0 vana.com
 0.0.0.0 aiartapps.com
 0.0.0.0 diffusionbee.com
@@ -1281,7 +1280,6 @@
 0.0.0.0 www.sarahmeyohas.com
 0.0.0.0 www.violetforest.com
 0.0.0.0 www.dreamup.com
-0.0.0.0 www.artbreeder
 0.0.0.0 www.vana.com
 0.0.0.0 www.aiartapps.com
 0.0.0.0 www.diffusionbee.com
