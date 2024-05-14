@@ -284,6 +284,7 @@
 *://*.partner.ai/*
 *://*.magnific.ai/*
 *://*.mythmaker.ai/*
+*://*.typeface.ai/*
 
 
 # Sites that have .com domain extension
