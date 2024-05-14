@@ -296,6 +296,7 @@
 0.0.0.0 3d.ai
 0.0.0.0 partner.ai
 0.0.0.0 magnific.ai
+0.0.0.0 mythmaker.ai
 
 
 # [.com sites]
@@ -1230,6 +1231,7 @@
 0.0.0.0 www.3d.ai
 0.0.0.0 www.partner.ai
 0.0.0.0 www.magnific.ai
+0.0.0.0 www.mythmaker.ai
 
 
 # [.com sites]

@@ -283,6 +283,7 @@
 *://*.3d.ai/*
 *://*.partner.ai/*
 *://*.magnific.ai/*
+*://*.mythmaker.ai/*
 
 
 # Sites that have .com domain extension
