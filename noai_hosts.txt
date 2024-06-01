@@ -1,3 +1,4 @@
+#### HAPPY PRIDE MONTH
 ### An AI Blocklist in host format made with love by laylavish
 
 # Home Project: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
@@ -298,6 +299,8 @@
 0.0.0.0 magnific.ai
 0.0.0.0 mythmaker.ai
 0.0.0.0 typeface.ai
+0.0.0.0 happyaccidents.ai
+0.0.0.0 fal.ai
 
 
 # [.com sites]
@@ -514,6 +517,7 @@
 0.0.0.0 stabledifffusion.com
 0.0.0.0 bestofai.com
 0.0.0.0 askmkbhd.com
+0.0.0.0 aquariumfishsource.com
 
 
 # [.art sites]
@@ -945,6 +949,7 @@
 0.0.0.0 onexception.dev
 0.0.0.0 cloe.bytebeacon.com
 0.0.0.0 maroonchess.com
+0.0.0.0 samurai-gamers.com
 
 
 #### www. ver
@@ -1234,6 +1239,8 @@
 0.0.0.0 www.magnific.ai
 0.0.0.0 www.mythmaker.ai
 0.0.0.0 www.typeface.ai
+0.0.0.0 www.happyaccidents.ai
+0.0.0.0 www.fal.ai
 
 
 # [.com sites]
@@ -1450,6 +1457,7 @@
 0.0.0.0 www.stabledifffusion.com
 0.0.0.0 www.bestofai.com
 0.0.0.0 www.askmkbhd.com
+0.0.0.0 www.aquariumfishsource.com
 
 
 # [.art sites]
@@ -1881,3 +1889,4 @@
 0.0.0.0 www.onexception.dev
 0.0.0.0 www.cloe.bytebeacon.com
 0.0.0.0 www.maroonchess.com
+0.0.0.0 www.samurai-gamers.com
