@@ -200,6 +200,8 @@ Not only that, but there are lots of lists you can subscribe to that will clean 
 
 ❌ Startpage, Ecosia, Brave support 
 
+## Happy Pride Month!
+LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
 
 ## Special thanks
 
