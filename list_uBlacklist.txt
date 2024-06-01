@@ -1,3 +1,19 @@
+#### HAPPY PRIDE MONTH
+### An AI Blocklist in uBlacklist format made with love by laylavish
+
+# Home Project: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+# Feel free to submit a pull request if you find more sites!
+# Thank you for all the stars, but the real star is you!
+
+### Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
+
+# I love you. 
+# You are valid.
+# LGBTQ+ Rights!
+# Keep your chin up--we will get through this together <33
+# Have a happy day!
+
+
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 # Sites that have .ai domain extension
@@ -285,6 +301,8 @@
 *://*.magnific.ai/*
 *://*.mythmaker.ai/*
 *://*.typeface.ai/*
+*://*.happyaccidents.ai/*
+*://*.fal.ai/*
 
 
 # Sites that have .com domain extension
@@ -503,6 +521,7 @@
 *://*.stabledifffusion.com/*
 *://*.bestofai.com/*
 *://*.askmkbhd.com/*
+*://*.aquariumfishsource.com/*
 
 
 # Sites that have .art domain extension
@@ -1367,6 +1386,7 @@
 *://*.ocfchess.org/*
 *://*.onexception.dev/*
 *://*.maroonchess.com/*
+*://*.samurai-gamers.com/*
 
 
 # // VoiceMod shit 
