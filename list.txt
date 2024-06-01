@@ -7,6 +7,17 @@
 ! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
 ! Feel free to fork and submit pr's if you find more sites 
 
+! HAPPY PRIDE MONTH
+
+! Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
+
+! I love you. 
+! You are valid.
+! LGBTQ+ Rights!
+! Keep your chin up--we will get through this together <33
+! Have a happy day!
+
+
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extension
@@ -294,6 +305,8 @@ google.com,duckduckgo.com,bing.com##a[href*="partner.ai"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="magnific.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="mythmaker.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="typeface.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="happyaccidents.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="fal.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -512,6 +525,7 @@ google.com,duckduckgo.com,bing.com##a[href*="pfptown.com"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="stabledifffusion.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bestofai.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="askmkbhd.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aquariumfishsource.com"]:upward(div):style(opacity:0.00!important;)
 
 
 
@@ -1373,6 +1387,7 @@ google.com,duckduckgo.com,bing.com##a[href*="gachax.com/anime"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="ocfchess.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="onexception.dev"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="maroonchess.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="samurai-gamers.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
