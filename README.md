@@ -175,6 +175,10 @@ Below is a small list of **optional** regular expressions that can be used to fi
 /(ada)?Lo(RA|Con) *(model)?|(stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|(text|txt|img|image) *(to|2) *(image|img|video)/i
 ```
 
+## Extension not working??? Try this!
+If your newly imported list isn't working, it may be because of an outdated web browsing session. If you're web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't work/won't function correctly. 
+
+Try creating a new session, aka closing **all** web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If that doesn't work, then try clearing your browser's cache.
 
 
 ## What is the difference between uBlock Origin and uBlacklist implementations?
@@ -205,4 +209,12 @@ LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
 
 ## Special thanks
 
-Special thanks to this [pastebin](https://pastebin.com/B8kP4imQ) (since it added even more sites to my blocklist) and to u/AchernarB for the [awesome snip-bit of code.](https://www.reddit.com/r/uBlockOrigin/comments/13uyex5/how_to_block_results_from_a_specific_site_in_the/)
+Special thanks to: 
+
+This [pastebin](https://pastebin.com/B8kP4imQ) (since it added even more sites to my blocklist)
+
+u/AchernarB for the [awesome snip-bit of code.](https://www.reddit.com/r/uBlockOrigin/comments/13uyex5/how_to_block_results_from_a_specific_site_in_the/)
+
+Raymond Hill, [uBlock Origin extension](https://github.com/gorhill/uBlock)
+
+iorate, [uBlacklist extension](https://github.com/iorate/ublacklist)
