@@ -85,6 +85,11 @@ Here's a simple guide on how to [access your hosts file on Linux, macOS, and Win
 6. Hit save, and the list is added!
 
 
+## Extension not working as expected??? Try this!
+If your newly imported list isn't working, it may be because of an outdated web browsing session. If you're web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't work/won't function correctly. 
+
+Try creating a new session, aka closing **all** web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If that doesn't work, then try clearing your browser's cache.
+
 ## Additional list(s)
 
 As of right now, there are two lists. The main default list, and the nuclear list.
@@ -174,12 +179,6 @@ Below is a small list of **optional** regular expressions that can be used to fi
 /(generative)? *AI *(art|generated|illustration)?/i
 /(ada)?Lo(RA|Con) *(model)?|(stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|(text|txt|img|image) *(to|2) *(image|img|video)/i
 ```
-
-## Extension not working??? Try this!
-If your newly imported list isn't working, it may be because of an outdated web browsing session. If you're web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't work/won't function correctly. 
-
-Try creating a new session, aka closing **all** web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If that doesn't work, then try clearing your browser's cache.
-
 
 ## What is the difference between uBlock Origin and uBlacklist implementations?
 uBlock Origin's implementation is technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods.
