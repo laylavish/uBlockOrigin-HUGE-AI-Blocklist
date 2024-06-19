@@ -210,10 +210,10 @@ LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
 
 Special thanks to: 
 
-This [pastebin](https://pastebin.com/B8kP4imQ) (since it added even more sites to my blocklist)
++ This [pastebin](https://pastebin.com/B8kP4imQ) (since it added even more sites to my blocklist)
 
-u/AchernarB for the [awesome snip-bit of code.](https://www.reddit.com/r/uBlockOrigin/comments/13uyex5/how_to_block_results_from_a_specific_site_in_the/)
++ u/AchernarB for the [awesome snip-bit of code.](https://www.reddit.com/r/uBlockOrigin/comments/13uyex5/how_to_block_results_from_a_specific_site_in_the/)
 
-Raymond Hill, [uBlock Origin extension](https://github.com/gorhill/uBlock)
++ Raymond Hill, [uBlock Origin extension](https://github.com/gorhill/uBlock)
 
-iorate, [uBlacklist extension](https://github.com/iorate/ublacklist)
++ iorate, [uBlacklist extension](https://github.com/iorate/ublacklist)
