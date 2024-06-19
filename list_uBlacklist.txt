@@ -22,6 +22,7 @@
 *://*.plugger.ai/*
 *://*.zavant.ai/*
 *://*.openart.ai/*
+*://*.meta.ai/*
 *://*.artguru.ai/*
 *://*.artsi.ai/*
 *://*.getimg.ai/*
@@ -459,6 +460,8 @@
 *://*.pixai.com/*
 *://*.magicstudio.com/*
 *://*.openai.com/*
+*://*.chatgpt.com/*
+*://*.apple.com/apple-intelligence/*
 *://*.zebrabi.com/*
 *://*.mixcomfy.com/*
 *://*.scenario.com/*
