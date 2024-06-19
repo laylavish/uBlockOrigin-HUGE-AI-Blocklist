@@ -305,6 +305,7 @@
 *://*.happyaccidents.ai/*
 *://*.fal.ai/*
 *://*.talkpal.ai/*
+*://*.sdxlturbo.ai/*
 
 
 # Sites that have .com domain extension
