@@ -20,6 +20,7 @@
 0.0.0.0 plugger.ai
 0.0.0.0 zavant.ai
 0.0.0.0 openart.ai
+0.0.0.0 meta.ai
 0.0.0.0 artguru.ai
 0.0.0.0 artsi.ai
 0.0.0.0 getimg.ai
@@ -456,6 +457,7 @@
 0.0.0.0 pixai.com
 0.0.0.0 magicstudio.com
 0.0.0.0 openai.com
+0.0.0.0 chatgpt.com
 0.0.0.0 zebrabi.com
 0.0.0.0 mixcomfy.com
 0.0.0.0 scenario.com

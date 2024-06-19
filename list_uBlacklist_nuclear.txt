@@ -43,6 +43,7 @@
 
 # //// Subreddits
 *://*.reddit.com/r/CatgirlSFW/*
+*://*.reddit.com/r/MildFemboys/*
 *://*.reddit.com/r/100Kanojo/*
 
 # //// Pinterest
