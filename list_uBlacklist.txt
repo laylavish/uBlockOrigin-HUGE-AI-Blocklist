@@ -304,6 +304,7 @@
 *://*.typeface.ai/*
 *://*.happyaccidents.ai/*
 *://*.fal.ai/*
+*://*.talkpal.ai/*
 
 
 # Sites that have .com domain extension
