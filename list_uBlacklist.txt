@@ -1063,6 +1063,8 @@
 *://*.x.com/cocktailpeanut/*
 *://*.twitter.com/Ai99gAmi/*
 *://*.x.com/Ai99gAmi/*
+*://*.twitter.com/thisislux/*
+*://*.x.com/thisislux/*
 
 
 # Block list of AI "artists"/orgs (youtube)
