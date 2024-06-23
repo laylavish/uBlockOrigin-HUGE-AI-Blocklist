@@ -1394,6 +1394,7 @@
 *://*.onexception.dev/*
 *://*.maroonchess.com/*
 *://*.samurai-gamers.com/*
+*://*.zleague.gg/*
 
 
 # // VoiceMod shit 
