@@ -306,6 +306,7 @@
 *://*.fal.ai/*
 *://*.talkpal.ai/*
 *://*.sdxlturbo.ai/*
+*://*.brainds.ai/*
 
 
 # Sites that have .com domain extension
