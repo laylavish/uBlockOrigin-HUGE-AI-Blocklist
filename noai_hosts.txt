@@ -302,6 +302,9 @@
 0.0.0.0 typeface.ai
 0.0.0.0 happyaccidents.ai
 0.0.0.0 fal.ai
+0.0.0.0 talkpal.ai
+0.0.0.0 sdxlturbo.ai
+0.0.0.0 brainds.ai
 
 
 # [.com sites]
@@ -952,6 +955,7 @@
 0.0.0.0 cloe.bytebeacon.com
 0.0.0.0 maroonchess.com
 0.0.0.0 samurai-gamers.com
+0.0.0.0 zleague.gg
 
 
 #### www. ver
@@ -1243,6 +1247,9 @@
 0.0.0.0 www.typeface.ai
 0.0.0.0 www.happyaccidents.ai
 0.0.0.0 www.fal.ai
+0.0.0.0 www.talkpal.ai
+0.0.0.0 www.sdxlturbo.ai
+0.0.0.0 www.brainds.ai
 
 
 # [.com sites]
@@ -1892,3 +1899,4 @@
 0.0.0.0 www.cloe.bytebeacon.com
 0.0.0.0 www.maroonchess.com
 0.0.0.0 www.samurai-gamers.com
+0.0.0.0 www.zleague.gg
