@@ -305,6 +305,7 @@
 0.0.0.0 talkpal.ai
 0.0.0.0 sdxlturbo.ai
 0.0.0.0 brainds.ai
+0.0.0.0 besuper.ai
 
 
 # [.com sites]
@@ -1250,6 +1251,7 @@
 0.0.0.0 www.talkpal.ai
 0.0.0.0 www.sdxlturbo.ai
 0.0.0.0 www.brainds.ai
+0.0.0.0 www.besuper.ai
 
 
 # [.com sites]
