@@ -41,6 +41,9 @@
 *://*.alphacoders.com/*
 *://*.rollingpress.co.ke/*
 
+# // Things that use Anthropic, Open AI, etc api/backend/models, but its usage is abnormal to that of gAI image or chat models
+*://*.talpasearch.com/*
+
 # //// Subreddits
 *://*.reddit.com/r/CatgirlSFW/*
 *://*.reddit.com/r/MildFemboys/*
