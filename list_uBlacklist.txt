@@ -308,6 +308,7 @@
 *://*.sdxlturbo.ai/*
 *://*.brainds.ai/*
 *://*.besuper.ai/*
+*://*.captions.ai/*
 
 
 # Sites that have .com domain extension
@@ -529,6 +530,7 @@
 *://*.bestofai.com/*
 *://*.askmkbhd.com/*
 *://*.aquariumfishsource.com/*
+*://*.fishkeepingadvice.com/*
 
 
 # Sites that have .art domain extension
