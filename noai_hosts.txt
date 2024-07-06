@@ -306,6 +306,7 @@
 0.0.0.0 sdxlturbo.ai
 0.0.0.0 brainds.ai
 0.0.0.0 besuper.ai
+0.0.0.0 captions.ai
 
 
 # [.com sites]
@@ -524,6 +525,7 @@
 0.0.0.0 bestofai.com
 0.0.0.0 askmkbhd.com
 0.0.0.0 aquariumfishsource.com
+0.0.0.0 fishkeepingadvice.com
 
 
 # [.art sites]
@@ -1252,6 +1254,7 @@
 0.0.0.0 www.sdxlturbo.ai
 0.0.0.0 www.brainds.ai
 0.0.0.0 www.besuper.ai
+0.0.0.0 www.captions.ai
 
 
 # [.com sites]
@@ -1469,6 +1472,7 @@
 0.0.0.0 www.bestofai.com
 0.0.0.0 www.askmkbhd.com
 0.0.0.0 www.aquariumfishsource.com
+0.0.0.0 www.fishkeepingadvice.com
 
 
 # [.art sites]
