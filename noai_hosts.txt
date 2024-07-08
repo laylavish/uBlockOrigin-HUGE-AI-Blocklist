@@ -526,6 +526,7 @@
 0.0.0.0 askmkbhd.com
 0.0.0.0 aquariumfishsource.com
 0.0.0.0 fishkeepingadvice.com
+0.0.0.0 aigodlike.com
 
 
 # [.art sites]
@@ -1473,6 +1474,7 @@
 0.0.0.0 www.askmkbhd.com
 0.0.0.0 www.aquariumfishsource.com
 0.0.0.0 www.fishkeepingadvice.com
+0.0.0.0 www.aigodlike.com
 
 
 # [.art sites]
