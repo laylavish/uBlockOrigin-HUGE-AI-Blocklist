@@ -531,6 +531,7 @@
 *://*.askmkbhd.com/*
 *://*.aquariumfishsource.com/*
 *://*.fishkeepingadvice.com/*
+*://*.aigodlike.com/*
 
 
 # Sites that have .art domain extension
