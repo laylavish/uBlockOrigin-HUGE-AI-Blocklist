@@ -532,6 +532,7 @@
 *://*.aquariumfishsource.com/*
 *://*.fishkeepingadvice.com/*
 *://*.aigodlike.com/*
+*://*.github.com/lllyasviel/*
 
 
 # Sites that have .art domain extension
