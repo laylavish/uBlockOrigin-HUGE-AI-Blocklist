@@ -536,6 +536,7 @@ google.com,duckduckgo.com,bing.com##a[href*="askmkbhd.com"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="aquariumfishsource.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="fishkeepingadvice.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aigodlike.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="github.com/lllyasviel"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
