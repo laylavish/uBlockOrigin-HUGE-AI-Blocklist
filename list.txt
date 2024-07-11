@@ -1388,6 +1388,16 @@ google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Rabbit-Coloring-Book-Rab
 google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Cat-Coloring-Book-Cats-Windows/dp/B0CVLFSSGC"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Kawaii-Sketchbook-drawing-notebook-journal/dp/B0C9S8W4PW"]:upward(div):style(opacity:0.00!important;)
 
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Anime-Coloring-Book-Drawing-Enthusiasts/dp/B0C8R9DD5J"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Anime-Coloring-Book-Chibi-Kawaii/dp/B0CZP35QWQ"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Anime-Coloring-Book-Enthusiasts-Stress/dp/B0C79NPRKT"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Sexy-Anime-Coloring-Book-Enthusiasts/dp/B0C8QXCZSD"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Sexy-Anime-Coloring-Book-Enthusiasts/dp/B0CMSDFXKS"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Anime-Coloring-Book-Zodiac-Enthusiasts/dp/B0C91XFRLH"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Anime-Coloring-Book-Flower-Enthusiasts/dp/B0CCCMZXQG"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/Anime-Coloring-Book-Manhua-Enthusiasts/dp/B0CMCKC5GM"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="amazon.com/stores/Aeryn-Zen/author/B0C7NL912Q"]:upward(div):style(opacity:0.00!important;)
+
 
 ! // AI content farms/spam
 google.com,duckduckgo.com,bing.com##a[href*="boddeswasusi.github.io"]:upward(div):style(opacity:0.00!important;)
