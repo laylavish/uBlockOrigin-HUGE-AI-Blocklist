@@ -1388,6 +1388,16 @@
 /amazon.+\/.+\/dp\/B0CVHLGJS8/
 /amazon.+\/.+\/dp\/B0C9S8W4PW/
 
+/amazon.+\/.+\/dp\/B0C8R9DD5J/
+/amazon.+\/.+\/dp\/B0CZP35QWQ/
+/amazon.+\/.+\/dp\/B0C79NPRKT/
+/amazon.+\/.+\/dp\/B0C8QXCZSD/
+/amazon.+\/.+\/dp\/B0CMSDFXKS/
+/amazon.+\/.+\/dp\/B0C91XFRLH/
+/amazon.+\/.+\/dp\/B0CCCMZXQG/
+/amazon.+\/.+\/dp\/B0CMCKC5GM/
+*://*.amazon.com/stores/Aeryn-Zen/author/B0C7NL912Q/*
+
 
 # // AI content farms/spam
 *://*.boddeswasusi.github.io/*
