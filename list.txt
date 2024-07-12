@@ -1068,7 +1068,10 @@ google.com,duckduckgo.com,bing.com##a[href*="twitter.com/thisislux/"]:upward(div
 google.com,duckduckgo.com,bing.com##a[href*="x.com/thisislux/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/new_nonoka/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/new_nonoka/"]:upward(div):style(opacity:0.00!important;)
-
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/nonoka_furry/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/nonoka_furry/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/meeer712/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/meeer712/"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
