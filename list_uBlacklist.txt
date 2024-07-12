@@ -1073,6 +1073,10 @@
 *://*.x.com/thisislux/*
 *://*.twitter.com/new_nonoka/*
 *://*.x.com/new_nonoka/*
+*://*.twitter.com/nonoka_furry/*
+*://*.x.com/nonoka_furry/*
+*://*.twitter.com/meeer712/*
+*://*.x.com/meeer712/*
 
 
 # Block list of AI "artists"/orgs (youtube)
