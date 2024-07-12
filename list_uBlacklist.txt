@@ -1071,6 +1071,8 @@
 *://*.x.com/Ai99gAmi/*
 *://*.twitter.com/thisislux/*
 *://*.x.com/thisislux/*
+*://*.twitter.com/new_nonoka/*
+*://*.x.com/new_nonoka/*
 
 
 # Block list of AI "artists"/orgs (youtube)
