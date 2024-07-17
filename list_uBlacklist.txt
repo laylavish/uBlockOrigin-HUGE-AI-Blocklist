@@ -1077,6 +1077,8 @@
 *://*.x.com/nonoka_furry/*
 *://*.twitter.com/meeer712/*
 *://*.x.com/meeer712/*
+*://*.twitter.com/si12o2/*
+*://*.x.com/si12o2/*
 
 
 # Block list of AI "artists"/orgs (youtube)
