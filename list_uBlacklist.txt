@@ -671,6 +671,7 @@
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
 *://*.transpic.cn/*
+*://*.aitree.io/*
 *://*.sticky.cool/*
 *://*.playform.io/*
 *://*.live3d.io/*
