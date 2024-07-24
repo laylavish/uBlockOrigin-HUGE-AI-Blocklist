@@ -180,12 +180,12 @@ Below is a small list of **optional** regular expressions that can be used to fi
 /(ada)?Lo(RA|Con) *(model)?|(stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|(text|txt|img|image) *(to|2) *(image|img|video)/i
 ```
 
-## What is the difference between uBlock Origin and uBlacklist implementations?
-uBlock Origin's implementation is technically superior, as it allows you to continue scrolling even when tons of blocked websites are queried, since all it does is **set the offending sites' opacity to 0** instead of using traditional blocking methods.
+## What is the difference between uBlock Origin and uBlacklist?
+Currently, uBlacklist has an issue with pagination on Google Images, meaning that if too many AI images are blocked on a single page, you won't be able to scroll further down to load more. This is rare, although it can happen. 
 
-uBlacklist on the otherhand, **blocks the queries outright**--meaning if too many AI sites are in your image search results, you will not be able to scroll any further than the first 6 rows of images (seems to be exclusive to Google Images).
+uBlock Origin does not have this issue, since it is only changing the opacity of the divs instead of blocking them. This means that image searches look a little bit strange, since there will be gaps where the images are "blocked."
 
-Although the latter is inferior, it is a bit rare for that to happen, especially if you append operators such as ```-ai``` in your query. Just keep that in mind (it may also be a bug on uBlacklist's part).
+If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of them and see which one works better for you! :)
 
 ## What if you want to go even further beyond?
 
