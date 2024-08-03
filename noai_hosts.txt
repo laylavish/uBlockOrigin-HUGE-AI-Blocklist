@@ -307,6 +307,7 @@
 0.0.0.0 brainds.ai
 0.0.0.0 besuper.ai
 0.0.0.0 captions.ai
+0.0.0.0 aleatory.ai
 
 
 # [.com sites]
@@ -1256,6 +1257,7 @@
 0.0.0.0 www.brainds.ai
 0.0.0.0 www.besuper.ai
 0.0.0.0 www.captions.ai
+0.0.0.0 www.aleatory.ai
 
 
 # [.com sites]
