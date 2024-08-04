@@ -784,7 +784,7 @@
 *://*.toolsadvisor.org/*
 *://*.veed.io/*
 *://*.visla.us/*
-
+*://*.conoha.jp/ai/canvas/*
 
 
 # AI projects hosted on other sites
@@ -794,7 +794,6 @@
 *://*.aipicasso.studio.site/*
 *://*.giotto.streamlit.app/*
 *://*.acrylic.typedream.app/*
-
 
 
 # Google Play AI applications
