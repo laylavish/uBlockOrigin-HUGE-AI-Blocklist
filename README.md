@@ -12,7 +12,7 @@ If you have uBlock Origin installed, click [this link](https://subscribe.adblock
 
 ### Manual Import
 
-1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (works on Android too!).
+1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (Android works too!).
 
 2. Click on the uBlock Origin Extension, and in the bottom right, there is a cog-wheel symbol--named the dashboard. Click it.
 
@@ -38,7 +38,7 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 ## Installing the blocklist for uBlacklist
 
-1. Make sure that you have the uBlacklist extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/), [Chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), or any browser that supports uBlacklist (works on Android too!).
+1. Make sure that you have the uBlacklist extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/), [Chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), or any browser that supports uBlacklist (Android works too!).
 
 2. Click on your extensions list, select uBlacklist, then click on the "options" text, highlighted in blue.
 > This will take you to the uBlacklist options panel, similar to the Dashboard in uBlock Origin
@@ -51,11 +51,40 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
 ``` 
-into the "URL" part of the dialogue box, then press the blue "Add" button.
+into the **URL** part of the dialogue box, then press the blue **Add** button.
 
 6. There you go! You're done!
 
 7. (optional) Set the update interval to an hour for near-realtime list updates.
+
+### iOS, iPad OS (Safari)
+
+1. Download uBlacklist, [available on the App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
+
+2. Go into settings, scroll down until you see Safari, and tap on it.
+
+3. Once in the Safari settings, in General, hit **Extensions**. Turn on the uBlacklist extension.
+
+4. While still in uBlacklist's settings, in the **Permissions for uBlacklist** section, scroll down to your preferred search engine, and change the permission from "Ask" to "Allow."
+
+> This may look cumbersome, but all you really need to do is just allow the extension to hit your search engine's locale, (eg. google.fr, google.co.uk). You can go through all of them and allow them, but it's not really necessary
+
+5. Now scroll back up, and hit the blue **Extension Settings** button. It will bring you to Safari and open uBlacklist's settings panel.
+
+6. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
+
+7. Give a name for the added blocklist (eg. Main AI blocklist).
+  
+8. Copy and paste this url 
+```
+https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
+``` 
+into the **URL** part of the dialogue box, then press the blue **Add** button.
+
+6. There you go! You're done!
+
+7. (optional) Set the update interval to an hour for near-realtime list updates.
+
 
 ## Hosts file for pi-hole/adguard
 
