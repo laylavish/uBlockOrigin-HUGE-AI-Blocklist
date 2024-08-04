@@ -65,7 +65,7 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
 
 3. Once in the Safari settings, in General, hit **Extensions**. Turn on the uBlacklist extension.
 
-4. While still in uBlacklist's settings, in the **Permissions for uBlacklist** section, scroll down to your preferred search engine, and change the permission from "Ask" to "Allow."
+4. While still in uBlacklist's settings, in the **Permissions for uBlacklist** section, scroll down to your preferred search engine and change the permission from "Ask" to "Allow."
 
 > This may look cumbersome, but all you really need to do is just allow the extension to hit your search engine's locale, (eg. google.fr, google.co.uk). You can go through all of them and allow them, but it's not really necessary
 
