@@ -216,12 +216,6 @@ uBlock Origin does not have this issue, since it is only changing the opacity of
 
 If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of them and see which one works better for you! :)
 
-## What if you want to go even further beyond?
-
-I created a repo that houses [fantastic tips & tricks for Google Search's operators](https://github.com/laylavish/TipsTricksGoogleSearch/tree/main). Eradicate AI even more!
-
-Not only that, but there are lots of lists you can subscribe to that will clean up the internet more, such as [rjaus' awesome ublacklist subscription list.](https://github.com/rjaus/awesome-ublacklist)
-
 
 ## To Do
 ✅ Provide blocklist for uBlacklist compatibility
@@ -235,7 +229,7 @@ Not only that, but there are lots of lists you can subscribe to that will clean 
 ## Happy Pride Month!
 LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
 
-## Special thanks
+## Special Thanks
 
 Special thanks to: 
 
@@ -246,3 +240,21 @@ Special thanks to:
 + Raymond Hill, [uBlock Origin extension](https://github.com/gorhill/uBlock)
 
 + iorate, [uBlacklist extension](https://github.com/iorate/ublacklist)
+
+## Related Projects
+
+[Super SEO Spam Suppressor (SSSS)](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) by NotaInutilis
+
+> An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AI, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist. 
+
+[Journey Buster 3](https://journeybuster.com/) by k0vac
+
+> A Chromium extension that lets you know if an image is AI generated, for use on Twitter.
+
+[Awesome list of uBlacklist Subscriptions](https://github.com/rjaus/awesome-ublacklist) by rjaus
+
+> A compilation of awesome uBlacklist subscriptions to block various sites from appearing in Google, Bing, or DuckDuckGo search.
+
+[Anti-AI Google Search Tips](https://github.com/laylavish/TipsTricksGoogleSearch) by yours truly
+
+> Tips and tricks to make Google Search (and other search engines that have similar operators) return authentic imagery.
