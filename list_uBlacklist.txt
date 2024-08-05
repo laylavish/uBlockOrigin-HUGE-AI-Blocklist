@@ -310,6 +310,11 @@
 *://*.besuper.ai/*
 *://*.captions.ai/*
 *://*.aleatory.ai/*
+*://*.goenhance.ai/*
+*://*.akuma.ai/*
+*://*.reface.ai/*
+*://*.kaiber.ai/*
+*://*.meshy.ai/*
 
 
 # Sites that have .com domain extension
@@ -534,6 +539,13 @@
 *://*.fishkeepingadvice.com/*
 *://*.aigodlike.com/*
 *://*.github.com/lllyasviel/*
+*://*.perfectcorp.com/*
+*://*.deepgram.com/*
+*://*.lightxeditor.com/*
+*://*.cre8tiveai.com/*
+*://*.aeroscroll.com/*
+*://*.aipassportphotos.com/*
+*://*.ai.nero.com/*
 
 
 # Sites that have .art domain extension
@@ -785,6 +797,11 @@
 *://*.veed.io/*
 *://*.visla.us/*
 *://*.conoha.jp/ai/canvas/*
+*://*.animeart.studio/*
+*://*.domoai.app/*
+*://*.aimojo.io/*
+*://*.aimakerslab.io/*
+*://*.promeai.pro/*
 
 
 # AI projects hosted on other sites
@@ -818,10 +835,11 @@
 *://*.play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique/*
 *://*.play.google.com/store/apps/details?id=ai.art.generator.design/*
 *://*.play.google.com/store/apps/details?id=com.tapuniverse.aiartgenerator/*
+*://*.play.google.com/store/apps/details?id=com.vyroai.animeart/*
 
 
 # Apple AI applications
-*://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
+*://*.apple.com/us/app/pixai-ai-anime-art-generator/id6474528911/*
 
 
 # Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
@@ -1248,7 +1266,6 @@
 *://*.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/cuteanimegirl99/*
 *://*.facebook.com/TheTiniestTiger/*
-
 
 
 # s.id garbage
