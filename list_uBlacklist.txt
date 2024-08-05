@@ -839,6 +839,7 @@
 
 
 # Apple AI applications
+*://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
 *://*.apple.com/us/app/pixai-ai-anime-art-generator/id6474528911/*
 
 
