@@ -308,6 +308,11 @@
 0.0.0.0 besuper.ai
 0.0.0.0 captions.ai
 0.0.0.0 aleatory.ai
+0.0.0.0 goenhance.ai
+0.0.0.0 akuma.ai
+0.0.0.0 meshy.ai
+0.0.0.0 kaiber.ai
+0.0.0.0 reface.ai
 
 
 # [.com sites]
@@ -528,6 +533,13 @@
 0.0.0.0 aquariumfishsource.com
 0.0.0.0 fishkeepingadvice.com
 0.0.0.0 aigodlike.com
+0.0.0.0 perfectcorp.com
+0.0.0.0 deepgram.com
+0.0.0.0 lightxeditor.com
+0.0.0.0 cre8tiveai.com
+0.0.0.0 aeroscroll.com
+0.0.0.0 aipassportphotos.com
+0.0.0.0 ai.nero.com
 
 
 # [.art sites]
@@ -777,6 +789,11 @@
 0.0.0.0 toolsadvisor.org
 0.0.0.0 veed.io
 0.0.0.0 visla.us
+0.0.0.0 promeai.pro
+0.0.0.0 animeart.studio
+0.0.0.0 aimakerslab.io
+0.0.0.0 aimojo.io
+0.0.0.0 domoai.app
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1258,6 +1275,11 @@
 0.0.0.0 www.besuper.ai
 0.0.0.0 www.captions.ai
 0.0.0.0 www.aleatory.ai
+0.0.0.0 www.goenhance.ai
+0.0.0.0 www.akuma.ai
+0.0.0.0 www.meshy.ai
+0.0.0.0 www.kaiber.ai
+0.0.0.0 www.reface.ai
 
 
 # [.com sites]
@@ -1477,6 +1499,13 @@
 0.0.0.0 www.aquariumfishsource.com
 0.0.0.0 www.fishkeepingadvice.com
 0.0.0.0 www.aigodlike.com
+0.0.0.0 www.perfectcorp.com
+0.0.0.0 www.deepgram.com
+0.0.0.0 www.lightxeditor.com
+0.0.0.0 www.cre8tiveai.com
+0.0.0.0 www.aeroscroll.com
+0.0.0.0 www.aipassportphotos.com
+0.0.0.0 www.ai.nero.com
 
 
 # [.art sites]
@@ -1726,6 +1755,11 @@
 0.0.0.0 www.toolsadvisor.org
 0.0.0.0 www.veed.io
 0.0.0.0 www.visla.us
+0.0.0.0 www.promeai.pro
+0.0.0.0 www.animeart.studio
+0.0.0.0 www.aimakerslab.io
+0.0.0.0 www.aimojo.io
+0.0.0.0 www.domoai.app
 
 
 # [AI Projects Hosted on Other Sites]
