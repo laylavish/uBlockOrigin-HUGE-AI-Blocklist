@@ -314,6 +314,11 @@ google.com,duckduckgo.com,bing.com##a[href*="brainds.ai"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="besuper.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="captions.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aleatory.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="goenhance.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="akuma.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reface.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="kaiber.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="meshy.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -538,6 +543,13 @@ google.com,duckduckgo.com,bing.com##a[href*="aquariumfishsource.com"]:upward(div
 google.com,duckduckgo.com,bing.com##a[href*="fishkeepingadvice.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aigodlike.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="github.com/lllyasviel"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="perfectcorp.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deepgram.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="lightxeditor.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="cre8tiveai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aeroscroll.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aipassportphotos.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ai.nero.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -790,6 +802,11 @@ google.com,duckduckgo.com,bing.com##a[href*="toolsadvisor.org"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="veed.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="visla.us"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="conoha.jp/ai/canvas"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="animeart.studio"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="domoai.app"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aimojo.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aimakerslab.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="promeai.pro"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -814,10 +831,12 @@ google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?
 google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=ai.art.generator.design"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.tapuniverse.aiartgenerator"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.vyroai.animeart"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Apple AI applications
 google.com,duckduckgo.com,bing.com##a[href*="apple.com/us/app/ai-art-generator-hitpaw/id6444304300"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="apple.com/us/app/pixai-ai-anime-art-generator/id6474528911"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
