@@ -1080,6 +1080,8 @@
 *://*.x.com/meeer712/*
 *://*.twitter.com/si12o2/*
 *://*.x.com/si12o2/*
+*://*.twitter.com/Feral_Forest/*
+*://*.x.com/Feral_Forest/*
 
 
 # Block list of AI "artists"/orgs (youtube)
