@@ -1077,6 +1077,8 @@ google.com,duckduckgo.com,bing.com##a[href*="twitter.com/meeer712/"]:upward(div)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/meeer712/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/si12o2/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/si12o2/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/Feral_Forest/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/Feral_Forest/"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
