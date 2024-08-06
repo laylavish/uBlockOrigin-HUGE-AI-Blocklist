@@ -251,7 +251,7 @@ Special thanks to:
 
 > A Chromium extension that lets you know if an image is AI generated, for use on Twitter.
 
-[Awesome list of uBlacklist Subscriptions](https://github.com/rjaus/awesome-ublacklist) by rjaus
+[Awesome List of uBlacklist Subscriptions](https://github.com/rjaus/awesome-ublacklist) by rjaus
 
 > A compilation of awesome uBlacklist subscriptions to block various sites from appearing in Google, Bing, or DuckDuckGo search.
 
