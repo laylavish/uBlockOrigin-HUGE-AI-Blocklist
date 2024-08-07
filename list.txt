@@ -1395,6 +1395,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/GPT3"]:upward(div):sty
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/SoraAi"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/SunoAI"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/bigsleep"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/promptsideas"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
