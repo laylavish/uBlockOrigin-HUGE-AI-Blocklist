@@ -1394,6 +1394,7 @@
 *://*.reddit.com/r/SoraAi/*
 *://*.reddit.com/r/SunoAI/*
 *://*.reddit.com/r/bigsleep/*
+*://*.reddit.com/r/promptsideas/*
 
 
 # // Block list of AI reddit users
