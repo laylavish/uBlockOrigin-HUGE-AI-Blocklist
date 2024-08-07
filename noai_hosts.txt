@@ -313,6 +313,7 @@
 0.0.0.0 meshy.ai
 0.0.0.0 kaiber.ai
 0.0.0.0 reface.ai
+0.0.0.0 urania.ai
 
 
 # [.com sites]
@@ -540,6 +541,8 @@
 0.0.0.0 aeroscroll.com
 0.0.0.0 aipassportphotos.com
 0.0.0.0 ai.nero.com
+0.0.0.0 stablediffusionweb.com
+0.0.0.0 allabtai.com
 
 
 # [.art sites]
@@ -794,7 +797,7 @@
 0.0.0.0 aimakerslab.io
 0.0.0.0 aimojo.io
 0.0.0.0 domoai.app
-
+0.0.0.0 stablediffusion.fr
 
 # [AI Projects Hosted on Other Sites]
 0.0.0.0 aipicasso.studio.site
@@ -1280,6 +1283,7 @@
 0.0.0.0 www.meshy.ai
 0.0.0.0 www.kaiber.ai
 0.0.0.0 www.reface.ai
+0.0.0.0 www.urania.ai
 
 
 # [.com sites]
@@ -1506,6 +1510,8 @@
 0.0.0.0 www.aeroscroll.com
 0.0.0.0 www.aipassportphotos.com
 0.0.0.0 www.ai.nero.com
+0.0.0.0 www.stablediffusionweb.com
+0.0.0.0 www.allabtai.com
 
 
 # [.art sites]
@@ -1760,6 +1766,7 @@
 0.0.0.0 www.aimakerslab.io
 0.0.0.0 www.aimojo.io
 0.0.0.0 www.domoai.app
+0.0.0.0 www.stablediffusion.fr
 
 
 # [AI Projects Hosted on Other Sites]
