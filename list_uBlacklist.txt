@@ -797,6 +797,7 @@
 *://*.synthesia.io/*
 *://*.synthesys.io/*
 *://*.toolsadvisor.org/*
+*://*.supagruen.github.io/StableDiffusion-CheatSheet/*
 *://*.veed.io/*
 *://*.visla.us/*
 *://*.conoha.jp/ai/canvas/*
