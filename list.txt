@@ -319,6 +319,7 @@ google.com,duckduckgo.com,bing.com##a[href*="akuma.ai"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="reface.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="kaiber.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="meshy.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="urania.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -550,6 +551,8 @@ google.com,duckduckgo.com,bing.com##a[href*="cre8tiveai.com"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="aeroscroll.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aipassportphotos.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ai.nero.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stablediffusionweb.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="allabtai.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -807,6 +810,7 @@ google.com,duckduckgo.com,bing.com##a[href*="domoai.app"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="aimojo.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aimakerslab.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promeai.pro"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.fr"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -1390,6 +1394,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/generative"]:upward(di
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/GPT3"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/SoraAi"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/SunoAI"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/bigsleep"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
