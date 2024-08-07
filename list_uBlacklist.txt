@@ -315,6 +315,7 @@
 *://*.reface.ai/*
 *://*.kaiber.ai/*
 *://*.meshy.ai/*
+*://*.urania.ai/*
 
 
 # Sites that have .com domain extension
@@ -546,6 +547,8 @@
 *://*.aeroscroll.com/*
 *://*.aipassportphotos.com/*
 *://*.ai.nero.com/*
+*://*.stablediffusionweb.com/*
+*://*.allabtai.com/*
 
 
 # Sites that have .art domain extension
@@ -802,6 +805,7 @@
 *://*.aimojo.io/*
 *://*.aimakerslab.io/*
 *://*.promeai.pro/*
+*://*.stablediffusion.fr/*
 
 
 # AI projects hosted on other sites
@@ -1389,6 +1393,7 @@
 *://*.reddit.com/r/GPT3/*
 *://*.reddit.com/r/SoraAi/*
 *://*.reddit.com/r/SunoAI/*
+*://*.reddit.com/r/bigsleep/*
 
 
 # // Block list of AI reddit users
