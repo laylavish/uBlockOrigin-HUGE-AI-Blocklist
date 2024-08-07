@@ -802,6 +802,7 @@ google.com,duckduckgo.com,bing.com##a[href*="soundraw.io"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="synthesia.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="synthesys.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="toolsadvisor.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="supagruen.github.io/StableDiffusion-CheatSheet"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="veed.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="visla.us"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="conoha.jp/ai/canvas"]:upward(div):style(opacity:0.00!important;)
