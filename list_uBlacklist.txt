@@ -317,6 +317,7 @@
 *://*.meshy.ai/*
 *://*.urania.ai/*
 *://*.pipio.ai/*
+*://*.everart.ai/*
 
 
 # Sites that have .com domain extension
