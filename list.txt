@@ -321,6 +321,7 @@ google.com,duckduckgo.com,bing.com##a[href*="kaiber.ai"]:upward(div):style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="meshy.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="urania.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pipio.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="everart.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
