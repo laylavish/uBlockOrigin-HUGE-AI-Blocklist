@@ -316,6 +316,7 @@
 *://*.kaiber.ai/*
 *://*.meshy.ai/*
 *://*.urania.ai/*
+*://*.pipio.ai/*
 
 
 # Sites that have .com domain extension
