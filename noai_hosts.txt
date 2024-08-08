@@ -315,6 +315,7 @@
 0.0.0.0 reface.ai
 0.0.0.0 urania.ai
 0.0.0.0 pipio.ai
+0.0.0.0 everart.ai
 
 
 # [.com sites]
@@ -1286,6 +1287,7 @@
 0.0.0.0 www.reface.ai
 0.0.0.0 www.urania.ai
 0.0.0.0 www.pipio.ai
+0.0.0.0 www.everart.ai
 
 
 # [.com sites]
