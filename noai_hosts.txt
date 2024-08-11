@@ -545,6 +545,7 @@
 0.0.0.0 ai.nero.com
 0.0.0.0 stablediffusionweb.com
 0.0.0.0 allabtai.com
+0.0.0.0 cozybrushery.com
 
 
 # [.art sites]
@@ -1516,6 +1517,7 @@
 0.0.0.0 www.ai.nero.com
 0.0.0.0 www.stablediffusionweb.com
 0.0.0.0 www.allabtai.com
+0.0.0.0 www.cozybrushery.com
 
 
 # [.art sites]
