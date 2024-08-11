@@ -555,6 +555,7 @@ google.com,duckduckgo.com,bing.com##a[href*="aipassportphotos.com"]:upward(div):
 google.com,duckduckgo.com,bing.com##a[href*="ai.nero.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusionweb.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="allabtai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="cozybrushery.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
