@@ -551,6 +551,7 @@
 *://*.ai.nero.com/*
 *://*.stablediffusionweb.com/*
 *://*.allabtai.com/*
+*://*.cozybrushery.com/*
 
 
 # Sites that have .art domain extension
