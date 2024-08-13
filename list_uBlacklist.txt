@@ -318,6 +318,7 @@
 *://*.urania.ai/*
 *://*.pipio.ai/*
 *://*.everart.ai/*
+*://*.undetectable.ai/*
 
 
 # Sites that have .com domain extension
