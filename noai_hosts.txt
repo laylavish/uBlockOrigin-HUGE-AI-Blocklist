@@ -316,6 +316,7 @@
 0.0.0.0 urania.ai
 0.0.0.0 pipio.ai
 0.0.0.0 everart.ai
+0.0.0.0 undetectable.ai
 
 
 # [.com sites]
@@ -1289,6 +1290,7 @@
 0.0.0.0 www.urania.ai
 0.0.0.0 www.pipio.ai
 0.0.0.0 www.everart.ai
+0.0.0.0 www.undetectable.ai
 
 
 # [.com sites]
