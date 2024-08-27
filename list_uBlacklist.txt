@@ -553,6 +553,7 @@
 *://*.stablediffusionweb.com/*
 *://*.allabtai.com/*
 *://*.cozybrushery.com/*
+*://*.story.com/*
 
 
 # Sites that have .art domain extension
@@ -1110,6 +1111,8 @@
 *://*.x.com/si12o2/*
 *://*.twitter.com/Feral_Forest/*
 *://*.x.com/Feral_Forest/*
+*://*.twitter.com/watanaharumi/*
+*://*.x.com/watanaharumi/*
 
 
 # Block list of AI "artists"/orgs (youtube)
