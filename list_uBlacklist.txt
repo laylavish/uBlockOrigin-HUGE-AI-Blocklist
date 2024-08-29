@@ -554,6 +554,8 @@
 *://*.allabtai.com/*
 *://*.cozybrushery.com/*
 *://*.story.com/*
+*://*.copilot.microsoft.com/*
+*://*.copilot.github.com/*
 
 
 # Sites that have .art domain extension
