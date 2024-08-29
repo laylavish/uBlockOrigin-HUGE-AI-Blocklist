@@ -548,6 +548,8 @@
 0.0.0.0 allabtai.com
 0.0.0.0 cozybrushery.com
 0.0.0.0 story.com
+0.0.0.0 copilot.microsoft.com
+0.0.0.0 copilot.github.com
 
 
 # [.art sites]
@@ -1522,6 +1524,8 @@
 0.0.0.0 www.allabtai.com
 0.0.0.0 www.cozybrushery.com
 0.0.0.0 www.story.com
+0.0.0.0 www.copilot.microsoft.com
+0.0.0.0 www.copilot.github.com
 
 
 # [.art sites]
