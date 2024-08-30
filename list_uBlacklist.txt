@@ -19,6 +19,7 @@
 # Sites that have .ai domain extension
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
+*://*.davy.ai/*
 *://*.plugger.ai/*
 *://*.zavant.ai/*
 *://*.openart.ai/*
