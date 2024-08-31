@@ -317,6 +317,7 @@
 0.0.0.0 pipio.ai
 0.0.0.0 everart.ai
 0.0.0.0 undetectable.ai
+0.0.0.0 davy.ai
 
 
 # [.com sites]
@@ -988,6 +989,7 @@
 0.0.0.0 maroonchess.com
 0.0.0.0 samurai-gamers.com
 0.0.0.0 zleague.gg
+0.0.0.0 dinosaur.org
 
 
 #### www. ver
@@ -1294,6 +1296,7 @@
 0.0.0.0 www.pipio.ai
 0.0.0.0 www.everart.ai
 0.0.0.0 www.undetectable.ai
+0.0.0.0 www.davy.ai
 
 
 # [.com sites]
@@ -1965,3 +1968,4 @@
 0.0.0.0 www.maroonchess.com
 0.0.0.0 www.samurai-gamers.com
 0.0.0.0 www.zleague.gg
+0.0.0.0 www.dinosaur.org
