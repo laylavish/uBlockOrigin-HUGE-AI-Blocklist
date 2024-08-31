@@ -1457,6 +1457,7 @@
 *://*.maroonchess.com/*
 *://*.samurai-gamers.com/*
 *://*.zleague.gg/*
+*://*.dinosaur.org/*
 
 
 # // VoiceMod shit 
