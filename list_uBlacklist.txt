@@ -691,6 +691,7 @@
 *://*.miramuseai.net/*
 *://*.aichatting.net/*
 *://*.melodystudio.net/*
+*://*.trycatchdebug.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
