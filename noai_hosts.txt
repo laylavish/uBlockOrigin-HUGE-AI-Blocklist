@@ -318,6 +318,7 @@
 0.0.0.0 everart.ai
 0.0.0.0 undetectable.ai
 0.0.0.0 davy.ai
+0.0.0.0 facecam.ai
 
 
 # [.com sites]
@@ -1297,6 +1298,7 @@
 0.0.0.0 www.everart.ai
 0.0.0.0 www.undetectable.ai
 0.0.0.0 www.davy.ai
+0.0.0.0 www.facecam.ai
 
 
 # [.com sites]
