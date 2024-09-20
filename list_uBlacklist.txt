@@ -320,6 +320,7 @@
 *://*.pipio.ai/*
 *://*.everart.ai/*
 *://*.undetectable.ai/*
+*://*.facecam.ai/*
 
 
 # Sites that have .com domain extension
