@@ -1449,6 +1449,7 @@
 
 # // AI content farms/spam
 *://*.boddeswasusi.github.io/*
+*://*.linuxcapable.com/*
 *://*.stl24.com/*
 *://*.outsourceit.today/*
 *://*.metaroids.com/*
