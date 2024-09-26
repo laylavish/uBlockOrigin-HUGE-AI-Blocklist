@@ -562,6 +562,7 @@ google.com,duckduckgo.com,bing.com##a[href*="cozybrushery.com"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="story.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="copilot.microsoft.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="copilot.github.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ubrand.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -818,11 +819,15 @@ google.com,duckduckgo.com,bing.com##a[href*="veed.io"]:upward(div):style(opacity
 google.com,duckduckgo.com,bing.com##a[href*="visla.us"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="conoha.jp/ai/canvas"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="animeart.studio"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="fluxai.studio"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="domoai.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aimojo.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aimakerslab.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promeai.pro"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.fr"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="liveportrait.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="liveportrait.app"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="live-portrait.vercel.app"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
