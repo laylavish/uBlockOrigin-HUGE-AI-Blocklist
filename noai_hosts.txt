@@ -1536,6 +1536,7 @@
 0.0.0.0 www.story.com
 0.0.0.0 www.copilot.microsoft.com
 0.0.0.0 www.copilot.github.com
+0.0.0.0 www.ubrand.com
 
 
 # [.art sites]
