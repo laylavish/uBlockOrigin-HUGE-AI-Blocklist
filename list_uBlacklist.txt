@@ -558,6 +558,7 @@
 *://*.story.com/*
 *://*.copilot.microsoft.com/*
 *://*.copilot.github.com/*
+*://*.ubrand.com/*
 
 
 # Sites that have .art domain extension
@@ -813,11 +814,15 @@
 *://*.visla.us/*
 *://*.conoha.jp/ai/canvas/*
 *://*.animeart.studio/*
+*://*.fluxai.studio/*
 *://*.domoai.app/*
 *://*.aimojo.io/*
 *://*.aimakerslab.io/*
 *://*.promeai.pro/*
 *://*.stablediffusion.fr/*
+*://*.liveportrait.org/*
+*://*.liveportrait.app/*
+*://*.live-portrait.vercel.app/*
 
 
 # AI projects hosted on other sites
