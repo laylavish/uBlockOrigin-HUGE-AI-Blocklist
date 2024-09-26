@@ -552,6 +552,7 @@
 0.0.0.0 story.com
 0.0.0.0 copilot.microsoft.com
 0.0.0.0 copilot.github.com
+0.0.0.0 ubrand.com
 
 
 # [.art sites]
@@ -803,10 +804,14 @@
 0.0.0.0 visla.us
 0.0.0.0 promeai.pro
 0.0.0.0 animeart.studio
+0.0.0.0 fluxai.studio
 0.0.0.0 aimakerslab.io
 0.0.0.0 aimojo.io
 0.0.0.0 domoai.app
 0.0.0.0 stablediffusion.fr
+0.0.0.0 liveportrait.org
+0.0.0.0 liveportrait.app
+0.0.0.0 live-portrait.vercel.app
 
 # [AI Projects Hosted on Other Sites]
 0.0.0.0 aipicasso.studio.site
@@ -1782,10 +1787,14 @@
 0.0.0.0 www.visla.us
 0.0.0.0 www.promeai.pro
 0.0.0.0 www.animeart.studio
+0.0.0.0 www.fluxai.studio
 0.0.0.0 www.aimakerslab.io
 0.0.0.0 www.aimojo.io
 0.0.0.0 www.domoai.app
 0.0.0.0 www.stablediffusion.fr
+0.0.0.0 www.liveportrait.org
+0.0.0.0 www.liveportrait.app
+0.0.0.0 www.live-portrait.vercel.app
 
 
 # [AI Projects Hosted on Other Sites]
