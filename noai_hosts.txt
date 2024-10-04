@@ -554,6 +554,7 @@
 0.0.0.0 copilot.microsoft.com
 0.0.0.0 copilot.github.com
 0.0.0.0 ubrand.com
+0.0.0.0 amhuru.com
 
 
 # [.art sites]
