@@ -321,6 +321,7 @@
 *://*.everart.ai/*
 *://*.undetectable.ai/*
 *://*.facecam.ai/*
+*://*.filmport.ai/*
 
 
 # Sites that have .com domain extension
