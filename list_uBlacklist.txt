@@ -560,6 +560,7 @@
 *://*.copilot.microsoft.com/*
 *://*.copilot.github.com/*
 *://*.ubrand.com/*
+*://*.amhuru.com/*
 
 
 # Sites that have .art domain extension
