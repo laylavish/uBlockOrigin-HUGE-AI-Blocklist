@@ -830,6 +830,7 @@ google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.fr"]:upward(div):st
 google.com,duckduckgo.com,bing.com##a[href*="liveportrait.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="liveportrait.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="live-portrait.vercel.app"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="comfy.icu"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
