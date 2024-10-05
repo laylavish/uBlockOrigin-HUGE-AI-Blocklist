@@ -825,6 +825,7 @@
 *://*.liveportrait.org/*
 *://*.liveportrait.app/*
 *://*.live-portrait.vercel.app/*
+*://*.comfy.icu/*
 
 
 # AI projects hosted on other sites
