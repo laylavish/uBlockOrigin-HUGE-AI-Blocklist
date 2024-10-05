@@ -3,6 +3,9 @@ A huge blocklist of sites (~950) that contain AI generated content, for the purp
 
 A hosts file for pihole/adguard is available as well.
 
+### Important Read:
+Right now, use uBlacklist *instead* of uBlock Origin for now. Needs a little restructuring to fix DOM targeting. You can still use uBlock, but it will probably not work as you expect it to...
+
 
 ## Installing the blocklist for uBlock Origin
 
