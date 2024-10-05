@@ -814,6 +814,8 @@
 0.0.0.0 liveportrait.org
 0.0.0.0 liveportrait.app
 0.0.0.0 live-portrait.vercel.app
+0.0.0.0 comfy.icu
+
 
 # [AI Projects Hosted on Other Sites]
 0.0.0.0 aipicasso.studio.site
@@ -1800,6 +1802,7 @@
 0.0.0.0 www.liveportrait.org
 0.0.0.0 www.liveportrait.app
 0.0.0.0 www.live-portrait.vercel.app
+0.0.0.0 www.comfy.icu
 
 
 # [AI Projects Hosted on Other Sites]
