@@ -561,7 +561,6 @@
 *://*.copilot.github.com/*
 *://*.ubrand.com/*
 *://*.amhuru.com/*
-*://*.pixtastock.com/*
 *://*.aixstock.com/*
 *://*.pictorem.com/*
 *://*.oksuro.com/*
