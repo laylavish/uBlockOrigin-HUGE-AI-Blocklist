@@ -1475,6 +1475,7 @@ google.com,duckduckgo.com,bing.com##a[href*="maroonchess.com"]:upward(div):style
 google.com,duckduckgo.com,bing.com##a[href*="samurai-gamers.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="zleague.gg"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="dinosaur.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="disciplines.ng"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
