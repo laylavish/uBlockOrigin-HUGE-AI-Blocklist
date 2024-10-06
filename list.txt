@@ -565,6 +565,10 @@ google.com,duckduckgo.com,bing.com##a[href*="copilot.microsoft.com"]:upward(div)
 google.com,duckduckgo.com,bing.com##a[href*="copilot.github.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ubrand.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="amhuru.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pixtastock.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aixstock.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pictorem.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="oksuro.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
