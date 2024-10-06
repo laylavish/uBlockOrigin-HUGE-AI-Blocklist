@@ -555,6 +555,9 @@
 0.0.0.0 copilot.github.com
 0.0.0.0 ubrand.com
 0.0.0.0 amhuru.com
+0.0.0.0 aixstock.com
+0.0.0.0 pictorem.com
+0.0.0.0 oksuro.com
 
 
 # [.art sites]
@@ -1543,6 +1546,9 @@
 0.0.0.0 www.copilot.github.com
 0.0.0.0 www.ubrand.com
 0.0.0.0 www.amhuru.com
+0.0.0.0 www.aixstock.com
+0.0.0.0 www.pictorem.com
+0.0.0.0 www.oksuro.com
 
 
 # [.art sites]
