@@ -5,6 +5,7 @@
 *://*.artpal.com/*
 *://*.freepik.com/*
 *://*.shutterstock.com/*
+*://*.pixtastock.com/*
 *://*.redbubble.com/*
 *://*.3tdesign.edu.vn/*
 *://*.artstation.com/*
