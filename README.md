@@ -41,24 +41,30 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 ## Installing the blocklist for uBlacklist
 
+### One-click filter import (Only for Chrome, Firefox doesn't support this yet)
+
+If you use Google Chrome/Chromium, you can import the list in just one click. Click [this link](https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt) to automatically subscribe to the list.
+
+### Manual Import
+
 1. Make sure that you have the uBlacklist extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/), [Chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), or any browser that supports uBlacklist (& Android via Firefox).
 
 2. Click on your extensions list, select uBlacklist, then click on the "options" text, highlighted in blue.
 > This will take you to the uBlacklist options panel, similar to the Dashboard in uBlock Origin
 
-3. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
+3. Enable the **Other search engines**, and click on the search engine(s) you want this list to work on. A list of compatible search engines (with images support) is [here.](https://github.com/iorate/ublacklist?tab=readme-ov-file#supported-search-engines)
 
-4. Give a name for the added blocklist (eg. Main AI blocklist).
+4. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
+
+5. Give a name for the added blocklist (eg. Main AI blocklist).
   
-5. Copy and paste this url 
+6. Copy and paste this url 
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
 ``` 
 into the **URL** part of the dialogue box, then press the blue **Add** button.
 
-6. There you go! You're done!
-
-7. (optional) Set the update interval to an hour for near-realtime list updates.
+7. Set the update interval to an hour for near-realtime list updates, and you're done!
 
 ### iOS, iPad OS (Safari)
 
@@ -84,10 +90,7 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 ``` 
 into the **URL** part of the dialogue box, then press the blue **Add** button.
 
-6. There you go! You're done!
-
-7. (optional) Set the update interval to an hour for near-realtime list updates.
-
+9. Set the update interval to an hour for near-realtime list updates, and you're done!
 
 ## Hosts file for pi-hole/adguard
 
@@ -227,7 +230,7 @@ If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of 
 
 ✅ Create hosts file for pi-hole/adguard
 
-❌ Startpage, Ecosia, Brave support 
+❌ Startpage, Ecosia, Brave support (for uBlock Origin)
 
 ## Happy Pride Month!
 LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
