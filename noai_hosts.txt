@@ -1003,6 +1003,7 @@
 0.0.0.0 samurai-gamers.com
 0.0.0.0 zleague.gg
 0.0.0.0 dinosaur.org
+0.0.0.0 disciplines.ng
 
 
 #### www. ver
@@ -1994,3 +1995,4 @@
 0.0.0.0 www.samurai-gamers.com
 0.0.0.0 www.zleague.gg
 0.0.0.0 www.dinosaur.org
+0.0.0.0 www.disciplines.ng
