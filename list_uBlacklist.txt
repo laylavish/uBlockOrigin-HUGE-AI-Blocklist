@@ -1473,6 +1473,7 @@
 *://*.samurai-gamers.com/*
 *://*.zleague.gg/*
 *://*.dinosaur.org/*
+*://*.disciplines.ng/*
 
 
 # // VoiceMod shit 
