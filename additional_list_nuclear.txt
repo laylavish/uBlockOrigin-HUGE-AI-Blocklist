@@ -14,6 +14,7 @@ google.com,duckduckgo.com,bing.com##a[href*="artmajeur.com"]:upward(div):style(o
 google.com,duckduckgo.com,bing.com##a[href*="artpal.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="freepik.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="shutterstock.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pixtastock.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="redbubble.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="3tdesign.edu.vn"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="artstation.com"]:upward(div):style(opacity:0.00!important;)
