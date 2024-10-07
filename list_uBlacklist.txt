@@ -564,6 +564,7 @@
 *://*.aixstock.com/*
 *://*.pictorem.com/*
 *://*.oksuro.com/*
+*://*.microsoft.com/en-us/bing/do-more-with-ai/*
 
 
 # Sites that have .art domain extension
