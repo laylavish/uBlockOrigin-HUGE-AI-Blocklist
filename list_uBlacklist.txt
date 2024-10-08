@@ -323,6 +323,7 @@
 *://*.facecam.ai/*
 *://*.filmport.ai/*
 *://*.impossibleimages.ai/*
+*://*.stablegenius.ai/*
 
 
 # Sites that have .com domain extension
