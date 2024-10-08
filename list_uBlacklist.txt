@@ -7,7 +7,7 @@
 
 ### Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
 
-# I love you. 
+# I love you.
 # You are valid.
 # LGBTQ+ Rights!
 # Keep your chin up--we will get through this together <33
@@ -322,6 +322,7 @@
 *://*.undetectable.ai/*
 *://*.facecam.ai/*
 *://*.filmport.ai/*
+*://*.impossibleimages.ai/*
 
 
 # Sites that have .com domain extension
@@ -1478,7 +1479,7 @@
 *://*.disciplines.ng/*
 
 
-# // VoiceMod shit 
+# // VoiceMod shit
 *://*.tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb
 
 
