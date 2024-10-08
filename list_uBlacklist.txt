@@ -565,6 +565,7 @@
 *://*.pictorem.com/*
 *://*.oksuro.com/*
 *://*.microsoft.com/en-us/bing/do-more-with-ai/*
+*://*.promptden.com/*
 
 
 # Sites that have .art domain extension
