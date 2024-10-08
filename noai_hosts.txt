@@ -1553,6 +1553,7 @@
 0.0.0.0 www.aixstock.com
 0.0.0.0 www.pictorem.com
 0.0.0.0 www.oksuro.com
+0.0.0.0 www.promptden.com
 
 
 # [.art sites]
