@@ -43,7 +43,7 @@ If you want to force an update of the filter list, pressing the stopwatch next t
 
 ### One-click filter import (Only for Chrome, Firefox doesn't support this yet)
 
-If you use Google Chrome/Chromium, you can import the list in just one click. Click [this link](https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt) to automatically subscribe to the list.
+If you use Google Chrome/Chromium and have [uBlacklist installed](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), you can import the list in just one click. Click [this link](https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt) to automatically subscribe to the list.
 
 ### Manual Import
 
