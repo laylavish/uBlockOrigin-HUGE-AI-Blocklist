@@ -1315,6 +1315,7 @@
 0.0.0.0 www.davy.ai
 0.0.0.0 www.facecam.ai
 0.0.0.0 www.filmport.ai
+0.0.0.0 www.impossibleimages.ai
 
 
 # [.com sites]
