@@ -708,6 +708,7 @@ google.com,duckduckgo.com,bing.com##a[href*="aichatting.net"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="melodystudio.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="trycatchdebug.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="codeease.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="inspiringdesigns.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
