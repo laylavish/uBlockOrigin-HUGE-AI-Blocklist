@@ -705,6 +705,8 @@
 *://*.trycatchdebug.net/*
 *://*.codeease.net/*
 *://*.inspiringdesigns.net/*
+*://*.designbundles.net/illustrate-ai/*
+*://*.designbundles.net/ylivdesign/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
