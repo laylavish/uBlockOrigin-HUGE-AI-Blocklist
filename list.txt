@@ -841,6 +841,7 @@ google.com,duckduckgo.com,bing.com##a[href*="liveportrait.org"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="liveportrait.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="live-portrait.vercel.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="comfy.icu"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="picture.lk"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
