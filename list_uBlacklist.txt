@@ -568,6 +568,7 @@
 *://*.oksuro.com/*
 *://*.microsoft.com/en-us/bing/do-more-with-ai/*
 *://*.promptden.com/*
+*://*.photoai.com/*
 
 
 # Sites that have .art domain extension
@@ -707,6 +708,7 @@
 *://*.inspiringdesigns.net/*
 *://*.designbundles.net/illustrate-ai/*
 *://*.designbundles.net/ylivdesign/*
+*://*.flux-ai.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -837,6 +839,8 @@
 *://*.live-portrait.vercel.app/*
 *://*.comfy.icu/*
 *://*.picture.lk/*
+*://*.fluxai.dev/*
+*://*.flux-ai.io/*
 
 
 # AI projects hosted on other sites
