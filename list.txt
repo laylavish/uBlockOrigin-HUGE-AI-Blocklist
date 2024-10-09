@@ -846,6 +846,7 @@ google.com,duckduckgo.com,bing.com##a[href*="comfy.icu"]:upward(div):style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="picture.lk"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="fluxai.dev"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="flux-ai.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aiimagegenerator.is"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
