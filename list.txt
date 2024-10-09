@@ -572,6 +572,7 @@ google.com,duckduckgo.com,bing.com##a[href*="pictorem.com"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="oksuro.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="microsoft.com/en-us/bing/do-more-with-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptden.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="photoai.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -711,6 +712,7 @@ google.com,duckduckgo.com,bing.com##a[href*="codeease.net"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="inspiringdesigns.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/illustrate-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/ylivdesign"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -842,6 +844,8 @@ google.com,duckduckgo.com,bing.com##a[href*="liveportrait.app"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="live-portrait.vercel.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="comfy.icu"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="picture.lk"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="fluxai.dev"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="flux-ai.io"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -1026,7 +1030,6 @@ google.com,duckduckgo.com,bing.com##a[href*="braundress.net"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="ai-nudes.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="undress.xxx"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="girlfriend.ai"]:upward(div):style(opacity:0.00!important;)
-
 
 
 ! //// Block lists of individual users
