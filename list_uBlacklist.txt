@@ -841,6 +841,7 @@
 *://*.picture.lk/*
 *://*.fluxai.dev/*
 *://*.flux-ai.io/*
+*://*.aiimagegenerator.is/*
 
 
 # AI projects hosted on other sites
