@@ -826,6 +826,7 @@
 0.0.0.0 comfy.icu
 0.0.0.0 fluxai.dev
 0.0.0.0 flux-ai.io
+0.0.0.0 aiimagegenerator.is
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1826,6 +1827,7 @@
 0.0.0.0 www.comfy.icu
 0.0.0.0 www.fluxai.dev
 0.0.0.0 www.flux-ai.io
+0.0.0.0 www.aiimagegenerator.is
 
 
 # [AI Projects Hosted on Other Sites]
