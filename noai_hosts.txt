@@ -561,6 +561,7 @@
 0.0.0.0 pictorem.com
 0.0.0.0 oksuro.com
 0.0.0.0 promptden.com
+0.0.0.0 photoai.com
 
 
 # [.art sites]
@@ -696,6 +697,7 @@
 0.0.0.0 aichatting.net
 0.0.0.0 melodystudio.net
 0.0.0.0 inspiringdesigns.net
+0.0.0.0 flux-ai.net
 
 
 # [.pub, io, .app, etc sites]
@@ -822,6 +824,8 @@
 0.0.0.0 liveportrait.app
 0.0.0.0 live-portrait.vercel.app
 0.0.0.0 comfy.icu
+0.0.0.0 fluxai.dev
+0.0.0.0 flux-ai.io
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1557,6 +1561,7 @@
 0.0.0.0 www.pictorem.com
 0.0.0.0 www.oksuro.com
 0.0.0.0 www.promptden.com
+0.0.0.0 www.photoai.com
 
 
 # [.art sites]
@@ -1692,6 +1697,7 @@
 0.0.0.0 www.aichatting.net
 0.0.0.0 www.melodystudio.net
 0.0.0.0 www.inspiringdesigns.net
+0.0.0.0 www.flux-ai.net
 
 
 # [.pub, io, .app, etc sites]
@@ -1818,6 +1824,8 @@
 0.0.0.0 www.liveportrait.app
 0.0.0.0 www.live-portrait.vercel.app
 0.0.0.0 www.comfy.icu
+0.0.0.0 www.fluxai.dev
+0.0.0.0 www.flux-ai.io
 
 
 # [AI Projects Hosted on Other Sites]
