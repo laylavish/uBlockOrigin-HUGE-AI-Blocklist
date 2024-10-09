@@ -704,6 +704,7 @@
 *://*.melodystudio.net/*
 *://*.trycatchdebug.net/*
 *://*.codeease.net/*
+*://*.inspiringdesigns.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
