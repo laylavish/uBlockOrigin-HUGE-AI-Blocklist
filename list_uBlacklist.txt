@@ -1495,3 +1495,11 @@
 
 # // Getty Wallpapers
 *://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
+
+
+# // Non-Conflicting Regular Expressions
+
+/stock\.adobe\.com\/images\/.*generative-ai/
+/stock\.adobe\.com\/.*\/images\/.*generative-ai/
+/stock\.adobe\.com\/images\/.*ai-generated/
+/stock\.adobe\.com\/.*\/images\/.*ai-generated/
