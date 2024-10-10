@@ -1504,7 +1504,6 @@
 
 # // Non-Conflicting Regular Expressions
 
-/stock\.adobe\.com\/images\/.*generative-ai/
-/stock\.adobe\.com\/.*\/images\/.*generative-ai/
-/stock\.adobe\.com\/images\/.*ai-generated/
-/stock\.adobe\.com\/.*\/images\/.*ai-generated/
+/stock\.adobe\.com\/.*(generat(ed|(ive))-ai|ai-generated)/
+
+/vecteezy\.com\/.*(ai-generat((ed)|(ive))|generat(ed?|(ive))-ai)/
