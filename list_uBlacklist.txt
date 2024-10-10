@@ -571,6 +571,7 @@
 *://*.photoai.com/*
 *://*.stockcake.com/*
 *://*.aiscribbles.com/*
+*://*.frequentart.myportfolio.com/*
 
 
 # Sites that have .art domain extension
@@ -845,6 +846,7 @@
 *://*.flux-ai.io/*
 *://*.aiimagegenerator.is/*
 *://*.musesai.io/*
+*://*.promptstock.photos/*
 
 
 # AI projects hosted on other sites
