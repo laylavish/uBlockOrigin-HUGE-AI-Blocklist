@@ -844,6 +844,7 @@
 *://*.fluxai.dev/*
 *://*.flux-ai.io/*
 *://*.aiimagegenerator.is/*
+*://*.musesai.io/*
 
 
 # AI projects hosted on other sites
