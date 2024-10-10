@@ -829,6 +829,7 @@
 0.0.0.0 fluxai.dev
 0.0.0.0 flux-ai.io
 0.0.0.0 aiimagegenerator.is
+0.0.0.0 musesai.io
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1832,6 +1833,7 @@
 0.0.0.0 www.fluxai.dev
 0.0.0.0 www.flux-ai.io
 0.0.0.0 www.aiimagegenerator.is
+0.0.0.0 www.musesai.io
 
 
 # [AI Projects Hosted on Other Sites]
