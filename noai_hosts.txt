@@ -1565,6 +1565,7 @@
 0.0.0.0 www.oksuro.com
 0.0.0.0 www.promptden.com
 0.0.0.0 www.photoai.com
+0.0.0.0 www.stockcake.com
 0.0.0.0 www.aiscribbles.com
 
 
