@@ -573,6 +573,8 @@ google.com,duckduckgo.com,bing.com##a[href*="oksuro.com"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="microsoft.com/en-us/bing/do-more-with-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptden.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="photoai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stockcake.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aiscribbles.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension

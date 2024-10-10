@@ -562,6 +562,8 @@
 0.0.0.0 oksuro.com
 0.0.0.0 promptden.com
 0.0.0.0 photoai.com
+0.0.0.0 stockcake.com
+0.0.0.0 aiscribbles.com
 
 
 # [.art sites]
@@ -1563,6 +1565,7 @@
 0.0.0.0 www.oksuro.com
 0.0.0.0 www.promptden.com
 0.0.0.0 www.photoai.com
+0.0.0.0 www.aiscribbles.com
 
 
 # [.art sites]

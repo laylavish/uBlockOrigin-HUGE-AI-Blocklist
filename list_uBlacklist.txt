@@ -569,6 +569,8 @@
 *://*.microsoft.com/en-us/bing/do-more-with-ai/*
 *://*.promptden.com/*
 *://*.photoai.com/*
+*://*.stockcake.com/*
+*://*.aiscribbles.com/*
 
 
 # Sites that have .art domain extension
