@@ -1443,6 +1443,7 @@
 *://*.reddit.com/r/SunoAI/*
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/promptsideas/*
+*://*.reddit.com/r/cursedAIpics/*
 
 
 # // Block list of AI reddit users
