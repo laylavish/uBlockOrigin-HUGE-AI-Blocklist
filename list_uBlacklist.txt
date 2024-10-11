@@ -1335,6 +1335,7 @@
 
 # Freepik garbage
 *://*.freepik.com/premium-ai-image/*
+*://*.freepik.com/ai/*
 *://*.freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921/*
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
 *://*.freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm
@@ -1513,3 +1514,7 @@
 /stock\.adobe\.com\/.*(generat(ed|(ive))-ai|ai-generated)/
 
 /vecteezy\.com\/.*(ai-generat((ed)|(ive))|generat(ed?|(ive))-ai)/
+
+/pixabay\.com\/.*(ai(-|%20)generated|\/ai%20anime|\/ai-creation)/
+
+/freepik\.com\/.*(ai-generat(ed|or)|generative-ai)/
