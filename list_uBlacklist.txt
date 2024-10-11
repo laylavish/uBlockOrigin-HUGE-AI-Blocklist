@@ -324,6 +324,8 @@
 *://*.filmport.ai/*
 *://*.impossibleimages.ai/*
 *://*.stablegenius.ai/*
+*://*.pngmaker.ai/*
+*://*.unpod.ai/*
 
 
 # Sites that have .com domain extension
@@ -573,6 +575,8 @@
 *://*.aiscribbles.com/*
 *://*.frequentart.myportfolio.com/*
 *://*.midprompteria.com/*
+*://*.promptalot.com/*
+*://*.midjourney9.com/*
 
 
 # Sites that have .art domain extension
@@ -1439,6 +1443,7 @@
 *://*.reddit.com/r/SunoAI/*
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/promptsideas/*
+*://*.reddit.com/r/cursedAIpics/*
 
 
 # // Block list of AI reddit users

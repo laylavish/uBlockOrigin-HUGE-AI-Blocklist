@@ -322,7 +322,8 @@
 0.0.0.0 filmport.ai
 0.0.0.0 impossibleimages.ai
 0.0.0.0 stablegenius.ai
-
+0.0.0.0 pngmaker.ai
+0.0.0.0 unpod.ai
 
 # [.com sites]
 0.0.0.0 hayo.com
@@ -566,6 +567,8 @@
 0.0.0.0 aiscribbles.com
 0.0.0.0 frequentart.myportfolio.com
 0.0.0.0 midprompteria.com
+0.0.0.0 promptalot.com
+0.0.0.0 midjourney9.com
 
 
 # [.art sites]
@@ -1573,6 +1576,7 @@
 0.0.0.0 www.aiscribbles.com
 0.0.0.0 www.frequentart.myportfolio.com
 0.0.0.0 www.midprompteria.com
+0.0.0.0 www.midjourney9.com
 
 
 # [.art sites]

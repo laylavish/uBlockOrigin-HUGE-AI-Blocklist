@@ -328,6 +328,8 @@ google.com,duckduckgo.com,bing.com##a[href*="facecam.ai"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="filmport.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="impossibleimages.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablegenius.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pngmaker.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="unpod.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -577,6 +579,8 @@ google.com,duckduckgo.com,bing.com##a[href*="stockcake.com"]:upward(div):style(o
 google.com,duckduckgo.com,bing.com##a[href*="aiscribbles.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="frequentart.myportfolio.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="midprompteria.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="promptalot.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="midjourney9.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -1439,6 +1443,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/SoraAi"]:upward(div):s
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/SunoAI"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/bigsleep"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/promptsideas"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/cursedAIpics"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
