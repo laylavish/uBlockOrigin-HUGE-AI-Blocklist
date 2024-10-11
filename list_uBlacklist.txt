@@ -572,6 +572,7 @@
 *://*.stockcake.com/*
 *://*.aiscribbles.com/*
 *://*.frequentart.myportfolio.com/*
+*://*.midprompteria.com/*
 
 
 # Sites that have .art domain extension

@@ -565,6 +565,7 @@
 0.0.0.0 stockcake.com
 0.0.0.0 aiscribbles.com
 0.0.0.0 frequentart.myportfolio.com
+0.0.0.0 midprompteria.com
 
 
 # [.art sites]
