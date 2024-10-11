@@ -575,6 +575,7 @@
 *://*.aiscribbles.com/*
 *://*.frequentart.myportfolio.com/*
 *://*.midprompteria.com/*
+*://*.promptalot.com/*
 
 
 # Sites that have .art domain extension

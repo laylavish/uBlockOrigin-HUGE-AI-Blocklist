@@ -567,6 +567,7 @@
 0.0.0.0 aiscribbles.com
 0.0.0.0 frequentart.myportfolio.com
 0.0.0.0 midprompteria.com
+0.0.0.0 promptalot.com
 
 
 # [.art sites]
