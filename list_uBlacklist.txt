@@ -383,7 +383,7 @@
 *://*.nijijourney.com/*
 *://*.davinciface.com/*
 *://*.superprompts.com/*
-*://*.ebsynth.com/*
+*://*.writesonic.com/*
 *://*.prodia.com/*
 *://*.baked-ai.com/*
 *://*.dreamboothr.com/*
