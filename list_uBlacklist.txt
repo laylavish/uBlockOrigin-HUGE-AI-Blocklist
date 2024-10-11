@@ -325,6 +325,7 @@
 *://*.impossibleimages.ai/*
 *://*.stablegenius.ai/*
 *://*.pngmaker.ai/*
+*://*.unpod.ai/*
 
 
 # Sites that have .com domain extension
