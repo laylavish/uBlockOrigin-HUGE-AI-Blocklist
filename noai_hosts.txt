@@ -1333,6 +1333,8 @@
 0.0.0.0 www.filmport.ai
 0.0.0.0 www.impossibleimages.ai
 0.0.0.0 www.stablegenius.ai
+0.0.0.0 www.pngmaker.ai
+0.0.0.0 www.unpod.ai
 
 
 # [.com sites]
@@ -1576,6 +1578,7 @@
 0.0.0.0 www.aiscribbles.com
 0.0.0.0 www.frequentart.myportfolio.com
 0.0.0.0 www.midprompteria.com
+0.0.0.0 www.promptalot.com
 0.0.0.0 www.midjourney9.com
 
 
