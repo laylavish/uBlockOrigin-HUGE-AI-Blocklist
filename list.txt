@@ -580,6 +580,7 @@ google.com,duckduckgo.com,bing.com##a[href*="aiscribbles.com"]:upward(div):style
 google.com,duckduckgo.com,bing.com##a[href*="frequentart.myportfolio.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="midprompteria.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptalot.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="midjourney9.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension

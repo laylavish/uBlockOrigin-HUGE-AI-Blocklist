@@ -568,6 +568,7 @@
 0.0.0.0 frequentart.myportfolio.com
 0.0.0.0 midprompteria.com
 0.0.0.0 promptalot.com
+0.0.0.0 midjourney9.com
 
 
 # [.art sites]
@@ -1575,6 +1576,7 @@
 0.0.0.0 www.aiscribbles.com
 0.0.0.0 www.frequentart.myportfolio.com
 0.0.0.0 www.midprompteria.com
+0.0.0.0 www.midjourney9.com
 
 
 # [.art sites]
