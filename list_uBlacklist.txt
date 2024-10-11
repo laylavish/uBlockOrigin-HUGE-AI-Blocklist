@@ -324,6 +324,7 @@
 *://*.filmport.ai/*
 *://*.impossibleimages.ai/*
 *://*.stablegenius.ai/*
+*://*.pngmaker.ai/*
 
 
 # Sites that have .com domain extension

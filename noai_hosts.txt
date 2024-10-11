@@ -322,7 +322,7 @@
 0.0.0.0 filmport.ai
 0.0.0.0 impossibleimages.ai
 0.0.0.0 stablegenius.ai
-
+0.0.0.0 pngmaker.ai
 
 # [.com sites]
 0.0.0.0 hayo.com

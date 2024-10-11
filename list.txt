@@ -328,6 +328,7 @@ google.com,duckduckgo.com,bing.com##a[href*="facecam.ai"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="filmport.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="impossibleimages.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablegenius.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pngmaker.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
