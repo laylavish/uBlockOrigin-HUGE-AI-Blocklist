@@ -379,7 +379,7 @@
 0.0.0.0 nijijourney.com
 0.0.0.0 davinciface.com
 0.0.0.0 superprompts.com
-0.0.0.0 ebsynth.com
+0.0.0.0 writesonic.com
 0.0.0.0 prodia.com
 0.0.0.0 baked-ai.com
 0.0.0.0 dreamboothr.com
@@ -1391,7 +1391,7 @@
 0.0.0.0 www.nijijourney.com
 0.0.0.0 www.davinciface.com
 0.0.0.0 www.superprompts.com
-0.0.0.0 www.ebsynth.com
+0.0.0.0 www.writesonic.com
 0.0.0.0 www.prodia.com
 0.0.0.0 www.baked-ai.com
 0.0.0.0 www.dreamboothr.com
