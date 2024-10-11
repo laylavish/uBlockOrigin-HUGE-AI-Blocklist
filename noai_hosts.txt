@@ -1572,6 +1572,7 @@
 0.0.0.0 www.stockcake.com
 0.0.0.0 www.aiscribbles.com
 0.0.0.0 www.frequentart.myportfolio.com
+0.0.0.0 www.midprompteria.com
 
 
 # [.art sites]
