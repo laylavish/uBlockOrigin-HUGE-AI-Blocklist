@@ -689,6 +689,7 @@
 *://*.liblib.art/*
 *://*.lunai.art/*
 *://*.pictab.art/*
+*://*.aiphotos123.art/*
 
 
 # Sites that have .co domain extension

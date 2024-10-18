@@ -693,6 +693,7 @@ google.com,duckduckgo.com,bing.com##a[href*="assetsai.art"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="liblib.art"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="lunai.art"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pictab.art"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aiphotos123.art"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .co domain extension
