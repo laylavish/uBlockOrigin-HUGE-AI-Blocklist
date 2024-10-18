@@ -324,6 +324,7 @@
 0.0.0.0 stablegenius.ai
 0.0.0.0 pngmaker.ai
 0.0.0.0 unpod.ai
+0.0.0.0 tattoosgenerator.ai
 
 # [.com sites]
 0.0.0.0 hayo.com
@@ -569,6 +570,17 @@
 0.0.0.0 midprompteria.com
 0.0.0.0 promptalot.com
 0.0.0.0 midjourney9.com
+0.0.0.0 journeyaiart.com
+0.0.0.0 threwthelookingglass.com
+0.0.0.0 promptcow.com
+0.0.0.0 gecdesigns.com
+0.0.0.0 civitai.com
+0.0.0.0 2moonsai.com
+0.0.0.0 nobleshapes.com
+0.0.0.0 aiartpromptslist.com
+0.0.0.0 theaipromptshop.com
+0.0.0.0 whytryai.com
+0.0.0.0 imaginewithrashid.com
 
 
 # [.art sites]
@@ -669,6 +681,7 @@
 0.0.0.0 liblib.art
 0.0.0.0 lunai.art
 0.0.0.0 pictab.art
+0.0.0.0 aiphotos123.art
 
 
 # [.co sites]
@@ -705,6 +718,7 @@
 0.0.0.0 melodystudio.net
 0.0.0.0 inspiringdesigns.net
 0.0.0.0 flux-ai.net
+0.0.0.0 vitalentum.net
 
 
 # [.pub, io, .app, etc sites]
@@ -836,6 +850,7 @@
 0.0.0.0 aiimagegenerator.is
 0.0.0.0 musesai.io
 0.0.0.0 promptstock.photos
+0.0.0.0 promptlibrary.org
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1580,6 +1595,10 @@
 0.0.0.0 www.midprompteria.com
 0.0.0.0 www.promptalot.com
 0.0.0.0 www.midjourney9.com
+0.0.0.0 www.journeyaiart.com
+0.0.0.0 www.promptcow.com
+0.0.0.0 www.2moonsai.com
+0.0.0.0 www.whytryai.com
 
 
 # [.art sites]

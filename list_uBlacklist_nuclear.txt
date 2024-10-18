@@ -6,6 +6,7 @@
 *://*.artmajeur.com/*
 *://*.artpal.com/*
 *://*.freepik.com/*
+*://*.freepik.es/*
 *://*.shutterstock.com/*
 *://*.pixtastock.com/*
 *://*.redbubble.com/*
