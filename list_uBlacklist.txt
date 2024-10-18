@@ -583,6 +583,7 @@
 *://*.gecdesigns.com/*
 *://*.civitai.com/*
 *://*.2moonsai.com/*
+*://*.nobleshapes.com/*
 
 
 # Sites that have .art domain extension
