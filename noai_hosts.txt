@@ -574,6 +574,7 @@
 0.0.0.0 promptcow.com
 0.0.0.0 gecdesigns.com
 0.0.0.0 civitai.com
+0.0.0.0 2moonsai.com
 
 
 # [.art sites]
@@ -1589,6 +1590,7 @@
 0.0.0.0 www.midjourney9.com
 0.0.0.0 www.journeyaiart.com
 0.0.0.0 www.promptcow.com
+0.0.0.0 www.2moonsai.com
 
 
 # [.art sites]

@@ -582,6 +582,7 @@
 *://*.promptcow.com/*
 *://*.gecdesigns.com/*
 *://*.civitai.com/*
+*://*.2moonsai.com/*
 
 
 # Sites that have .art domain extension
