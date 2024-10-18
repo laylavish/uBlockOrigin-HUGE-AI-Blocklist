@@ -230,7 +230,7 @@ If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of 
 
 ✅ Create hosts file for pi-hole/adguard
 
-❌ Startpage, Ecosia, Brave support (for uBlock Origin)
+❌ Startpage and Brave support (for uBlock Origin)
 
 ## Happy Pride Month!
 LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
