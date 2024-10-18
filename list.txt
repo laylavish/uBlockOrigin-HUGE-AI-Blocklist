@@ -591,6 +591,7 @@ google.com,duckduckgo.com,bing.com##a[href*="nobleshapes.com"]:upward(div):style
 google.com,duckduckgo.com,bing.com##a[href*="aiartpromptslist.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="theaipromptshop.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="whytryai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="imaginewithrashid.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension

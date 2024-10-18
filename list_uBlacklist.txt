@@ -587,6 +587,7 @@
 *://*.aiartpromptslist.com/*
 *://*.theaipromptshop.com/*
 *://*.whytryai.com/*
+*://*.imaginewithrashid.com/*
 
 
 # Sites that have .art domain extension

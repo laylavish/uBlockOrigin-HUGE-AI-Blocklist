@@ -579,6 +579,7 @@
 0.0.0.0 aiartpromptslist.com
 0.0.0.0 theaipromptshop.com
 0.0.0.0 whytryai.com
+0.0.0.0 imaginewithrashid.com
 
 
 # [.art sites]
