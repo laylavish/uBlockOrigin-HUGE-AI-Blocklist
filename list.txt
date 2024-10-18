@@ -581,6 +581,10 @@ google.com,duckduckgo.com,bing.com##a[href*="frequentart.myportfolio.com"]:upwar
 google.com,duckduckgo.com,bing.com##a[href*="midprompteria.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptalot.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="midjourney9.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="journeyaiart.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="threwthelookingglass.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="promptcow.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="gecdesigns.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension

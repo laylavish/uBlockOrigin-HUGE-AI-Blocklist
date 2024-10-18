@@ -569,6 +569,10 @@
 0.0.0.0 midprompteria.com
 0.0.0.0 promptalot.com
 0.0.0.0 midjourney9.com
+0.0.0.0 journeyaiart.com
+0.0.0.0 threwthelookingglass.com
+0.0.0.0 promptcow.com
+0.0.0.0 gecdesigns.com
 
 
 # [.art sites]
@@ -1580,6 +1584,8 @@
 0.0.0.0 www.midprompteria.com
 0.0.0.0 www.promptalot.com
 0.0.0.0 www.midjourney9.com
+0.0.0.0 www.journeyaiart.com
+0.0.0.0 www.promptcow.com
 
 
 # [.art sites]

@@ -577,6 +577,10 @@
 *://*.midprompteria.com/*
 *://*.promptalot.com/*
 *://*.midjourney9.com/*
+*://*.journeyaiart.com/*
+*://*.threwthelookingglass.com/*
+*://*.promptcow.com/*
+*://*.gecdesigns.com/*
 
 
 # Sites that have .art domain extension
