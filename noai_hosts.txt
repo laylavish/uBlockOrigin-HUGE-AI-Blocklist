@@ -573,6 +573,7 @@
 0.0.0.0 threwthelookingglass.com
 0.0.0.0 promptcow.com
 0.0.0.0 gecdesigns.com
+0.0.0.0 civitai.com
 
 
 # [.art sites]

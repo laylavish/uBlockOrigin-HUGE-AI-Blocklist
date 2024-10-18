@@ -581,6 +581,7 @@
 *://*.threwthelookingglass.com/*
 *://*.promptcow.com/*
 *://*.gecdesigns.com/*
+*://*.civitai.com/*
 
 
 # Sites that have .art domain extension
