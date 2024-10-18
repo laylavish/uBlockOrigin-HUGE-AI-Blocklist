@@ -722,6 +722,7 @@
 *://*.designbundles.net/illustrate-ai/*
 *://*.designbundles.net/ylivdesign/*
 *://*.flux-ai.net/*
+*://*.vitalentum.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)

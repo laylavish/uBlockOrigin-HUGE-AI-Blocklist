@@ -726,6 +726,7 @@ google.com,duckduckgo.com,bing.com##a[href*="inspiringdesigns.net"]:upward(div):
 google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/illustrate-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/ylivdesign"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
