@@ -858,6 +858,7 @@
 *://*.aiimagegenerator.is/*
 *://*.musesai.io/*
 *://*.promptstock.photos/*
+*://*.promptlibrary.org/*
 
 
 # AI projects hosted on other sites

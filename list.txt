@@ -863,6 +863,7 @@ google.com,duckduckgo.com,bing.com##a[href*="flux-ai.io"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="aiimagegenerator.is"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="musesai.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptstock.photos"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="promptlibrary.org"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
