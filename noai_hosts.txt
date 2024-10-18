@@ -577,6 +577,7 @@
 0.0.0.0 2moonsai.com
 0.0.0.0 nobleshapes.com
 0.0.0.0 aiartpromptslist.com
+0.0.0.0 theaipromptshop.com
 
 
 # [.art sites]

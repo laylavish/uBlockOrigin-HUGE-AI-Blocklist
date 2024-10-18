@@ -585,6 +585,7 @@
 *://*.2moonsai.com/*
 *://*.nobleshapes.com/*
 *://*.aiartpromptslist.com/*
+*://*.theaipromptshop.com/*
 
 
 # Sites that have .art domain extension
