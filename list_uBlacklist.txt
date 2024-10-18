@@ -326,6 +326,7 @@
 *://*.stablegenius.ai/*
 *://*.pngmaker.ai/*
 *://*.unpod.ai/*
+*://*.tattoosgenerator.ai/*
 
 
 # Sites that have .com domain extension

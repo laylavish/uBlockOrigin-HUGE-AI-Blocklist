@@ -324,6 +324,7 @@
 0.0.0.0 stablegenius.ai
 0.0.0.0 pngmaker.ai
 0.0.0.0 unpod.ai
+0.0.0.0 tattoosgenerator.ai
 
 # [.com sites]
 0.0.0.0 hayo.com
