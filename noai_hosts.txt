@@ -578,6 +578,7 @@
 0.0.0.0 nobleshapes.com
 0.0.0.0 aiartpromptslist.com
 0.0.0.0 theaipromptshop.com
+0.0.0.0 whytryai.com
 
 
 # [.art sites]
@@ -1594,6 +1595,7 @@
 0.0.0.0 www.journeyaiart.com
 0.0.0.0 www.promptcow.com
 0.0.0.0 www.2moonsai.com
+0.0.0.0 www.whytryai.com
 
 
 # [.art sites]
