@@ -576,6 +576,7 @@
 0.0.0.0 civitai.com
 0.0.0.0 2moonsai.com
 0.0.0.0 nobleshapes.com
+0.0.0.0 aiartpromptslist.com
 
 
 # [.art sites]

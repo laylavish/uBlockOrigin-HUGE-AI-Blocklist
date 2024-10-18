@@ -584,6 +584,7 @@
 *://*.civitai.com/*
 *://*.2moonsai.com/*
 *://*.nobleshapes.com/*
+*://*.aiartpromptslist.com/*
 
 
 # Sites that have .art domain extension
