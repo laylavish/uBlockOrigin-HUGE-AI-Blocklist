@@ -1,5 +1,5 @@
 # uBlockOrigin & uBlacklist Huge AI Blocklist
-A huge blocklist of sites (~950) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist. 
+A huge blocklist of sites (~950) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, Bing and Ecosia) with uBlock Origin or uBlacklist.
 
 A hosts file for pihole/adguard is available as well.
 
@@ -23,7 +23,7 @@ If you have uBlock Origin installed, click [this link](https://subscribe.adblock
 
 4. Look towards the bottom, and expand the ```Import``` button.
 
-5. Copy and paste this URL into the dialogue box: 
+5. Copy and paste this URL into the dialogue box:
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
 ```
@@ -35,7 +35,7 @@ A video guide on how to do this is available as well:
 https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/assets/128162304/7b8810dc-ce87-4cdc-8b5a-95dc5b0f56c3
 
 
-uBlock Origin will automatically refresh the filter list once a day, so you'll always have up-to-date filters. 
+uBlock Origin will automatically refresh the filter list once a day, so you'll always have up-to-date filters.
 
 If you want to force an update of the filter list, pressing the stopwatch next to the newly added list, then pressing ```Update now``` will achieve that.
 
@@ -57,11 +57,11 @@ If you use Google Chrome/Chromium and have [uBlacklist installed](https://chrome
 4. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
 
 5. Give a name for the added blocklist (eg. Main AI blocklist).
-  
-6. Copy and paste this url 
+
+6. Copy and paste this url
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
-``` 
+```
 into the **URL** part of the dialogue box, then press the blue **Add** button.
 
 7. Set the update interval to an hour for near-realtime list updates, and you're done!
@@ -83,11 +83,11 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
 6. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
 
 7. Give a name for the added blocklist (eg. Main AI blocklist).
-  
-8. Copy and paste this url 
+
+8. Copy and paste this url
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
-``` 
+```
 into the **URL** part of the dialogue box, then press the blue **Add** button.
 
 9. Set the update interval to an hour for near-realtime list updates, and you're done!
@@ -100,11 +100,11 @@ Since it was requested, I've added a list in HOSTS format for pi-hole/adguard or
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
 ```
 
-For use in your operating system, visit the url and copy-paste the contents inside your operating systems hosts file. 
+For use in your operating system, visit the url and copy-paste the contents inside your operating systems hosts file.
 
 Here's a simple guide on how to [access your hosts file on Linux, macOS, and Windows.](https://linuxize.com/post/how-to-edit-your-hosts-file/)
 
-### For pi-hole: 
+### For pi-hole:
 1. Visit your admin's dashboard
 2. Click on `Adlists`
 3. Copy and paste the url into the `address:` box
@@ -121,7 +121,7 @@ Here's a simple guide on how to [access your hosts file on Linux, macOS, and Win
 
 
 ## Extension not working as expected??? Try this!
-If your newly imported list isn't working, it may be because of an outdated web browsing session. If you're web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't work/won't function correctly. 
+If your newly imported list isn't working, it may be because of an outdated web browsing session. If you're web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't work/won't function correctly.
 
 Try creating a new session, aka closing **all** web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If that doesn't work, then try clearing your browser's cache.
 
@@ -146,9 +146,9 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 ```
 
 ## Allowlisting sites
-Don't like a website being blocked? You can easily create an allowlist in your own personal uBlock Origin or uBlacklist filter list. 
+Don't like a website being blocked? You can easily create an allowlist in your own personal uBlock Origin or uBlacklist filter list.
 
-Here's how to do it. 
+Here's how to do it.
 
 ### For uBlock Origin:
 1. Toggle the [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector) `</>` through uBlock Origin's [logger](https://github.com/gorhill/uBlock/wiki/The-logger).
@@ -158,7 +158,7 @@ Here's how to do it.
 
 Boom! Now it's allowlisted!
 
-Or, if you don't want to go through that mumbo-jumbo, add this line in your filter list: 
+Or, if you don't want to go through that mumbo-jumbo, add this line in your filter list:
 ```
 #@#a[href*="example.com"]:upward(div):style(opacity:0.00!important;)
 ```
@@ -166,12 +166,12 @@ Or, if you don't want to go through that mumbo-jumbo, add this line in your filt
 Change "example.com" to the URL you want to allowlist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
 
 ### For uBlacklist:
-1. Enter uBlacklist's options panel. 
-2. In the text box, add this line in the text box: 
+1. Enter uBlacklist's options panel.
+2. In the text box, add this line in the text box:
 ```
 @*://*.example.com/*
 ```
-3. Change "example.com" to a website you want allowlisted. 
+3. Change "example.com" to a website you want allowlisted.
 4. Click save. Done!
 
 ## Extended Filtering
@@ -182,29 +182,29 @@ It is possible to filter AI results based on keywords. It was originally in the 
 In your personal filter list, you can use this template to add your own keywords you would like to block.
 
 ```
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Your Text Here/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/Your Text Here/i):upward(div):style(opacity:0!important)
 ```
 Replace "Your Text Here" with your preferred keywords. A short list of **optional** procedural filters that you can use for uBlock Origin are listed below:
 
 ```
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Stable Diffusion/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/AI Art/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Generative AI/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Ai/):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/AI/):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/Lora Model/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/diffusion/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/midjourney/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/niji/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/SDXL/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/ai generated/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/aiart/i):upward(div):style(opacity:0!important)
-google.com,duckduckgo.com,bing.com##div>a:has-text(/AI illustration/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/Stable Diffusion/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/AI Art/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/Generative AI/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/Ai/):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/AI/):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/Lora Model/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/diffusion/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/midjourney/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/niji/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/SDXL/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/ai generated/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/aiart/i):upward(div):style(opacity:0!important)
+google.com,duckduckgo.com,bing.com,ecosia.org##div>a:has-text(/AI illustration/i):upward(div):style(opacity:0!important)
 ```
 
 ### uBlacklist
 
-For uBlacklist, you can use [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to filter AI results based on keywords. 
+For uBlacklist, you can use [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to filter AI results based on keywords.
 
 An example of a regular expression for uBlacklist would be: `/ai *(generated)?|stable *diffusion/i`
 
@@ -216,17 +216,17 @@ Below is a small list of **optional** regular expressions that can be used to fi
 ```
 
 ## What is the difference between uBlock Origin and uBlacklist?
-Currently, uBlacklist has an issue with pagination on Google Images, meaning that if too many AI images are blocked on a single page, you won't be able to scroll further down to load more. This is rare, although it can happen. 
+Currently, uBlacklist has an issue with pagination on Google Images, meaning that if too many AI images are blocked on a single page, you won't be able to scroll further down to load more. This is rare, although it can happen.
 
 uBlock Origin does not have this issue, since it is only changing the opacity of the divs instead of blocking them. This means that image searches look a little bit strange, since there will be gaps where the images are "blocked."
 
-If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of them and see which one works better for you! :)
+If uBlock Origin doesn't work, try uBlacklist (and vice versa). Try out each of them and see which one works better for you! :)
 
 
 ## To Do
 ✅ Provide blocklist for uBlacklist compatibility
 
-✅ Blocklist functionality on DuckDuckGo and Bing (ew)
+✅ Blocklist functionality for DuckDuckGo, Bing and Ecosia
 
 ✅ Create hosts file for pi-hole/adguard
 
@@ -237,7 +237,7 @@ LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
 
 ## Special Thanks
 
-Special thanks to: 
+Special thanks to:
 
 + This [pastebin](https://pastebin.com/B8kP4imQ) (since it added even more sites to my blocklist)
 
@@ -251,7 +251,7 @@ Special thanks to:
 
 [Super SEO Spam Suppressor (SSSS)](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) by NotaInutilis
 
-> An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AI, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist. 
+> An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AI, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist.
 
 [Journey Buster 3](https://journeybuster.com/) by k0vac
 
