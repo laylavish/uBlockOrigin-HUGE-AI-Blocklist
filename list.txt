@@ -857,7 +857,7 @@ google.com,duckduckgo.com,bing.com##a[href*="flux-ai.io"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="aiimagegenerator.is"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="musesai.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptstock.photos"]:upward(div):style(opacity:0.00!important;)
-
+google.com,duckduckgo.com,bing.com##a[href*="shecodes.io/athena/"]:upward(div):style(opacity:0.00!important;)
 
 ! Google Play AI applications
 google.com,duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.sola.anime.ai.generator"]:upward(div):style(opacity:0.00!important;)
