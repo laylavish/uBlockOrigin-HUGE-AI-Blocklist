@@ -325,6 +325,7 @@
 0.0.0.0 pngmaker.ai
 0.0.0.0 unpod.ai
 0.0.0.0 tattoosgenerator.ai
+0.0.0.0 polyai.ai
 
 # [.com sites]
 0.0.0.0 hayo.com
@@ -1036,6 +1037,7 @@
 0.0.0.0 zleague.gg
 0.0.0.0 dinosaur.org
 0.0.0.0 disciplines.ng
+0.0.0.0 nucleovisual.com
 
 
 #### www. ver
@@ -1349,6 +1351,7 @@
 0.0.0.0 www.stablegenius.ai
 0.0.0.0 www.pngmaker.ai
 0.0.0.0 www.unpod.ai
+0.0.0.0 www.polyai.ai
 
 
 # [.com sites]
@@ -2058,3 +2061,4 @@
 0.0.0.0 www.zleague.gg
 0.0.0.0 www.dinosaur.org
 0.0.0.0 www.disciplines.ng
+0.0.0.0 www.nucleovisual.com
