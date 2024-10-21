@@ -852,7 +852,7 @@
 *://*.aiimagegenerator.is/*
 *://*.musesai.io/*
 *://*.promptstock.photos/*
-
+*://*.shecodes.io/athena/*
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
