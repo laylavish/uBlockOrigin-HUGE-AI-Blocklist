@@ -327,6 +327,7 @@
 *://*.pngmaker.ai/*
 *://*.unpod.ai/*
 *://*.tattoosgenerator.ai/*
+*://*.polyai.ai/*
 
 
 # Sites that have .com domain extension
@@ -1514,6 +1515,7 @@
 *://*.zleague.gg/*
 *://*.dinosaur.org/*
 *://*.disciplines.ng/*
+*://*.nucleovisual.com/*
 
 
 # // VoiceMod shit
