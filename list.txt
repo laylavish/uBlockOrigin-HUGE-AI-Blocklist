@@ -586,7 +586,6 @@ google.com,duckduckgo.com,bing.com##a[href*="journeyaiart.com"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="threwthelookingglass.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptcow.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="gecdesigns.com"]:upward(div):style(opacity:0.00!important;)
-google.com,duckduckgo.com,bing.com##a[href*="civitai.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="2moonsai.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nobleshapes.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aiartpromptslist.com"]:upward(div):style(opacity:0.00!important;)
