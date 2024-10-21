@@ -582,7 +582,6 @@
 *://*.threwthelookingglass.com/*
 *://*.promptcow.com/*
 *://*.gecdesigns.com/*
-*://*.civitai.com/*
 *://*.2moonsai.com/*
 *://*.nobleshapes.com/*
 *://*.aiartpromptslist.com/*
