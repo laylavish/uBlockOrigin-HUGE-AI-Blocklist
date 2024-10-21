@@ -574,7 +574,6 @@
 0.0.0.0 threwthelookingglass.com
 0.0.0.0 promptcow.com
 0.0.0.0 gecdesigns.com
-0.0.0.0 civitai.com
 0.0.0.0 2moonsai.com
 0.0.0.0 nobleshapes.com
 0.0.0.0 aiartpromptslist.com
@@ -1596,8 +1595,15 @@
 0.0.0.0 www.promptalot.com
 0.0.0.0 www.midjourney9.com
 0.0.0.0 www.journeyaiart.com
+0.0.0.0 www.threwthelookingglass.com
 0.0.0.0 www.promptcow.com
+0.0.0.0 www.gecdesigns.com
 0.0.0.0 www.2moonsai.com
+0.0.0.0 www.2moonsai.com
+0.0.0.0 www.nobleshapes.com
+0.0.0.0 www.aiartpromptslist.com
+0.0.0.0 www.theaipromptshop.com
+0.0.0.0 www.imaginewithrashid.com
 0.0.0.0 www.whytryai.com
 
 
