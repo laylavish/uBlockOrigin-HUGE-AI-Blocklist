@@ -865,6 +865,7 @@
 *://*.aiimagegenerator.is/*
 *://*.musesai.io/*
 *://*.promptstock.photos/*
+*://*.shecodes.io/athena/*
 *://*.promptlibrary.org/*
 
 
