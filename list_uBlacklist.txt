@@ -326,6 +326,7 @@
 *://*.stablegenius.ai/*
 *://*.pngmaker.ai/*
 *://*.unpod.ai/*
+*://*.tattoosgenerator.ai/*
 
 
 # Sites that have .com domain extension
@@ -577,6 +578,17 @@
 *://*.midprompteria.com/*
 *://*.promptalot.com/*
 *://*.midjourney9.com/*
+*://*.journeyaiart.com/*
+*://*.threwthelookingglass.com/*
+*://*.promptcow.com/*
+*://*.gecdesigns.com/*
+*://*.civitai.com/*
+*://*.2moonsai.com/*
+*://*.nobleshapes.com/*
+*://*.aiartpromptslist.com/*
+*://*.theaipromptshop.com/*
+*://*.whytryai.com/*
+*://*.imaginewithrashid.com/*
 
 
 # Sites that have .art domain extension
@@ -677,6 +689,7 @@
 *://*.liblib.art/*
 *://*.lunai.art/*
 *://*.pictab.art/*
+*://*.aiphotos123.art/*
 
 
 # Sites that have .co domain extension
@@ -717,6 +730,7 @@
 *://*.designbundles.net/illustrate-ai/*
 *://*.designbundles.net/ylivdesign/*
 *://*.flux-ai.net/*
+*://*.vitalentum.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -852,6 +866,7 @@
 *://*.aiimagegenerator.is/*
 *://*.musesai.io/*
 *://*.promptstock.photos/*
+*://*.promptlibrary.org/*
 
 
 # AI projects hosted on other sites
