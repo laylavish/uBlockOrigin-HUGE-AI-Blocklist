@@ -854,6 +854,7 @@
 *://*.promptstock.photos/*
 *://*.shecodes.io/athena/*
 
+
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
 *://*.picsart.com/ai-image-generator/*
