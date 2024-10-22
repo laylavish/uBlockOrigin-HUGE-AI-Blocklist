@@ -1324,6 +1324,7 @@ google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/jaredsyn"]:upward(di
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/instaai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/lizzyrascal"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/krzychumen"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/selosai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
