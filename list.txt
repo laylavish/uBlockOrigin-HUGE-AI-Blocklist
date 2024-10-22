@@ -1394,6 +1394,7 @@ google.com,duckduckgo.com,bing.com##a[href*="pinterest.com/pin/59496780080419444
 google.com,duckduckgo.com,bing.com##a[href*="pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pinterest.com/pin/mulher-fatal"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pinterest.com/pin/563018696976219"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pinterest.com/pin/idleturtle85-a-very-cute-baby-peacock--482518547589787278"]:upward(div):style(opacity:0.00!important;)
 
 ! // Adobe shit
 google.com,duckduckgo.com,bing.com##a[href*="adobe.com/products/firefly"]:upward(div):style(opacity:0.00!important;)
@@ -1411,6 +1412,8 @@ google.com,duckduckgo.com,bing.com##a[href*="artstation.com/artwork/kQZoLA"]:upw
 
 ! // Individual Instagram
 google.com,duckduckgo.com,bing.com##a[href*="instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="instagram.com/launchdsigns/p/Ctg9hxcA6Lj"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="instagram.com/percipietro/p/DAhljhFOZU8"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Fiverr shit
@@ -1552,6 +1555,9 @@ google.com,duckduckgo.com,bing.com##a[href*="gettywallpapers.com/cute-anime-girl
 
 ! // Tiktok
 google.com,duckduckgo.com,bing.com##a[href*="tiktok.com/@ku_13js"]:upward(div):style(opacity:0.00!important;)
+
+
+! // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
 
 
 ! // Just in case exceptions
