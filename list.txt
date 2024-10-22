@@ -332,6 +332,11 @@ google.com,duckduckgo.com,bing.com##a[href*="pngmaker.ai"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="unpod.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="tattoosgenerator.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="polyai.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="pixverse.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="davinci.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="dzine.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="decohere.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="myninja.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -593,6 +598,15 @@ google.com,duckduckgo.com,bing.com##a[href*="aiartpromptslist.com"]:upward(div):
 google.com,duckduckgo.com,bing.com##a[href*="theaipromptshop.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="whytryai.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="imaginewithrashid.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="piclumen.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="playbook.com/ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="creativefabrica.com/spark"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="neuralframes.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="capcut.com/tools/ai-art-generator"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="kittl.com/feature/ai-text-to-vector"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="klingai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="nocodingai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="artaigallery.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -873,6 +887,7 @@ google.com,duckduckgo.com,bing.com##a[href*="musesai.io"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="promptstock.photos"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="shecodes.io/athena/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptlibrary.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="myedit.online"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
