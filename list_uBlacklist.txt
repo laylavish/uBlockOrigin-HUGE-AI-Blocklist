@@ -1409,6 +1409,10 @@
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986/*
 
 
+# // Individual Instagram
+*://*.instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX/*
+
+
 # // Fiverr shit
 *://*.fiverr.com/bleassome/*
 
@@ -1543,6 +1547,10 @@
 
 # // Getty Wallpapers
 *://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
+
+
+# // Tiktok
+*://*.tiktok.com/@ku_13js/*
 
 
 # // Non-Conflicting Regular Expressions
