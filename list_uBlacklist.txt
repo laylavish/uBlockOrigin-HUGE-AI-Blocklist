@@ -1339,6 +1339,7 @@
 *://*.deviantart.com/instaai/*
 *://*.deviantart.com/lizzyrascal/*
 *://*.deviantart.com/krzychumen/*
+*://*.deviantart.com/selosai/*
 
 
 # Block list of AI "artists"/orgs (artstation)
@@ -1555,3 +1556,5 @@
 /freepik\.com\/.*(ai-generat(ed|or)|generative-ai)/
 
 /dreamstime\.com\/.*(generat(ed|ive)-(ai|art)|ai-generat(ive|ed))/
+
+/deviantart\.com\/.*(-generative-ai|ai-generat(ive|ed)|-ai-art)/i
