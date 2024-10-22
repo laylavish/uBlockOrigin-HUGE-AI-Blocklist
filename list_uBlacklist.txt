@@ -1338,6 +1338,7 @@
 *://*.deviantart.com/jaredsyn/*
 *://*.deviantart.com/instaai/*
 *://*.deviantart.com/lizzyrascal/*
+*://*.deviantart.com/krzychumen/*
 
 
 # Block list of AI "artists"/orgs (artstation)
