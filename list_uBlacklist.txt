@@ -603,6 +603,7 @@
 *://*.klingai.com/*
 *://*.nocodingai.com/*
 *://*.artaigallery.com/*
+*://*.flux-image.com/*
 
 
 # Sites that have .art domain extension
