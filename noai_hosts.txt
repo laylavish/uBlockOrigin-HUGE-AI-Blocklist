@@ -326,6 +326,12 @@
 0.0.0.0 unpod.ai
 0.0.0.0 tattoosgenerator.ai
 0.0.0.0 polyai.ai
+0.0.0.0 pixverse.ai
+0.0.0.0 davinci.ai
+0.0.0.0 dzine.ai
+0.0.0.0 decohere.ai
+0.0.0.0 myninja.ai
+
 
 # [.com sites]
 0.0.0.0 hayo.com
@@ -581,6 +587,11 @@
 0.0.0.0 theaipromptshop.com
 0.0.0.0 whytryai.com
 0.0.0.0 imaginewithrashid.com
+0.0.0.0 piclumen.com
+0.0.0.0 neuralframes.com
+0.0.0.0 klingai.com
+0.0.0.0 nocodingai.com
+0.0.0.0 artaigallery.com
 
 
 # [.art sites]
@@ -851,6 +862,7 @@
 0.0.0.0 musesai.io
 0.0.0.0 promptstock.photos
 0.0.0.0 promptlibrary.org
+0.0.0.0 myedit.online
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1352,6 +1364,11 @@
 0.0.0.0 www.pngmaker.ai
 0.0.0.0 www.unpod.ai
 0.0.0.0 www.polyai.ai
+0.0.0.0 www.pixverse.ai
+0.0.0.0 www.davinci.ai
+0.0.0.0 www.dzine.ai
+0.0.0.0 www.decohere.ai
+0.0.0.0 www.myninja.ai
 
 
 # [.com sites]
@@ -1608,6 +1625,11 @@
 0.0.0.0 www.theaipromptshop.com
 0.0.0.0 www.imaginewithrashid.com
 0.0.0.0 www.whytryai.com
+0.0.0.0 www.piclumen.com
+0.0.0.0 www.neuralframes.com
+0.0.0.0 www.klingai.com
+0.0.0.0 www.nocodingai.com
+0.0.0.0 www.artaigallery.com
 
 
 # [.art sites]
@@ -1875,6 +1897,7 @@
 0.0.0.0 www.aiimagegenerator.is
 0.0.0.0 www.musesai.io
 0.0.0.0 www.promptstock.photos
+0.0.0.0 www.myedit.online
 
 
 # [AI Projects Hosted on Other Sites]
