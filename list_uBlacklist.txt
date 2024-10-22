@@ -1315,6 +1315,7 @@
 /pinterest.+\/pin\/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/
 /pinterest.+\/pin\/mulher-fatal/
 /pinterest.+\/pin\/563018696976219/
+/pinterest.+\/pin\/idleturtle85-a-very-cute-baby-peacock--482518547589787278/
 
 
 # Block list of AI "artists"/orgs (behance)
@@ -1411,6 +1412,8 @@
 
 # // Individual Instagram
 *://*.instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX/*
+*://*.instagram.com/launchdsigns/p/Ctg9hxcA6Lj/*
+*://*.instagram.com/percipietro/p/DAhljhFOZU8/*
 
 
 # // Fiverr shit
@@ -1551,6 +1554,9 @@
 
 # // Tiktok
 *://*.tiktok.com/@ku_13js/*
+
+
+# // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
 
 
 # // Non-Conflicting Regular Expressions
