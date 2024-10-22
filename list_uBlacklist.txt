@@ -1551,3 +1551,5 @@
 /pixabay\.com\/.*(ai(-|%20)generated|\/ai%20anime|\/ai-creation)/
 
 /freepik\.com\/.*(ai-generat(ed|or)|generative-ai)/
+
+/dreamstime\.com\/.*(generat(ed|ive)-(ai|art)|ai-generat(ive|ed))/
