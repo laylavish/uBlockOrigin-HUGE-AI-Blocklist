@@ -592,6 +592,7 @@
 0.0.0.0 klingai.com
 0.0.0.0 nocodingai.com
 0.0.0.0 artaigallery.com
+0.0.0.0 flux-image.com
 
 
 # [.art sites]
@@ -1630,6 +1631,7 @@
 0.0.0.0 www.klingai.com
 0.0.0.0 www.nocodingai.com
 0.0.0.0 www.artaigallery.com
+0.0.0.0 www.flux-image.com
 
 
 # [.art sites]
