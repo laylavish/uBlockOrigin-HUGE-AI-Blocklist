@@ -328,6 +328,11 @@
 *://*.unpod.ai/*
 *://*.tattoosgenerator.ai/*
 *://*.polyai.ai/*
+*://*.pixverse.ai/*
+*://*.davinci.ai/*
+*://*.dzine.ai/*
+*://*.decohere.ai/*
+*://*.myninja.ai/*
 
 
 # Sites that have .com domain extension
@@ -589,6 +594,15 @@
 *://*.theaipromptshop.com/*
 *://*.whytryai.com/*
 *://*.imaginewithrashid.com/*
+*://*.piclumen.com/*
+*://*.playbook.com/ai/*
+*://*.creativefabrica.com/spark/*
+*://*.neuralframes.com/*
+*://*.capcut.com/tools/ai-art-generator/*
+*://*.kittl.com/feature/ai-text-to-vector/*
+*://*.klingai.com/*
+*://*.nocodingai.com/*
+*://*.artaigallery.com/*
 
 
 # Sites that have .art domain extension
@@ -868,6 +882,7 @@
 *://*.promptstock.photos/*
 *://*.shecodes.io/athena/*
 *://*.promptlibrary.org/*
+*://*.myedit.online/*
 
 
 # AI projects hosted on other sites
