@@ -884,6 +884,7 @@
 *://*.shecodes.io/athena/*
 *://*.promptlibrary.org/*
 *://*.myedit.online/*
+*://*.gamer.se/*
 
 
 # AI projects hosted on other sites

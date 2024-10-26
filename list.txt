@@ -889,6 +889,7 @@ google.com,duckduckgo.com,bing.com##a[href*="promptstock.photos"]:upward(div):st
 google.com,duckduckgo.com,bing.com##a[href*="shecodes.io/athena/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="promptlibrary.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="myedit.online"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="gamer.se"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
