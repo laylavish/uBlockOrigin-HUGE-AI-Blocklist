@@ -1901,6 +1901,7 @@
 0.0.0.0 www.musesai.io
 0.0.0.0 www.promptstock.photos
 0.0.0.0 www.myedit.online
+0.0.0.0 www.gamer.se
 
 
 # [AI Projects Hosted on Other Sites]
