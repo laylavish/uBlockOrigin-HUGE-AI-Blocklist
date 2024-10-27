@@ -1561,7 +1561,7 @@ google.com,duckduckgo.com,bing.com##a[href*="tiktok.com/@ku_13js"]:upward(div):s
 ! // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
 
 ! // Google AI Overview
-google.com##.YzCcne
+google.com##.YzCcne:remove()
 
 ! // Just in case exceptions
 mail.google.com#@#a[href*="/play.ht"]:upward(div):style(opacity:0.00!important;)
