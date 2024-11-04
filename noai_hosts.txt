@@ -2089,3 +2089,12 @@
 0.0.0.0 www.dinosaur.org
 0.0.0.0 www.disciplines.ng
 0.0.0.0 www.nucleovisual.com
+0.0.0.0 livingscented.com
+0.0.0.0 tinykitchendivas.com
+0.0.0.0 grillingdude.com
+0.0.0.0 batterytools.net
+0.0.0.0 batteryskills.com
+0.0.0.0 toolsweek.com
+0.0.0.0 fruitfaves.com
+0.0.0.0 coalitionbrewing.com
+0.0.0.0 reptilecity.com
