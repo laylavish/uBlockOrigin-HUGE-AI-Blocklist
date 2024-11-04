@@ -1543,6 +1543,15 @@
 *://*.dinosaur.org/*
 *://*.disciplines.ng/*
 *://*.nucleovisual.com/*
+*://*.livingscented.com/*
+*://*.tinykitchendivas.com/*
+*://*.grillingdude.com/*
+*://*.batterytools.net/*
+*://*.batteryskills.com/*
+*://*.toolsweek.com/*
+*://*.fruitfaves.com/*
+*://*.coalitionbrewing.com/*
+*://*.reptilecity.com/*
 
 
 # // VoiceMod shit
