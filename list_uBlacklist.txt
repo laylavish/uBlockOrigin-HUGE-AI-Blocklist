@@ -1343,6 +1343,7 @@
 *://*.deviantart.com/lizzyrascal/*
 *://*.deviantart.com/krzychumen/*
 *://*.deviantart.com/selosai/*
+*://*.deviantart.com/aismart/*
 
 
 # Block list of AI "artists"/orgs (artstation)
@@ -1377,6 +1378,7 @@
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
 *://*.freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm
 *://*.freepik.com/author/smmstore773/*
+*://*.freepik.com/author/maxstudioko/*
 
 
 # Linkedin garbage
