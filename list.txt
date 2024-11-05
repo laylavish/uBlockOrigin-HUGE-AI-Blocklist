@@ -1326,6 +1326,7 @@ google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/instaai"]:upward(div
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/lizzyrascal"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/krzychumen"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/selosai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deviantart.com/aismart"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (artstation)
@@ -1360,6 +1361,7 @@ google.com,duckduckgo.com,bing.com##a[href*="freepik.com/ai"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="freepik.com/author/maxstudioko"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="freepik.com/author/smmstore773"]:upward(div):style(opacity:0.00!important;)
 
 
