@@ -890,6 +890,7 @@ google.com,duckduckgo.com,bing.com##a[href*="shecodes.io/athena/"]:upward(div):s
 google.com,duckduckgo.com,bing.com##a[href*="promptlibrary.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="myedit.online"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="gamer.se"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="glif.app"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -1305,6 +1306,14 @@ google.com,duckduckgo.com,bing.com##a[href*="pinterest.com/fira1747"]:upward(div
 
 ! Block list of AI "artists"/orgs (behance)
 google.com,duckduckgo.com,bing.com##a[href*="behance.net/oliviosarikas"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/ai_nevys_creator"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/jiboncrafts01"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/annadoma"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/OskarThiemicke"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/ivannaart"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/foxyeaf"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/olgachalykh"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/zeeshi"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (ko-fi)
@@ -1558,6 +1567,18 @@ google.com,duckduckgo.com,bing.com##a[href*="gettywallpapers.com/cute-anime-girl
 
 ! // Tiktok
 google.com,duckduckgo.com,bing.com##a[href*="tiktok.com/@ku_13js"]:upward(div):style(opacity:0.00!important;)
+
+
+! // Behance (standalone galleries)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/209291699/AI-Generated-Creative-Posts"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/208813917/AI-Art-Photography-Portfolio"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/209354857/AI-Gen-Visuals"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/199345215/Ai-Generated-Creative-Poster-Design-Nazmul-GFX"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/206632057/Trendy-Ai-generated-Fashion-Poster-Design-Fabrilife"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/190706173/AI-Generated-Images"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/190706335/Digital-Art"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/210948839/Space-Kitty"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="behance.net/gallery/210345701/A-Jewel-in-the-Sky"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
