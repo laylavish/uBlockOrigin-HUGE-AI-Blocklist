@@ -865,6 +865,7 @@
 0.0.0.0 promptlibrary.org
 0.0.0.0 myedit.online
 0.0.0.0 gamer.se
+0.0.0.0 glif.app
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1902,6 +1903,7 @@
 0.0.0.0 www.promptstock.photos
 0.0.0.0 www.myedit.online
 0.0.0.0 www.gamer.se
+0.0.0.0 www.glif.app
 
 
 # [AI Projects Hosted on Other Sites]
