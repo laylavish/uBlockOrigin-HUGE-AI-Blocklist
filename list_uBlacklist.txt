@@ -886,6 +886,8 @@
 *://*.myedit.online/*
 *://*.gamer.se/*
 *://*.glif.app/*
+*://*.glif.app/*
+*://*.infiniteworlds.app/*
 
 
 # AI projects hosted on other sites
