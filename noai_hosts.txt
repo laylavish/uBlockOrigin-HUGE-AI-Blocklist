@@ -1919,6 +1919,7 @@
 0.0.0.0 www.infiniteworlds.app
 0.0.0.0 www.idyllic.app
 0.0.0.0 www.linuxconfig.org
+0.0.0.0 www.stablediffusion.blog
 
 
 # [AI Projects Hosted on Other Sites]
