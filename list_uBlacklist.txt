@@ -896,6 +896,7 @@
 *://*.infiniteworlds.app/*
 *://*.idyllic.app/*
 *://*.linuxconfig.org/*
+*://*.stablediffusion.blog/*
 
 
 # AI projects hosted on other sites
@@ -1696,6 +1697,14 @@
 
 
 # // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
+
+
+! // Redbubble (standalone pins)
+*://*.redbubble.com/i/pin/Steampunk-female-portrait-Cel-shading-Japan-anime-style-by-DigitalEmporio/152924525.NP9QY/*
+
+
+! // Redbubble Accounts
+*://*.redbubble.com/people/digitalemporio/shop/*
 
 
 # // Non-Conflicting Regular Expressions
