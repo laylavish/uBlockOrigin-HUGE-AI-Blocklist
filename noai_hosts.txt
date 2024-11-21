@@ -593,6 +593,10 @@
 0.0.0.0 nocodingai.com
 0.0.0.0 artaigallery.com
 0.0.0.0 flux-image.com
+0.0.0.0 seapik.com
+0.0.0.0 talkie-ai.com
+0.0.0.0 laprompt.com
+0.0.0.0 fluxaistudio.com
 
 
 # [.art sites]
@@ -867,6 +871,8 @@
 0.0.0.0 gamer.se
 0.0.0.0 glif.app
 0.0.0.0 infiniteworlds.app
+0.0.0.0 idyllic.app
+0.0.0.0 linuxconfig.org
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1635,6 +1641,10 @@
 0.0.0.0 www.nocodingai.com
 0.0.0.0 www.artaigallery.com
 0.0.0.0 www.flux-image.com
+0.0.0.0 www.seapik.com
+0.0.0.0 www.talkie-ai.com
+0.0.0.0 www.laprompt.com
+0.0.0.0 www.fluxaistudio.com
 
 
 # [.art sites]
@@ -1906,6 +1916,8 @@
 0.0.0.0 www.gamer.se
 0.0.0.0 www.glif.app
 0.0.0.0 www.infiniteworlds.app
+0.0.0.0 www.idyllic.app
+0.0.0.0 www.linuxconfig.org
 
 
 # [AI Projects Hosted on Other Sites]
