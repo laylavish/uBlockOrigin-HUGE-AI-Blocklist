@@ -604,6 +604,12 @@
 *://*.nocodingai.com/*
 *://*.artaigallery.com/*
 *://*.flux-image.com/*
+*://*.seapik.com/*
+*://*.talkie-ai.com/*
+*://*.laprompt.com/*
+*://*.fluxaistudio.com/*
+*://*.sql-easy.com/learn/best-ai-sql-tools/*
+*://*.sql-easy.com/learn/best-ai-sql-query/*
 
 
 # Sites that have .art domain extension
@@ -888,6 +894,8 @@
 *://*.glif.app/*
 *://*.glif.app/*
 *://*.infiniteworlds.app/*
+*://*.idyllic.app/*
+*://*.linuxconfig.org/*
 
 
 # AI projects hosted on other sites
@@ -1384,6 +1392,7 @@
 # Freepik garbage
 *://*.freepik.com/premium-ai-image/*
 *://*.freepik.com/ai/*
+*://*.freepik.com/free-ai-image/*
 *://*.freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921/*
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
 *://*.freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm
@@ -1501,12 +1510,116 @@
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/promptsideas/*
 *://*.reddit.com/r/cursedAIpics/*
+*://*.reddit.com/r/lotr_ai_art/*
+*://*.reddit.com/r/AiArtLounge/*
+*://*.reddit.com/r/GarfieldAI_art/*
+*://*.reddit.com/r/AiArtShow/*
+*://*.reddit.com/r/Ai_Husbando_Art/*
+*://*.reddit.com/r/AI_Art_Department/*
+*://*.reddit.com/r/AiCarArt/*
+*://*.reddit.com/r/AiArtChallenge/*
+*://*.reddit.com/r/TrippyAiArt/*
+*://*.reddit.com/r/AiArt_Psycht/*
+*://*.reddit.com/r/FanArtAI/*
+*://*.reddit.com/r/AI_Art_Requests/*
+*://*.reddit.com/r/shittyAiArt/*
+*://*.reddit.com/r/AI_Art_Series/*
+*://*.reddit.com/r/AiArtWow/*
+*://*.reddit.com/r/RenaissanceArt_AI/*
+*://*.reddit.com/r/aiCoffeeArt/*
+*://*.reddit.com/r/narrative_ai_art/*
+*://*.reddit.com/r/ADULT_ART_AI/*
+*://*.reddit.com/r/Art_of_AI/*
+*://*.reddit.com/r/AiGirlsSexyArt/*
+*://*.reddit.com/r/AiComicBookArt/*
+*://*.reddit.com/r/3amAI/*
+*://*.reddit.com/r/AIArtCreator/*
+*://*.reddit.com/r/AIEscher/*
+*://*.reddit.com/r/AIGenArt/*
+*://*.reddit.com/r/aisettings/*
+*://*.reddit.com/r/AmazingAI/*
+*://*.reddit.com/r/ArtIsForEveryone/*
+*://*.reddit.com/r/craiyon/*
+*://*.reddit.com/r/dallemini/*
+*://*.reddit.com/r/dawnAi/*
+*://*.reddit.com/r/DimensionTraveler/*
+*://*.reddit.com/r/DiscoDiffusion/*
+*://*.reddit.com/r/dreamcasting/*
+*://*.reddit.com/r/HighEndAI/*
+*://*.reddit.com/r/invokeai/*
+*://*.reddit.com/r/hellaflyai/*
+*://*.reddit.com/r/AiComicBookArt/*
+*://*.reddit.com/r/generateforme/*
+*://*.reddit.com/r/JustOneWord/*
+*://*.reddit.com/r/Lensa/*
+*://*.reddit.com/r/MidJourney2Dalle/*
+*://*.reddit.com/r/midjourney_imagine/*
+*://*.reddit.com/r/MidjourneyArtworks/*
+*://*.reddit.com/r/MidJourneyFantasy/*
+*://*.reddit.com/r/MidjourneyPrompts/*
+*://*.reddit.com/r/momaia/*
+*://*.reddit.com/r/PromptArt/*
+*://*.reddit.com/r/starryai/*
+*://*.reddit.com/r/WomboArt/*
+*://*.reddit.com/r/Wombodream/*
+*://*.reddit.com/r/wonderAI/*
+*://*.reddit.com/r/AiWholesome/*
+*://*.reddit.com/r/nijijourney/*
+*://*.reddit.com/r/Ai_Dragons/*
+*://*.reddit.com/r/AIGameOfThrones/*
+*://*.reddit.com/r/Ai_HarryPotter/*
+*://*.reddit.com/r/DragonDiffusion/*
+*://*.reddit.com/r/LOTRAI/*
+*://*.reddit.com/r/lotr_ai_art/*
+*://*.reddit.com/r/aispacegirls/*
+*://*.reddit.com/r/AiVideoGameArt/*
+*://*.reddit.com/r/DuneAI/*
+*://*.reddit.com/r/AIRetrofuturism/*
+*://*.reddit.com/r/Ai_StarWars_Art/*
+*://*.reddit.com/r/StarWarsAIArt/*
+*://*.reddit.com/r/aifails/*
+*://*.reddit.com/r/AIgeneratednightmares/*
+*://*.reddit.com/r/LensaFails/*
+*://*.reddit.com/r/MidjourneyFails/*
+*://*.reddit.com/r/weirddalle/*
+*://*.reddit.com/r/AIfreakout/*
+*://*.reddit.com/r/AiGenCarporn/*
+*://*.reddit.com/r/aigeneratedmemes/*
+*://*.reddit.com/r/AIGeneratedPokemon/*
+*://*.reddit.com/r/Ai_Pokemon/*
+*://*.reddit.com/r/DreamArchitecture/*
+*://*.reddit.com/r/Ai_PeopleOfColor_Art/*
+*://*.reddit.com/r/DreamstudioAI/*
+*://*.reddit.com/r/text2aiart/*
+*://*.reddit.com/r/WorldbuildingWithAI/*
+*://*.reddit.com/r/AIArtistWorkflows/*
+*://*.reddit.com/r/DreamBooth/*
+*://*.reddit.com/r/aigamedev/*
+*://*.reddit.com/r/GenTube/*
+*://*.reddit.com/r/ImageGenerators/*
+*://*.reddit.com/r/indie_games_and_ai/*
+*://*.reddit.com/r/MidJourneyDiscussions/*
+*://*.reddit.com/r/promptcraft/*
+*://*.reddit.com/r/PromptDesign/*
+*://*.reddit.com/r/PromptEngineering/*
+*://*.reddit.com/r/PromptSharing/*
+*://*.reddit.com/r/StableDiffusionInfo/*
+*://*.reddit.com/r/aiARTistsUNITE/*
+*://*.reddit.com/r/aiGayArt/*
+*://*.reddit.com/r/AIisfuckinglit/*
+*://*.reddit.com/r/anyaiart/*
+*://*.reddit.com/r/FurAI/*
+*://*.reddit.com/r/sdnsfw/*
+*://*.reddit.com/r/unstable_diffusion/*
+*://*.reddit.com/r/WaifuDiffusion/*
+*://*.reddit.com/r/aiyiff/*
 
 
 # // Block list of AI reddit users
 *://*.reddit.com/user/aidaily0/*
 *://*.reddit.com/user/Wyprany/*
 *://*.reddit.com/user/AIContent/*
+*://*.reddit.com/user/TrickyPride/*
 
 
 #// Reddit shit placeholder
