@@ -59,6 +59,9 @@ google.com,duckduckgo.com,bing.com##a[href*="kemono.party"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="alphacoders.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="rollingpress.co.ke"]:upward(div):style(opacity:0.00!important;)
 
+! // Content Aggregators/SEO spam
+google.com,duckduckgo.com,bing.com##a[href*="tnhelearning.edu.vn"]:upward(div):style(opacity:0.00!important;)
+
 ! // Things that use Anthropic, Open AI, etc api/backend/models, but its usage is abnormal to that of gAI image or chat models
 google.com,duckduckgo.com,bing.com##a[href*="talpasearch.com"]:upward(div):style(opacity:0.00!important;)
 
