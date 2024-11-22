@@ -597,6 +597,7 @@
 0.0.0.0 talkie-ai.com
 0.0.0.0 laprompt.com
 0.0.0.0 fluxaistudio.com
+0.0.0.0 tusiart.com
 
 
 # [.art sites]
@@ -1646,6 +1647,7 @@
 0.0.0.0 www.talkie-ai.com
 0.0.0.0 www.laprompt.com
 0.0.0.0 www.fluxaistudio.com
+0.0.0.0 www.tusiart.com
 
 
 # [.art sites]
