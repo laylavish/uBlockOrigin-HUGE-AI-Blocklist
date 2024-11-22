@@ -1333,6 +1333,7 @@
 /pinterest.+\/pin\/mulher-fatal/
 /pinterest.+\/pin\/563018696976219/
 /pinterest.+\/pin\/idleturtle85-a-very-cute-baby-peacock--482518547589787278/
+/pinterest.+\/pin\/reference--13088655160761671/
 
 
 # Block list of AI "artists"/orgs (behance)
@@ -1724,3 +1725,5 @@
 /dreamstime\.com\/.*(generat(ed|ive)-(ai|art)|ai-generat(ive|ed))/
 
 /deviantart\.com\/.*(-generative-ai|ai-generat(ive|ed)|-ai-art)/i
+
+/shutterstock\.com\/.*(image-generated|generated-by-ai|ai-image-generator|image_type=generated)/
