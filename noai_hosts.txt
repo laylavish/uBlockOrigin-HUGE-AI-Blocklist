@@ -1066,6 +1066,7 @@
 0.0.0.0 dinosaur.org
 0.0.0.0 disciplines.ng
 0.0.0.0 nucleovisual.com
+0.0.0.0 fullbloomclub.net
 
 
 #### www. ver
@@ -2117,3 +2118,4 @@
 0.0.0.0 www.dinosaur.org
 0.0.0.0 www.disciplines.ng
 0.0.0.0 www.nucleovisual.com
+0.0.0.0 www.fullbloomclub.net
