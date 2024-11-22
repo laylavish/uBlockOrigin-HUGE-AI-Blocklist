@@ -334,6 +334,7 @@
 *://*.decohere.ai/*
 *://*.myninja.ai/*
 *://*.neoprompt.ai/*
+*://*.thedream.ai/*
 
 
 # Sites that have .com domain extension
