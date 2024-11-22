@@ -333,6 +333,7 @@
 *://*.dzine.ai/*
 *://*.decohere.ai/*
 *://*.myninja.ai/*
+*://*.neoprompt.ai/*
 
 
 # Sites that have .com domain extension
@@ -610,6 +611,8 @@
 *://*.fluxaistudio.com/*
 *://*.sql-easy.com/learn/best-ai-sql-tools/*
 *://*.sql-easy.com/learn/best-ai-sql-query/*
+*://*.tusiart.com/*
+*://*.underonethousand.com/p/poetry-for-machines/*
 
 
 # Sites that have .art domain extension
