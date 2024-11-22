@@ -617,6 +617,7 @@
 *://*.pngtree.com/so/cel-shading/*
 *://*.artificialpaintings.com/*
 *://*.insertface.com/*
+*://*.dungeonsanddragonsfan.com/*
 
 
 # Sites that have .art domain extension
