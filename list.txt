@@ -1197,6 +1197,8 @@ google.com,duckduckgo.com,bing.com##a[href*="twitter.com/Feral_Forest/"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="x.com/Feral_Forest/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="twitter.com/watanaharumi/"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="x.com/watanaharumi/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twitter.com/AyakonArts/"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="x.com/AyakonArts/"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (youtube)
