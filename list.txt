@@ -337,6 +337,7 @@ google.com,duckduckgo.com,bing.com##a[href*="davinci.ai"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="dzine.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="decohere.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="myninja.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="neoprompt.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -614,6 +615,8 @@ google.com,duckduckgo.com,bing.com##a[href*="laprompt.com"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="fluxaistudio.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="sql-easy.com/learn/best-ai-sql-tools"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="sql-easy.com/learn/best-ai-sql-query"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="tusiart.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="underonethousand.com/p/poetry-for-machines"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
