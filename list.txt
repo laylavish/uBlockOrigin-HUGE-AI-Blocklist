@@ -619,6 +619,7 @@ google.com,duckduckgo.com,bing.com##a[href*="sql-easy.com/learn/best-ai-sql-quer
 google.com,duckduckgo.com,bing.com##a[href*="tusiart.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="underonethousand.com/p/poetry-for-machines"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pngtree.com/so/cel-shading"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="artificialpaintings.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
