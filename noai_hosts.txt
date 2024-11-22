@@ -331,6 +331,7 @@
 0.0.0.0 dzine.ai
 0.0.0.0 decohere.ai
 0.0.0.0 myninja.ai
+0.0.0.0 thedream.ai
 
 
 # [.com sites]
@@ -1381,6 +1382,7 @@
 0.0.0.0 www.dzine.ai
 0.0.0.0 www.decohere.ai
 0.0.0.0 www.myninja.ai
+0.0.0.0 www.thedream.ai
 
 
 # [.com sites]
