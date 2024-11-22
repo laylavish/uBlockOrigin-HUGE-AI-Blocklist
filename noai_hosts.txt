@@ -601,6 +601,7 @@
 0.0.0.0 tusiart.com
 0.0.0.0 artificialpaintings.com
 0.0.0.0 insertface.com
+0.0.0.0 dungeonsanddragonsfan.com
 
 
 # [.art sites]
@@ -1654,6 +1655,7 @@
 0.0.0.0 www.tusiart.com
 0.0.0.0 www.artificialpaintings.com
 0.0.0.0 www.insertface.com
+0.0.0.0 www.dungeonsanddragonsfan.com
 
 
 # [.art sites]
