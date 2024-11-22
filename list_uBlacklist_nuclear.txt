@@ -45,6 +45,9 @@
 *://*.alphacoders.com/*
 *://*.rollingpress.co.ke/*
 
+# // Content Aggregators/SEO spam
+*://*.tnhelearning.edu.vn/*
+
 # // Things that use Anthropic, Open AI, etc api/backend/models, but its usage is abnormal to that of gAI image or chat models
 *://*.talpasearch.com/*
 
