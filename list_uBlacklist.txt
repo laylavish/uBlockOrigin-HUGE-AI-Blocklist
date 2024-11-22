@@ -615,6 +615,7 @@
 *://*.tusiart.com/*
 *://*.underonethousand.com/p/poetry-for-machines/*
 *://*.pngtree.com/so/cel-shading/*
+*://*.artificialpaintings.com/*
 
 
 # Sites that have .art domain extension
