@@ -600,6 +600,7 @@
 0.0.0.0 fluxaistudio.com
 0.0.0.0 tusiart.com
 0.0.0.0 artificialpaintings.com
+0.0.0.0 insertface.com
 
 
 # [.art sites]
@@ -1652,6 +1653,7 @@
 0.0.0.0 www.fluxaistudio.com
 0.0.0.0 www.tusiart.com
 0.0.0.0 www.artificialpaintings.com
+0.0.0.0 www.insertface.com
 
 
 # [.art sites]
