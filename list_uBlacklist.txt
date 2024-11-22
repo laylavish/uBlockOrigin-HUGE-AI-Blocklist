@@ -1202,6 +1202,8 @@
 *://*.x.com/Feral_Forest/*
 *://*.twitter.com/watanaharumi/*
 *://*.x.com/watanaharumi/*
+*://*.twitter.com/AyakonArts/*
+*://*.x.com/AyakonArts/*
 
 
 # Block list of AI "artists"/orgs (youtube)
