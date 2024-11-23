@@ -339,6 +339,7 @@ google.com,duckduckgo.com,bing.com##a[href*="decohere.ai"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="myninja.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="neoprompt.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="thedream.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="viggle.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension

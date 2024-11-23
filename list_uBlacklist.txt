@@ -335,6 +335,7 @@
 *://*.myninja.ai/*
 *://*.neoprompt.ai/*
 *://*.thedream.ai/*
+*://*.viggle.ai/*
 
 
 # Sites that have .com domain extension
