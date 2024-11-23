@@ -336,6 +336,7 @@
 *://*.neoprompt.ai/*
 *://*.thedream.ai/*
 *://*.viggle.ai/*
+*://*.llamagen.ai/*
 
 
 # Sites that have .com domain extension
@@ -619,6 +620,7 @@
 *://*.artificialpaintings.com/*
 *://*.insertface.com/*
 *://*.dungeonsanddragonsfan.com/*
+*://*.imagella.com/*
 
 
 # Sites that have .art domain extension
