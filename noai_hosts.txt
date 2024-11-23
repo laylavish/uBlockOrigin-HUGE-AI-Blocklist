@@ -332,6 +332,7 @@
 0.0.0.0 decohere.ai
 0.0.0.0 myninja.ai
 0.0.0.0 thedream.ai
+0.0.0.0 viggle.ai
 
 
 # [.com sites]
