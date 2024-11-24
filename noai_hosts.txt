@@ -604,6 +604,7 @@
 0.0.0.0 insertface.com
 0.0.0.0 dungeonsanddragonsfan.com
 0.0.0.0 imagella.com
+0.0.0.0 civitaic.com
 
 
 # [.art sites]
@@ -1661,6 +1662,7 @@
 0.0.0.0 www.insertface.com
 0.0.0.0 www.dungeonsanddragonsfan.com
 0.0.0.0 www.imagella.com
+0.0.0.0 www.civitaic.com
 
 
 # [.art sites]
