@@ -621,6 +621,7 @@
 *://*.insertface.com/*
 *://*.dungeonsanddragonsfan.com/*
 *://*.imagella.com/*
+*://*.civitaic.com/*
 
 
 # Sites that have .art domain extension
