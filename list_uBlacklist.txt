@@ -909,6 +909,7 @@
 *://*.idyllic.app/*
 *://*.linuxconfig.org/*
 *://*.stablediffusion.blog/*
+*://*.distinctplugins.io/*
 
 
 # AI projects hosted on other sites
