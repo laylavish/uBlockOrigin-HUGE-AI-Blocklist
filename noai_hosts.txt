@@ -882,6 +882,7 @@
 0.0.0.0 idyllic.app
 0.0.0.0 linuxconfig.org
 0.0.0.0 stablediffusion.blog
+0.0.0.0 distinctplugins.io
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1937,6 +1938,7 @@
 0.0.0.0 www.idyllic.app
 0.0.0.0 www.linuxconfig.org
 0.0.0.0 www.stablediffusion.blog
+0.0.0.0 www.distinctplugins.io
 
 
 # [AI Projects Hosted on Other Sites]
