@@ -913,6 +913,7 @@ google.com,duckduckgo.com,bing.com##a[href*="infiniteworlds.app"]:upward(div):st
 google.com,duckduckgo.com,bing.com##a[href*="idyllic.app"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="linuxconfig.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.blog"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="distinctplugins.io"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
