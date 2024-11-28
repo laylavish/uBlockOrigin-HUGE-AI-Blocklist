@@ -622,6 +622,7 @@
 *://*.dungeonsanddragonsfan.com/*
 *://*.imagella.com/*
 *://*.civitaic.com/*
+*://*.ciciai.com/*
 
 
 # Sites that have .art domain extension
