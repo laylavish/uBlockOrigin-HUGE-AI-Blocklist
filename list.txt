@@ -627,6 +627,7 @@ google.com,duckduckgo.com,bing.com##a[href*="dungeonsanddragonsfan.com"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="imagella.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="civitaic.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ciciai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aistickr.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
