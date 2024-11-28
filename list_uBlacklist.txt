@@ -784,6 +784,7 @@
 *://*.artspark.io/*
 *://*.draeno.io/*
 *://*.letsenhance.io/*
+*://*.madpenguin.org/*
 *://*.lipsumar.io/*
 *://*.gpt4free.io/*
 *://*.swimm.io/*

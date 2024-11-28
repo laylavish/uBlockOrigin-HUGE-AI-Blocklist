@@ -762,6 +762,7 @@
 0.0.0.0 artspark.io
 0.0.0.0 draeno.io
 0.0.0.0 letsenhance.io
+0.0.0.0 madpenguin.org
 0.0.0.0 lipsumar.io
 0.0.0.0 gpt4free.io
 0.0.0.0 swimm.io
