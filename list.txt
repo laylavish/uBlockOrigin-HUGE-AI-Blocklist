@@ -341,6 +341,7 @@ google.com,duckduckgo.com,bing.com##a[href*="neoprompt.ai"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="thedream.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="viggle.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="llamagen.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="makepix.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -1687,6 +1688,9 @@ google.com,duckduckgo.com,bing.com##a[href*="dinosaur.org"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="disciplines.ng"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nucleovisual.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="fullbloomclub.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="imwechsel.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="lightups.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="vetexplainspets.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
