@@ -605,6 +605,7 @@
 0.0.0.0 dungeonsanddragonsfan.com
 0.0.0.0 imagella.com
 0.0.0.0 civitaic.com
+0.0.0.0 pixexid.com
 
 
 # [.art sites]
