@@ -16,6 +16,7 @@
 
 # [.ai sites]
 0.0.0.0 animegenius.ai
+0.0.0.0 julius.ai
 0.0.0.0 artvy.ai
 0.0.0.0 plugger.ai
 0.0.0.0 zavant.ai
@@ -337,6 +338,7 @@
 
 # [.com sites]
 0.0.0.0 hayo.com
+0.0.0.0 chatbot.com
 0.0.0.0 yodayo.com
 0.0.0.0 stable-diffusion-art.com
 0.0.0.0 prompthero.com
@@ -746,6 +748,7 @@
 
 
 # [.pub, io, .app, etc sites]
+0.0.0.0 getmerlin.in
 0.0.0.0 transpic.cn
 0.0.0.0 sticky.cool
 0.0.0.0 playform.io
