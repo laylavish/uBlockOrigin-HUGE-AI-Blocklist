@@ -341,6 +341,7 @@
 
 
 # Sites that have .com domain extension
+*://*.chatbot.com/*
 *://*.hayo.com/*
 *://*.yodayo.com/*
 *://*.stable-diffusion-art.com/*
