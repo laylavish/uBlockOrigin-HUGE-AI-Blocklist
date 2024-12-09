@@ -338,6 +338,7 @@
 *://*.viggle.ai/*
 *://*.llamagen.ai/*
 *://*.makepix.ai/*
+*://*.bedtimestory.ai/*
 
 
 # Sites that have .com domain extension
