@@ -17,6 +17,7 @@
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 # Sites that have .ai domain extension
+*://*.julius.ai/*
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
 *://*.davy.ai/*
@@ -767,6 +768,7 @@
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+*://*.getmerlin.in/*
 *://*.transpic.cn/*
 *://*.aitree.io/*
 *://*.sticky.cool/*
