@@ -627,6 +627,7 @@
 *://*.pixexid.com/*
 *://*.ciciai.com/*
 *://*.aistickr.com/*
+*://*.sora.com/*
 
 
 # Sites that have .art domain extension
