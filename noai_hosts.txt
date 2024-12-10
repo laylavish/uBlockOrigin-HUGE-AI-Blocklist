@@ -606,6 +606,8 @@
 0.0.0.0 imagella.com
 0.0.0.0 civitaic.com
 0.0.0.0 pixexid.com
+0.0.0.0 ciciai.com
+0.0.0.0 aistickr.com
 
 
 # [.art sites]
@@ -763,6 +765,7 @@
 0.0.0.0 artspark.io
 0.0.0.0 draeno.io
 0.0.0.0 letsenhance.io
+0.0.0.0 madpenguin.org
 0.0.0.0 lipsumar.io
 0.0.0.0 gpt4free.io
 0.0.0.0 swimm.io
@@ -1665,6 +1668,8 @@
 0.0.0.0 www.dungeonsanddragonsfan.com
 0.0.0.0 www.imagella.com
 0.0.0.0 www.civitaic.com
+0.0.0.0 www.ciciai.com
+0.0.0.0 www.aistickr.com
 
 
 # [.art sites]
@@ -1940,6 +1945,7 @@
 0.0.0.0 www.linuxconfig.org
 0.0.0.0 www.stablediffusion.blog
 0.0.0.0 www.distinctplugins.io
+0.0.0.0 www.madpenguin.org
 
 
 # [AI Projects Hosted on Other Sites]

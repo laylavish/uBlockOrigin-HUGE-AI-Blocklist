@@ -623,6 +623,8 @@
 *://*.imagella.com/*
 *://*.civitaic.com/*
 *://*.pixexid.com/*
+*://*.ciciai.com/*
+*://*.aistickr.com/*
 
 
 # Sites that have .art domain extension
@@ -785,6 +787,7 @@
 *://*.artspark.io/*
 *://*.draeno.io/*
 *://*.letsenhance.io/*
+*://*.madpenguin.org/*
 *://*.lipsumar.io/*
 *://*.gpt4free.io/*
 *://*.swimm.io/*

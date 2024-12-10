@@ -627,6 +627,9 @@ google.com,duckduckgo.com,bing.com##a[href*="dungeonsanddragonsfan.com"]:upward(
 google.com,duckduckgo.com,bing.com##a[href*="imagella.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="civitaic.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="pixexid.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ciciai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aistickr.com"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! Sites that have .art domain extension
@@ -789,6 +792,7 @@ google.com,duckduckgo.com,bing.com##a[href*="kahma.io"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="artspark.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="draeno.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="letsenhance.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="madpenguin.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="lipsumar.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="gpt4free.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="swimm.io"]:upward(div):style(opacity:0.00!important;)
