@@ -1670,6 +1670,7 @@
 0.0.0.0 www.civitaic.com
 0.0.0.0 www.ciciai.com
 0.0.0.0 www.aistickr.com
+0.0.0.0 pixexid.com
 
 
 # [.art sites]
