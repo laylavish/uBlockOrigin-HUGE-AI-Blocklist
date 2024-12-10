@@ -21,6 +21,7 @@
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extension
+google.com,duckduckgo.com,bing.com##a[href*="julius.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="animegenius.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="artvy.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="davy.ai"]:upward(div):style(opacity:0.00!important;)
@@ -344,6 +345,7 @@ google.com,duckduckgo.com,bing.com##a[href*="llamagen.ai"]:upward(div):style(opa
 
 
 ! Sites that have .com domain extension
+google.com,duckduckgo.com,bing.com##a[href*="chatbot.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="hayo.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="yodayo.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stable-diffusion-art.com"]:upward(div):style(opacity:0.00!important;)
@@ -775,6 +777,7 @@ google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(
 
 
 ! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+google.com,duckduckgo.com,bing.com##a[href*="getmerlin.in"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aitree.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="transpic.cn"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="sticky.cool"]:upward(div):style(opacity:0.00!important;)
