@@ -622,6 +622,7 @@
 *://*.dungeonsanddragonsfan.com/*
 *://*.imagella.com/*
 *://*.civitaic.com/*
+*://*.pixexid.com/*
 *://*.ciciai.com/*
 *://*.aistickr.com/*
 
