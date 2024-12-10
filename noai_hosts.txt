@@ -605,6 +605,8 @@
 0.0.0.0 dungeonsanddragonsfan.com
 0.0.0.0 imagella.com
 0.0.0.0 civitaic.com
+0.0.0.0 ciciai.com
+0.0.0.0 aistickr.com
 
 
 # [.art sites]
