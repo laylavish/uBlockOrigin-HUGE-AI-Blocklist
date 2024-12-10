@@ -1666,6 +1666,8 @@
 0.0.0.0 www.dungeonsanddragonsfan.com
 0.0.0.0 www.imagella.com
 0.0.0.0 www.civitaic.com
+0.0.0.0 www.ciciai.com
+0.0.0.0 www.aistickr.com
 
 
 # [.art sites]
