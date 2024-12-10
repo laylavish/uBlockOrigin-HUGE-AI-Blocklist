@@ -1944,6 +1944,7 @@
 0.0.0.0 www.linuxconfig.org
 0.0.0.0 www.stablediffusion.blog
 0.0.0.0 www.distinctplugins.io
+0.0.0.0 www.madpenguin.org
 
 
 # [AI Projects Hosted on Other Sites]
