@@ -628,6 +628,7 @@
 *://*.ciciai.com/*
 *://*.aistickr.com/*
 *://*.sora.com/*
+*://*.drawever.com/*
 
 
 # Sites that have .art domain extension
