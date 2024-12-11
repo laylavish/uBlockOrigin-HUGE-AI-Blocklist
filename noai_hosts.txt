@@ -611,6 +611,7 @@
 0.0.0.0 ciciai.com
 0.0.0.0 aistickr.com
 0.0.0.0 sora.com
+0.0.0.0 drawever.com
 
 
 # [.art sites]
@@ -1678,6 +1679,7 @@
 0.0.0.0 www.aistickr.com
 0.0.0.0 www.pixexid.com
 0.0.0.0 www.sora.com
+0.0.0.0 www.drawever.com
 
 
 # [.art sites]
