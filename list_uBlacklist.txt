@@ -18,7 +18,7 @@
 
 # Sites that have .ai domain extension
 *://*.magichour.ai/*
-*://*/perplexity.ai/*
+*://*/.perplexity.ai/*
 *://*.julius.ai/*
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
