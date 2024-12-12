@@ -22,6 +22,7 @@
 
 ! Sites that have .ai domain extension
 google.com,duckduckgo.com,bing.com##a[href*="julius.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="perplexity.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="animegenius.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="artvy.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="davy.ai"]:upward(div):style(opacity:0.00!important;)

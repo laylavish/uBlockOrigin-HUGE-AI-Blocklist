@@ -17,6 +17,7 @@
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 # Sites that have .ai domain extension
+*://*/perplexity.ai/*
 *://*.julius.ai/*
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
