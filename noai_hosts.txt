@@ -15,6 +15,8 @@
 
 
 # [.ai sites]
+0.0.0.0 cgdream.ai
+0.0.0.0 tryleap.ai
 0.0.0.0 magichour.ai
 0.0.0.0 perplexity.ai
 0.0.0.0 animegenius.ai
@@ -339,6 +341,9 @@
 
 
 # [.com sites]
+0.0.0.0 appypie.com
+0.0.0.0 aicreate.com
+0.0.0.0 toolbaz.com
 0.0.0.0 hayo.com
 0.0.0.0 chatbot.com
 0.0.0.0 yodayo.com

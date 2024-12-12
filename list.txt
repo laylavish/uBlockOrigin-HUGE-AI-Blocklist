@@ -22,6 +22,8 @@
 
 ! Sites that have .ai domain extension
 google.com,duckduckgo.com,bing.com##a[href*="julius.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="cgdream.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="tryleap.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="magichour.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="perplexity.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="animegenius.ai"]:upward(div):style(opacity:0.00!important;)
@@ -348,6 +350,9 @@ google.com,duckduckgo.com,bing.com##a[href*="llamagen.ai"]:upward(div):style(opa
 
 ! Sites that have .com domain extension
 google.com,duckduckgo.com,bing.com##a[href*="chatbot.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aicreate.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="appypie.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="toolbaz.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="hayo.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="yodayo.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stable-diffusion-art.com"]:upward(div):style(opacity:0.00!important;)
