@@ -15,6 +15,7 @@
 
 
 # [.ai sites]
+0.0.0.0 magichour.ai
 0.0.0.0 perplexity.ai
 0.0.0.0 animegenius.ai
 0.0.0.0 julius.ai
