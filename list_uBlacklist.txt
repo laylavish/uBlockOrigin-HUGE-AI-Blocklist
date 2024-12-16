@@ -636,6 +636,7 @@
 *://*.aistickr.com/*
 *://*.sora.com/*
 *://*.drawever.com/*
+*://*.smiletemplates.com/search/images/*
 
 
 # Sites that have .art domain extension
