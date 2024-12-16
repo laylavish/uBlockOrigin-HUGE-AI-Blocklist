@@ -17,6 +17,10 @@
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 # Sites that have .ai domain extension
+*://*.cgdream.ai/*
+*://*.tryleap.ai/*
+*://*.magichour.ai/*
+*://*.perplexity.ai/*
 *://*.julius.ai/*
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
@@ -341,6 +345,9 @@
 
 
 # Sites that have .com domain extension
+*://*.appypie.com/*
+*://*.aicreate.com/*
+*://*.toolbaz.com/*
 *://*.chatbot.com/*
 *://*.hayo.com/*
 *://*.yodayo.com/*
