@@ -640,6 +640,7 @@ google.com,duckduckgo.com,bing.com##a[href*="ciciai.com"]:upward(div):style(opac
 google.com,duckduckgo.com,bing.com##a[href*="aistickr.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="sora.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="drawever.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="smiletemplates.com/search/images"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
