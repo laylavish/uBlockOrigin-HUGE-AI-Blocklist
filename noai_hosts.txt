@@ -1092,6 +1092,10 @@
 #### www. ver
 
 # [.ai sites]
+0.0.0.0 www.cgdream.ai
+0.0.0.0 www.tryleap.ai
+0.0.0.0 www.magichour.ai
+0.0.0.0 www.perplexity.ai
 0.0.0.0 www.animegenius.ai
 0.0.0.0 www.julius.ai
 0.0.0.0 www.artvy.ai
@@ -1412,6 +1416,9 @@
 
 
 # [.com sites]
+0.0.0.0 www.appypie.com
+0.0.0.0 www.aicreate.com
+0.0.0.0 www.toolbaz.com
 0.0.0.0 www.hayo.com
 0.0.0.0 www.chatbot.com
 0.0.0.0 www.yodayo.com
