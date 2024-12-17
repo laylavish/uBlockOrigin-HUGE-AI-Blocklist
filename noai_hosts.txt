@@ -338,6 +338,8 @@
 0.0.0.0 myninja.ai
 0.0.0.0 thedream.ai
 0.0.0.0 viggle.ai
+0.0.0.0 makepix.ai
+0.0.0.0 bedtimestory.ai
 
 
 # [.com sites]
@@ -2159,3 +2161,6 @@
 0.0.0.0 www.disciplines.ng
 0.0.0.0 www.nucleovisual.com
 0.0.0.0 www.fullbloomclub.net
+0.0.0.0 imwechsel.com
+0.0.0.0 lightups.io
+0.0.0.0 vetexplainspets.com
