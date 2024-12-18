@@ -1,0 +1,23 @@
+! Title: Test Blocklist for SearXNG AI blocklist
+! Expires: 1 day
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Homepage: https://github.com/ImperitusSoftware/AI-Blocklist-for-SearXNG
+!
+! Issues: https://github.com/ImperitusSoftware/AI-Blocklist-for-SearXNG/issues
+! PRs: https://github.com/ImperitusSoftware/AI-Blocklist-for-SearXNG/pulls
+! Feel free to fork and submit pr's if you find more sites
+
+! HAPPY PRIDE MONTH
+
+! Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
+
+! I love you.
+! You are valid.
+! LGBTQ+ Rights!
+! Keep your chin up--we will get through this together <33
+! Have a happy day!
+
+
+!//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
+
+priv.au##article[class*="result result"]:has(> a[href="https://caiyon.com"])
