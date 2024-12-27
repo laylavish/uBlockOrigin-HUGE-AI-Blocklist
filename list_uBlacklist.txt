@@ -930,6 +930,7 @@
 *://*.stablediffusion.blog/*
 *://*.distinctplugins.io/*
 *://*.nohat.cc/*
+*://*.stl.team/*
 
 
 # AI projects hosted on other sites
