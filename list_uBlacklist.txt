@@ -637,6 +637,8 @@
 *://*.sora.com/*
 *://*.drawever.com/*
 *://*.smiletemplates.com/search/images/*
+*://*.beatcoynz-artwork.com/*
+*://*.stlmax.com/*
 
 
 # Sites that have .art domain extension
