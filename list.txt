@@ -933,6 +933,7 @@ google.com,duckduckgo.com,bing.com##a[href*="linuxconfig.org"]:upward(div):style
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.blog"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="distinctplugins.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nohat.cc"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stl.team"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
