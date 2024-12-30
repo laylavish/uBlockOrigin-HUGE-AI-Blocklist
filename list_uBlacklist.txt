@@ -1243,6 +1243,7 @@
 *://*.youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw/*
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
+*://*.youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w/*
 
 
 # Block list of AI "artists"/orgs (instagram)
