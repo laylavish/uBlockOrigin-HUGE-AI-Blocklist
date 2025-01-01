@@ -626,6 +626,9 @@
 0.0.0.0 ebsynth.com
 0.0.0.0 ishencai.com
 0.0.0.0 metademolab.com
+0.0.0.0 sketch.metademolab.com
+0.0.0.0 metamotivo.metademolab.com
+0.0.0.0 dinov2.metademolab.com
 0.0.0.0 softgist.com
 0.0.0.0 vondy.com
 0.0.0.0 aitoolhunt.com
@@ -1714,6 +1717,9 @@
 0.0.0.0 www.ebsynth.com
 0.0.0.0 www.ishencai.com
 0.0.0.0 www.metademolab.com
+0.0.0.0 www.sketch.metademolab.com
+0.0.0.0 www.metamotivo.metademolab.com
+0.0.0.0 www.dinov2.metademolab.com
 0.0.0.0 www.softgist.com
 0.0.0.0 www.vondy.com
 0.0.0.0 www.aitoolhunt.com
