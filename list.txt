@@ -1427,6 +1427,7 @@ google.com,duckduckgo.com,bing.com##a[href*="medium.com/@aitubo011"]:upward(div)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/mlearning-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/generative-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@SLover"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="medium.com/@queenskisivuli"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit

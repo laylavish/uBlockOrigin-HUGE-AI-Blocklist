@@ -1444,6 +1444,7 @@
 *://*.medium.com/mlearning-ai/*
 *://*.medium.com/generative-ai/*
 *://*.medium.com/@SLover/*
+*://*.medium.com/@queenskisivuli/*
 
 
 # // Miscellaneous crypto/nft shit
