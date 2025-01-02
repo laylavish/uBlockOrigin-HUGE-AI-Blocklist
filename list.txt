@@ -641,7 +641,8 @@ google.com,duckduckgo.com,bing.com##a[href*="aistickr.com"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="sora.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="drawever.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="smiletemplates.com/search/images"]:upward(div):style(opacity:0.00!important;)
-
+google.com,duckduckgo.com,bing.com##a[href*="beatcoynz-artwork.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stlmax.com"]:upward(div):style(opacity:0.00!important;)
 
 ! Sites that have .art domain extension
 google.com,duckduckgo.com,bing.com##a[href*="imagine.art"]:upward(div):style(opacity:0.00!important;)
@@ -785,7 +786,7 @@ google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(opacity:0.00!important;)
 
 
-! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
 google.com,duckduckgo.com,bing.com##a[href*="getmerlin.in"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aitree.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="transpic.cn"]:upward(div):style(opacity:0.00!important;)
@@ -931,6 +932,8 @@ google.com,duckduckgo.com,bing.com##a[href*="idyllic.app"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="linuxconfig.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.blog"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="distinctplugins.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="nohat.cc"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stl.team"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications

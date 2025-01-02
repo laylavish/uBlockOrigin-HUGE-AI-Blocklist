@@ -637,6 +637,8 @@
 *://*.sora.com/*
 *://*.drawever.com/*
 *://*.smiletemplates.com/search/images/*
+*://*.beatcoynz-artwork.com/*
+*://*.stlmax.com/*
 
 
 # Sites that have .art domain extension
@@ -781,7 +783,7 @@
 *://*.vitalentum.net/*
 
 
-# Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+# Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
 *://*.getmerlin.in/*
 *://*.transpic.cn/*
 *://*.aitree.io/*
@@ -927,6 +929,8 @@
 *://*.linuxconfig.org/*
 *://*.stablediffusion.blog/*
 *://*.distinctplugins.io/*
+*://*.nohat.cc/*
+*://*.stl.team/*
 
 
 # AI projects hosted on other sites
