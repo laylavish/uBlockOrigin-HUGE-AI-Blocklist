@@ -338,6 +338,8 @@
 0.0.0.0 myninja.ai
 0.0.0.0 thedream.ai
 0.0.0.0 viggle.ai
+0.0.0.0 mascots.ai
+0.0.0.0 gab.ai
 
 
 # [.com sites]
@@ -389,7 +391,6 @@
 0.0.0.0 segmind.com
 0.0.0.0 sarahmeyohas.com
 0.0.0.0 davidarielszauder.com
-0.0.0.0 sarahmeyohas.com
 0.0.0.0 violetforest.com
 0.0.0.0 dreamup.com
 0.0.0.0 vana.com
@@ -619,6 +620,18 @@
 0.0.0.0 aistickr.com
 0.0.0.0 sora.com
 0.0.0.0 drawever.com
+0.0.0.0 kakaobrain.com
+0.0.0.0 bdiscover.kakobrain.com
+0.0.0.0 123rf.com
+0.0.0.0 ebsynth.com
+0.0.0.0 ishencai.com
+0.0.0.0 metademolab.com
+0.0.0.0 sketch.metademolab.com
+0.0.0.0 metamotivo.metademolab.com
+0.0.0.0 dinov2.metademolab.com
+0.0.0.0 softgist.com
+0.0.0.0 vondy.com
+0.0.0.0 aitoolhunt.com
 
 
 # [.art sites]
@@ -899,6 +912,8 @@
 0.0.0.0 linuxconfig.org
 0.0.0.0 stablediffusion.blog
 0.0.0.0 distinctplugins.io
+0.0.0.0 idesigns.shop
+0.0.0.0 bottr.me
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1413,6 +1428,8 @@
 0.0.0.0 www.myninja.ai
 0.0.0.0 www.thedream.ai
 0.0.0.0 www.viggle.ai
+0.0.0.0 www.mascots.ai
+0.0.0.0 www.gab.ai
 
 
 # [.com sites]
@@ -1694,6 +1711,18 @@
 0.0.0.0 www.pixexid.com
 0.0.0.0 www.sora.com
 0.0.0.0 www.drawever.com
+0.0.0.0 www.kakaobrain.com
+0.0.0.0 www.bdiscover.kakobrain.com
+0.0.0.0 www.123rf.com
+0.0.0.0 www.ebsynth.com
+0.0.0.0 www.ishencai.com
+0.0.0.0 www.metademolab.com
+0.0.0.0 www.sketch.metademolab.com
+0.0.0.0 www.metamotivo.metademolab.com
+0.0.0.0 www.dinov2.metademolab.com
+0.0.0.0 www.softgist.com
+0.0.0.0 www.vondy.com
+0.0.0.0 www.aitoolhunt.com
 
 
 # [.art sites]
@@ -1971,6 +2000,8 @@
 0.0.0.0 www.stablediffusion.blog
 0.0.0.0 www.distinctplugins.io
 0.0.0.0 www.madpenguin.org
+0.0.0.0 www.idesigns.shop
+0.0.0.0 www.bottr.me
 
 
 # [AI Projects Hosted on Other Sites]
