@@ -342,6 +342,8 @@
 *://*.thedream.ai/*
 *://*.viggle.ai/*
 *://*.llamagen.ai/*
+*://*.makepix.ai/*
+*://*.bedtimestory.ai/*
 
 
 # Sites that have .com domain extension
@@ -1709,6 +1711,9 @@
 *://*.disciplines.ng/*
 *://*.nucleovisual.com/*
 *://*.fullbloomclub.net/*
+*://*.imwechsel.com*
+*://*.lightups.io/*
+*://*.vetexplainspets.com/*
 
 
 # // VoiceMod shit
