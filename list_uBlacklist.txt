@@ -548,7 +548,6 @@
 *://*.pikbest.com/*
 *://*.poe.com/*
 *://*.pornkai.com/*
-*://*.vana.com/*
 *://*.promptforum.com/*
 *://*.promptomania.com/*
 *://*.rakugaki-taro.com/*
@@ -559,7 +558,6 @@
 *://*.trustingeeks.com/*
 *://*.udio.com/*
 *://*.vanceai.com/*
-*://*.wondershare.com/*
 *://*.wellsaidlabs.com/*
 *://*.wonder-ai.com/*
 *://*.wordspilot.com/*
