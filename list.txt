@@ -792,7 +792,7 @@ google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(opacity:0.00!important;)
 
 
-! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
 google.com,duckduckgo.com,bing.com##a[href*="getmerlin.in"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aitree.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="transpic.cn"]:upward(div):style(opacity:0.00!important;)
@@ -938,6 +938,8 @@ google.com,duckduckgo.com,bing.com##a[href*="idyllic.app"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="linuxconfig.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.blog"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="distinctplugins.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="nohat.cc"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stl.team"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="idesigns.shop"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bottr.me"]:upward(div):style(opacity:0.00!important;)
 
