@@ -343,7 +343,6 @@
 *://*.viggle.ai/*
 *://*.llamagen.ai/*
 *://*.mascots.ai/*
-*://*.*.krea.ai/*
 *://*.gab.ai/*
 
 
@@ -396,7 +395,6 @@
 *://*.segmind.com/*
 *://*.sarahmeyohas.com/*
 *://*.davidarielszauder.com/*
-*://*.*.sarahmeyohas.com/*
 *://*.violetforest.com/*
 *://*.dreamup.com/*
 *://*.artbreeder/*
@@ -526,7 +524,7 @@
 *://*.aiweirdness.com/*
 *://*.allthedifferences.com/*
 *://*.artbreeder.com/*
-*://*.*.kakaobrain.com/*
+*://*.kakaobrain.com/*
 *://*.boomy.com/*
 *://*.chatai.com/*
 *://*.chichi-pui.com/*
@@ -535,7 +533,7 @@
 *://*.fadr.com/*
 *://*.fakeyou.com/*
 *://*.heygen.com/*
-*://*.*.alkaidvision.com/*
+*://*.alkaidvision.com/*
 *://*.instantaiprompt.com/*
 *://*.interlinkedai.com/*
 *://*.janitorai.com/*
@@ -550,7 +548,7 @@
 *://*.pikbest.com/*
 *://*.poe.com/*
 *://*.pornkai.com/*
-*://*.*.vana.com/*
+*://*.vana.com/*
 *://*.promptforum.com/*
 *://*.promptomania.com/*
 *://*.rakugaki-taro.com/*
@@ -561,7 +559,7 @@
 *://*.trustingeeks.com/*
 *://*.udio.com/*
 *://*.vanceai.com/*
-*://*.*.wondershare.com/*
+*://*.wondershare.com/*
 *://*.wellsaidlabs.com/*
 *://*.wonder-ai.com/*
 *://*.wordspilot.com/*
@@ -640,20 +638,12 @@
 *://*.sora.com/*
 *://*.drawever.com/*
 *://*.smiletemplates.com/search/images/*
-*://*.kakaobrain.com/*
-*://*.*.kakobrain.com/*
-*://*.123rf.com/*
 *://*.ebsynth.com/*
 *://*.ishencai.com/*
 *://*.metademolab.com/*
-*://*.*.metademolab.com/*
-*://*.*.123rf.com/*
-*://*.*.craiyon.com/*
-*://softgist.com/*
 *://*.softgist.com/*
 *://*.vondy.com/*
 *://*.aitoolhunt.com/*
-*://aitoolhunt.com/*
 
 
 # Sites that have .art domain extension
@@ -896,7 +886,6 @@
 *://*.cheatsheet.md/*
 *://*.client.aigur.dev/*
 *://*.cohesive.so/*
-*://*.*.nightcafe.studio/*
 *://*.deepbrain.io/*
 *://*.ebank.nz/*
 *://*.elai.io/*
