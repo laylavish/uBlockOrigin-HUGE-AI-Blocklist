@@ -636,6 +636,8 @@
 *://*.sora.com/*
 *://*.drawever.com/*
 *://*.smiletemplates.com/search/images/*
+*://*.beatcoynz-artwork.com/*
+*://*.stlmax.com/*
 *://*.ebsynth.com/*
 *://*.ishencai.com/*
 *://*.metademolab.com/*
@@ -931,6 +933,8 @@
 *://*.linuxconfig.org/*
 *://*.stablediffusion.blog/*
 *://*.distinctplugins.io/*
+*://*.nohat.cc/*
+*://*.stl.team/*
 *://*.idesigns.shop/*
 *://*.bottr.me/*
 
