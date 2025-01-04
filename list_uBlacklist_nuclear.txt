@@ -44,6 +44,7 @@
 *://*.kemono.party/*
 *://*.alphacoders.com/*
 *://*.rollingpress.co.ke/*
+*://*.ukposters.co.uk/*
 *://*.redbrokoly.com/*
 
 # // Content Aggregators/SEO spam
