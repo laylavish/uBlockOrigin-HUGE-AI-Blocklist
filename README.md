@@ -1,7 +1,7 @@
 # uBlockOrigin & uBlacklist Huge AI Blocklist
 A huge blocklist of manually curated sites (1000+) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist. 
 
-Also works on mobile ([iOS, iPadOS,](#iOS-iPadOS-Safari-only)) [Android](#Android-via-Firefox)) via uBlacklist, as well as pihole/adguard (via [Hosts file](#hosts-file-for-pi-holeadguard))
+Also works on mobile ([iOS, iPadOS,](#iOS-iPadOS-Safari-only) [Android](#Android-via-Firefox)) via uBlacklist, as well as pihole/adguard (via [Hosts file](#hosts-file-for-pi-holeadguard))
 
 > [!WARNING]  
 > Right now, please use [uBlacklist](#Installing-it-with-uBlacklist) *instead* of uBlock Origin for now. Needs a little restructuring to fix DOM targeting. You can still try uBlock, but it will probably not work as you expect it to...
