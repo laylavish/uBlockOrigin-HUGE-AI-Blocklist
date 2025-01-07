@@ -1738,11 +1738,11 @@
 # // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
 
 
-! // Redbubble (standalone pins)
+# // Redbubble (standalone pins)
 *://*.redbubble.com/i/pin/Steampunk-female-portrait-Cel-shading-Japan-anime-style-by-DigitalEmporio/152924525.NP9QY/*
 
 
-! // Redbubble Accounts
+# // Redbubble Accounts
 *://*.redbubble.com/people/digitalemporio/shop/*
 
 
