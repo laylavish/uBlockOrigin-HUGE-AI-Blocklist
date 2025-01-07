@@ -342,6 +342,8 @@
 *://*.thedream.ai/*
 *://*.viggle.ai/*
 *://*.llamagen.ai/*
+*://*.gab.ai/*
+*://*.mascots.ai/*
 
 
 # Sites that have .com domain extension
@@ -639,6 +641,12 @@
 *://*.smiletemplates.com/search/images/*
 *://*.beatcoynz-artwork.com/*
 *://*.stlmax.com/*
+*://*.ebsynth.com/*
+*://*.ishencai.com/*
+*://*.metademolab.com/*
+*://*.softgist.com/*
+*://*.vondy.com/*
+*://*.aitoolhunt.com/*
 
 
 # Sites that have .art domain extension
@@ -931,6 +939,8 @@
 *://*.distinctplugins.io/*
 *://*.nohat.cc/*
 *://*.stl.team/*
+*://*.idesigns.shop/*
+*://*.bottr.me/*
 
 
 # AI projects hosted on other sites
@@ -1246,6 +1256,7 @@
 *://*.youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw/*
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
+*://*.youtube.com/@alkaid-art/*
 
 
 # Block list of AI "artists"/orgs (instagram)
