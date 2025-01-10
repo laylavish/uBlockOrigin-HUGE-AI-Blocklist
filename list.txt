@@ -1760,6 +1760,13 @@ google.com,duckduckgo.com,bing.com##a[href*="redbubble.com/people/digitalemporio
 google.com##.YzCcne:remove()
 
 
+! // GitHub Copilot
+github.com##div > button[data-testid="copilot-popover-button"]
+github.com##div.AppHeader-CopilotChat
+github.com##div.copilotPreview__container
+github.com##li > a[href="/copilot"]
+
+
 ! // Just in case exceptions
 mail.google.com#@#a[href*="/play.ht"]:upward(div):style(opacity:0.00!important;)
 mail.google.com#@#a[href*=".play.ht"]:upward(div):style(opacity:0.00!important;)
