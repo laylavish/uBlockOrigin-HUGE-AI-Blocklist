@@ -346,6 +346,8 @@ google.com,duckduckgo.com,bing.com##a[href*="neoprompt.ai"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="thedream.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="viggle.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="llamagen.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="gab.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mascots.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -643,6 +645,12 @@ google.com,duckduckgo.com,bing.com##a[href*="drawever.com"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="smiletemplates.com/search/images"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="beatcoynz-artwork.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stlmax.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ebsynth.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ishencai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="metademolab.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="softgist.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="vondy.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aitoolhunt.com"]:upward(div):style(opacity:0.00!important;)
 
 ! Sites that have .art domain extension
 google.com,duckduckgo.com,bing.com##a[href*="imagine.art"]:upward(div):style(opacity:0.00!important;)
@@ -934,6 +942,8 @@ google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.blog"]:upward(div):
 google.com,duckduckgo.com,bing.com##a[href*="distinctplugins.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nohat.cc"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stl.team"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="idesigns.shop"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="bottr.me"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -1240,6 +1250,7 @@ google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@enigmatic_e"]:upward(d
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@LaCarnevali"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@OlivioSarikas"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@alkaid-art"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (instagram)
