@@ -344,6 +344,7 @@
 *://*.llamagen.ai/*
 *://*.gab.ai/*
 *://*.mascots.ai/*
+*://*.moescape.ai/*
 
 
 # Sites that have .com domain extension
