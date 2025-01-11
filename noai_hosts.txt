@@ -338,6 +338,7 @@
 0.0.0.0 myninja.ai
 0.0.0.0 thedream.ai
 0.0.0.0 viggle.ai
+0.0.0.0 moescape.ai
 
 
 # [.com sites]
@@ -1413,6 +1414,7 @@
 0.0.0.0 www.myninja.ai
 0.0.0.0 www.thedream.ai
 0.0.0.0 www.viggle.ai
+0.0.0.0 www.moescape.ai
 
 
 # [.com sites]
