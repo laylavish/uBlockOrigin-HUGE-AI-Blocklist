@@ -21,6 +21,9 @@
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extension
+google.com,duckduckgo.com,bing.com##a[href*="otter.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="fireflies.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="krisp.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="julius.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="cgdream.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="tryleap.ai"]:upward(div):style(opacity:0.00!important;)
@@ -351,6 +354,7 @@ google.com,duckduckgo.com,bing.com##a[href*="mascots.ai"]:upward(div):style(opac
 
 
 ! Sites that have .com domain extension
+google.com,duckduckgo.com,bing.com##a[href*="cybersecguide.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="chatbot.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aicreate.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="appypie.com"]:upward(div):style(opacity:0.00!important;)
