@@ -942,6 +942,7 @@
 *://*.stl.team/*
 *://*.idesigns.shop/*
 *://*.bottr.me/*
+*://*.comfy.org/*
 
 
 # AI projects hosted on other sites
