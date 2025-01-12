@@ -945,6 +945,7 @@ google.com,duckduckgo.com,bing.com##a[href*="nohat.cc"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="stl.team"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="idesigns.shop"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bottr.me"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="comfy.org"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
