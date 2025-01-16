@@ -351,6 +351,7 @@
 
 
 # Sites that have .com domain extension
+*://*.steelefortress.com/*
 *://*.cybersecguide.com/*
 *://*.appypie.com/*
 *://*.aicreate.com/*
@@ -797,6 +798,7 @@
 
 
 # Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
+*://*.domain/*
 *://*.getmerlin.in/*
 *://*.transpic.cn/*
 *://*.aitree.io/*
