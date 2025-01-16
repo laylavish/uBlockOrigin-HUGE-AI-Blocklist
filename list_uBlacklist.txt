@@ -347,6 +347,7 @@
 *://*.llamagen.ai/*
 *://*.gab.ai/*
 *://*.mascots.ai/*
+*://*.moescape.ai/*
 
 
 # Sites that have .com domain extension
@@ -945,6 +946,7 @@
 *://*.stl.team/*
 *://*.idesigns.shop/*
 *://*.bottr.me/*
+*://*.comfy.org/*
 
 
 # AI projects hosted on other sites

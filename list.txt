@@ -351,6 +351,7 @@ google.com,duckduckgo.com,bing.com##a[href*="viggle.ai"]:upward(div):style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="llamagen.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="gab.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="mascots.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="moescape.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -948,6 +949,7 @@ google.com,duckduckgo.com,bing.com##a[href*="nohat.cc"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="stl.team"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="idesigns.shop"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bottr.me"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="comfy.org"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications

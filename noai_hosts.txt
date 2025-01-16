@@ -338,6 +338,7 @@
 0.0.0.0 myninja.ai
 0.0.0.0 thedream.ai
 0.0.0.0 viggle.ai
+0.0.0.0 moescape.ai
 
 
 # [.com sites]
@@ -899,6 +900,7 @@
 0.0.0.0 linuxconfig.org
 0.0.0.0 stablediffusion.blog
 0.0.0.0 distinctplugins.io
+0.0.0.0 comfy.org
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1413,6 +1415,7 @@
 0.0.0.0 www.myninja.ai
 0.0.0.0 www.thedream.ai
 0.0.0.0 www.viggle.ai
+0.0.0.0 www.moescape.ai
 
 
 # [.com sites]
@@ -1971,6 +1974,7 @@
 0.0.0.0 www.stablediffusion.blog
 0.0.0.0 www.distinctplugins.io
 0.0.0.0 www.madpenguin.org
+0.0.0.0 www.comfy.org
 
 
 # [AI Projects Hosted on Other Sites]
