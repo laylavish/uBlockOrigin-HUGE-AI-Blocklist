@@ -758,6 +758,7 @@
 0.0.0.0 inspiringdesigns.net
 0.0.0.0 flux-ai.net
 0.0.0.0 vitalentum.net
+0.0.0.0 heatware.net
 
 
 # [.pub, io, .app, etc sites]

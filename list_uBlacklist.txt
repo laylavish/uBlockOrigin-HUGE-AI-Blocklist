@@ -780,6 +780,7 @@
 *://*.designbundles.net/ylivdesign/*
 *://*.flux-ai.net/*
 *://*.vitalentum.net/*
+*://*.heatware.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
