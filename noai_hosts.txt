@@ -339,6 +339,9 @@
 0.0.0.0 thedream.ai
 0.0.0.0 viggle.ai
 0.0.0.0 moescape.ai
+0.0.0.0 otter.ai
+0.0.0.0 fireflies.ai
+0.0.0.0 krisp.ai
 
 
 # [.com sites]
@@ -620,6 +623,8 @@
 0.0.0.0 aistickr.com
 0.0.0.0 sora.com
 0.0.0.0 drawever.com
+0.0.0.0 steelefortress.com
+0.0.0.0 cybersecguide.com
 
 
 # [.art sites]
@@ -1416,6 +1421,10 @@
 0.0.0.0 www.thedream.ai
 0.0.0.0 www.viggle.ai
 0.0.0.0 www.moescape.ai
+0.0.0.0 www.otter.ai
+0.0.0.0 www.fireflies.ai
+0.0.0.0 www.krisp.ai
+
 
 
 # [.com sites]
@@ -1697,6 +1706,8 @@
 0.0.0.0 www.pixexid.com
 0.0.0.0 www.sora.com
 0.0.0.0 www.drawever.com
+0.0.0.0 www.steelefortress.com
+0.0.0.0 www.cybersecguide.com
 
 
 # [.art sites]
