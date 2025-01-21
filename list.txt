@@ -801,7 +801,6 @@ google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(
 
 
 ! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
-google.com,duckduckgo.com,bing.com##a[href*="nbcsport.co.uk"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="getmerlin.in"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aitree.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="transpic.cn"]:upward(div):style(opacity:0.00!important;)
