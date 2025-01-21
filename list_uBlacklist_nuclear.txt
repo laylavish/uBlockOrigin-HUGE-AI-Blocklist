@@ -46,6 +46,7 @@
 *://*.rollingpress.co.ke/*
 *://*.ukposters.co.uk/*
 *://*.redbrokoly.com/*
+*://*.nbcsport.co.uk/*
 
 # // Content Aggregators/SEO spam
 *://*.tnhelearning.edu.vn/*
