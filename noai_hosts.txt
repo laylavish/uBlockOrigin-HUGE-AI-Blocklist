@@ -906,6 +906,7 @@
 0.0.0.0 stablediffusion.blog
 0.0.0.0 distinctplugins.io
 0.0.0.0 comfy.org
+0.0.0.0 waifu.com.mx
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1986,6 +1987,7 @@
 0.0.0.0 www.distinctplugins.io
 0.0.0.0 www.madpenguin.org
 0.0.0.0 www.comfy.org
+0.0.0.0 www.waifu.com.mx
 
 
 # [AI Projects Hosted on Other Sites]
