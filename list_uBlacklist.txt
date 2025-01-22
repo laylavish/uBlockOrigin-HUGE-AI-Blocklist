@@ -948,6 +948,7 @@
 *://*.idesigns.shop/*
 *://*.bottr.me/*
 *://*.comfy.org/*
+*://*.waifu.com.mx/*
 
 
 # AI projects hosted on other sites
