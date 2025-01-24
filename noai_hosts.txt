@@ -342,6 +342,8 @@
 0.0.0.0 otter.ai
 0.0.0.0 fireflies.ai
 0.0.0.0 krisp.ai
+0.0.0.0 gab.ai
+0.0.0.0 mascots.ai
 
 
 # [.com sites]
@@ -625,6 +627,12 @@
 0.0.0.0 drawever.com
 0.0.0.0 steelefortress.com
 0.0.0.0 cybersecguide.com
+0.0.0.0 ebsynth.com
+0.0.0.0 ishencai.com
+0.0.0.0 metademolab.com
+0.0.0.0 softgist.com
+0.0.0.0 vondy.com
+0.0.0.0 aitoolhunt.com
 
 
 # [.art sites]
@@ -907,6 +915,9 @@
 0.0.0.0 distinctplugins.io
 0.0.0.0 comfy.org
 0.0.0.0 waifu.com.mx
+0.0.0.0 idesigns.shop
+0.0.0.0 bottr.me
+0.0.0.0 midjourney.fm
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1425,6 +1436,8 @@
 0.0.0.0 www.otter.ai
 0.0.0.0 www.fireflies.ai
 0.0.0.0 www.krisp.ai
+0.0.0.0 www.gab.ai
+0.0.0.0 www.mascots.ai
 
 
 
@@ -1709,6 +1722,12 @@
 0.0.0.0 www.drawever.com
 0.0.0.0 www.steelefortress.com
 0.0.0.0 www.cybersecguide.com
+0.0.0.0 www.ebsynth.com
+0.0.0.0 www.ishencai.com
+0.0.0.0 www.metademolab.com
+0.0.0.0 www.softgist.com
+0.0.0.0 www.vondy.com
+0.0.0.0 www.aitoolhunt.com
 
 
 # [.art sites]
@@ -1988,6 +2007,9 @@
 0.0.0.0 www.madpenguin.org
 0.0.0.0 www.comfy.org
 0.0.0.0 www.waifu.com.mx
+0.0.0.0 www.idesigns.shop
+0.0.0.0 www.bottr.me
+0.0.0.0 www.midjourney.fm
 
 
 # [AI Projects Hosted on Other Sites]
