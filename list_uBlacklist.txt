@@ -17,6 +17,9 @@
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 # Sites that have .ai domain extension
+*://*.otter.ai/*
+*://*.fireflies.ai/*
+*://*.krisp.ai/*
 *://*.cgdream.ai/*
 *://*.tryleap.ai/*
 *://*.magichour.ai/*
@@ -348,6 +351,8 @@
 
 
 # Sites that have .com domain extension
+*://*.steelefortress.com/*
+*://*.cybersecguide.com/*
 *://*.appypie.com/*
 *://*.aicreate.com/*
 *://*.toolbaz.com/*
@@ -943,6 +948,8 @@
 *://*.idesigns.shop/*
 *://*.bottr.me/*
 *://*.comfy.org/*
+*://*.waifu.com.mx/*
+*://*.midjourney.fm/*
 
 
 # AI projects hosted on other sites
