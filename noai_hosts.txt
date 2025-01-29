@@ -1439,6 +1439,7 @@
 0.0.0.0 www.krisp.ai
 0.0.0.0 www.gab.ai
 0.0.0.0 www.mascots.ai
+0.0.0.0 www.mistral.ai
 
 
 
