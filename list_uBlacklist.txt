@@ -949,6 +949,7 @@
 *://*.bottr.me/*
 *://*.comfy.org/*
 *://*.waifu.com.mx/*
+*://*.midjourney.fm/*
 
 
 # AI projects hosted on other sites
