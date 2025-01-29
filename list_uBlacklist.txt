@@ -348,6 +348,7 @@
 *://*.gab.ai/*
 *://*.mascots.ai/*
 *://*.moescape.ai/*
+*://*.mistral.ai/*
 
 
 # Sites that have .com domain extension
