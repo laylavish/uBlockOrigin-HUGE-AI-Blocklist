@@ -1261,6 +1261,7 @@ google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UClSBolYONOzQjO
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@LaCarnevali"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@OlivioSarikas"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@alkaid-art"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@TheDebugZone"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (instagram)
