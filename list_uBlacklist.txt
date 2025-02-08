@@ -1267,6 +1267,7 @@
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
 *://*.youtube.com/@alkaid-art/*
+*://*.youtube.com/@TheDebugZone/*
 
 
 # Block list of AI "artists"/orgs (instagram)
