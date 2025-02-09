@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/e254b73e-0c4c-4f7d-a34b-f70b8e437356
 
 
 > [!IMPORTANT]
-> Extension not working as expected? Try this! If your newly imported list isn't working, it may be because of an outdated web browsing session. If your web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't function correctly.
+> Extension isn't working as expected? Try this! If your imported list isn't working, it may be due to an outdated web browsing session. If your web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't function correctly.
 > Try creating a new session, aka closing <ins>**all**</ins> web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If not, then try clearing your browser's cache.
 
 ### Installing it with uBlacklist
