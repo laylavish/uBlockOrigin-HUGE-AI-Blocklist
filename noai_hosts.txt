@@ -345,6 +345,7 @@
 0.0.0.0 krisp.ai
 0.0.0.0 gab.ai
 0.0.0.0 mascots.ai
+0.0.0.0 loverse.ai
 
 
 # [.com sites]
@@ -1440,7 +1441,7 @@
 0.0.0.0 www.gab.ai
 0.0.0.0 www.mascots.ai
 0.0.0.0 www.mistral.ai
-
+0.0.0.0 www.loverse.ai
 
 
 # [.com sites]
