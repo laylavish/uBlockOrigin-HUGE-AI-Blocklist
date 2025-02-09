@@ -353,6 +353,7 @@ google.com,duckduckgo.com,bing.com##a[href*="gab.ai"]:upward(div):style(opacity:
 google.com,duckduckgo.com,bing.com##a[href*="mascots.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="moescape.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="mistral.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="loverse.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
