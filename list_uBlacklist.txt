@@ -349,6 +349,7 @@
 *://*.mascots.ai/*
 *://*.moescape.ai/*
 *://*.mistral.ai/*
+*://*.loverse.ai/*
 
 
 # Sites that have .com domain extension
