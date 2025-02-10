@@ -275,7 +275,7 @@ google.com,duckduckgo.com,bing.com##div>a:has-text(/Your Text Here/i):upward(div
 Replace "Your Text Here" with your preferred keywords. A short list of **optional** procedural filters that you can use for uBlock Origin are listed in a dropdown below:
 
 <details>
-<summary> Optional procdedural filters for uBlock Origin </summary>
+<summary> Optional procedural filters for uBlock Origin </summary>
 <br>
 
 ```
