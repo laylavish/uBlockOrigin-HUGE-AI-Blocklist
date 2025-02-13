@@ -937,6 +937,7 @@
 0.0.0.0 worldfrogday.org
 0.0.0.0 groundabout.coffee
 0.0.0.0 igot.coffee
+0.0.0.0 manuals.plus
 
 
 # [AI Projects Hosted on Other Sites]
@@ -2049,6 +2050,7 @@
 0.0.0.0 www.worldfrogday.org
 0.0.0.0 www.groundabout.coffee
 0.0.0.0 www.igot.coffee
+0.0.0.0 www.manuals.plus
 
 
 # [AI Projects Hosted on Other Sites]
