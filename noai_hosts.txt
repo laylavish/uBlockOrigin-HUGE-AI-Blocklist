@@ -346,6 +346,10 @@
 0.0.0.0 gab.ai
 0.0.0.0 mascots.ai
 0.0.0.0 loverse.ai
+0.0.0.0 typli.ai
+0.0.0.0 yeschat.ai
+0.0.0.0 neoprompt.ai
+0.0.0.0 boodlebox.ai
 
 
 # [.com sites]
@@ -635,6 +639,13 @@
 0.0.0.0 softgist.com
 0.0.0.0 vondy.com
 0.0.0.0 aitoolhunt.com
+0.0.0.0 mixologyai.com
+0.0.0.0 aidrivenrecipes.com
+0.0.0.0 mydotprompt.com
+0.0.0.0 promptcombo.com
+0.0.0.0 imiprompt.com
+0.0.0.0 whythealgarve.com
+0.0.0.0 lazyriverdesignworks.com
 
 
 # [.art sites]
@@ -773,6 +784,7 @@
 0.0.0.0 inspiringdesigns.net
 0.0.0.0 flux-ai.net
 0.0.0.0 vitalentum.net
+0.0.0.0 bigshadows.net
 
 
 # [.pub, io, .app, etc sites]
@@ -920,6 +932,11 @@
 0.0.0.0 idesigns.shop
 0.0.0.0 bottr.me
 0.0.0.0 midjourney.fm
+0.0.0.0 bargpt.app
+0.0.0.0 rareconnections.io
+0.0.0.0 worldfrogday.org
+0.0.0.0 groundabout.coffee
+0.0.0.0 igot.coffee
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1442,6 +1459,10 @@
 0.0.0.0 www.mascots.ai
 0.0.0.0 www.mistral.ai
 0.0.0.0 www.loverse.ai
+0.0.0.0 www.typli.ai
+0.0.0.0 www.yeschat.ai
+0.0.0.0 www.neoprompt.ai
+0.0.0.0 www.boodlebox.ai
 
 
 # [.com sites]
@@ -1731,6 +1752,13 @@
 0.0.0.0 www.softgist.com
 0.0.0.0 www.vondy.com
 0.0.0.0 www.aitoolhunt.com
+0.0.0.0 www.mixologyai.com
+0.0.0.0 www.aidrivenrecipes.com
+0.0.0.0 www.mydotprompt.com
+0.0.0.0 www.promptcombo.com
+0.0.0.0 www.imiprompt.com
+0.0.0.0 www.whythealgarve.com
+0.0.0.0 www.lazyriverdesignworks.com
 
 
 # [.art sites]
@@ -1867,6 +1895,8 @@
 0.0.0.0 www.melodystudio.net
 0.0.0.0 www.inspiringdesigns.net
 0.0.0.0 www.flux-ai.net
+0.0.0.0 www.vitalentum.net
+0.0.0.0 www.bigshadows.net
 
 
 # [.pub, io, .app, etc sites]
@@ -2013,6 +2043,11 @@
 0.0.0.0 www.idesigns.shop
 0.0.0.0 www.bottr.me
 0.0.0.0 www.midjourney.fm
+0.0.0.0 www.bargpt.app
+0.0.0.0 www.rareconnections.io
+0.0.0.0 www.worldfrogday.org
+0.0.0.0 www.groundabout.coffee
+0.0.0.0 www.igot.coffee
 
 
 # [AI Projects Hosted on Other Sites]
