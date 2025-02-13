@@ -973,6 +973,7 @@ google.com,duckduckgo.com,bing.com##a[href*="rareconnections.io"]:upward(div):st
 google.com,duckduckgo.com,bing.com##a[href*="worldfrogday.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="groundabout.coffee"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="igot.coffee"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="manuals.plus"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
