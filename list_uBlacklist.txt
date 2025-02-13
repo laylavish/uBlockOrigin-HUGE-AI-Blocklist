@@ -969,6 +969,7 @@
 *://*.worldfrogday.org/*
 *://*.groundabout.coffee/*
 *://*.igot.coffee/*
+*://*.manuals.plus/*
 
 
 # AI projects hosted on other sites
