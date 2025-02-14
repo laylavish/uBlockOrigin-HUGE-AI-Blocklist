@@ -666,6 +666,7 @@
 *://*.imiprompt.com/*
 *://*.whythealgarve.com/*
 *://*.lazyriverdesignworks.com/*
+*://*.catsaroundtheglobe.com/*
 
 
 # Sites that have .art domain extension
