@@ -646,6 +646,7 @@
 0.0.0.0 imiprompt.com
 0.0.0.0 whythealgarve.com
 0.0.0.0 lazyriverdesignworks.com
+0.0.0.0 catsaroundtheglobe.com
 
 
 # [.art sites]
@@ -1762,6 +1763,7 @@
 0.0.0.0 www.imiprompt.com
 0.0.0.0 www.whythealgarve.com
 0.0.0.0 www.lazyriverdesignworks.com
+0.0.0.0 www.catsaroundtheglobe.com
 
 
 # [.art sites]
