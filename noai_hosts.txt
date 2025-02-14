@@ -1127,6 +1127,7 @@
 0.0.0.0 nucleovisual.com
 0.0.0.0 fullbloomclub.net
 0.0.0.0 ipv6.rs
+0.0.0.0 homediningkitchen.com
 
 
 #### www. ver
@@ -2240,3 +2241,4 @@
 0.0.0.0 www.nucleovisual.com
 0.0.0.0 www.fullbloomclub.net
 0.0.0.0 www.ipv6.rs
+0.0.0.0 www.homediningkitchen.com
