@@ -1751,6 +1751,7 @@
 *://*.nucleovisual.com/*
 *://*.fullbloomclub.net/*
 *://*.ipv6.rs/*
+*://*.homediningkitchen.com/*
 
 
 # // VoiceMod shit
