@@ -354,6 +354,10 @@ Special thanks to:
 
 > An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AI, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist. 
 
+[Blocklist for AI Music on Youtube](https://surasshu.com/blocklist-for-ai-music-on-youtube/) by surasshu
+
+> A blocklist that targets AI music channels on YouTube, through the use of the Blocktube extension.
+
 [Journey Buster 3](https://journeybuster.com/) by k0vac
 
 > A Chromium extension that lets you know if an image is AI generated, for use on Twitter.
