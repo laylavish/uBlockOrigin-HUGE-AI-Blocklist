@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/e254b73e-0c4c-4f7d-a34b-f70b8e437356
 
 
 > [!IMPORTANT]
-> Extension not working as expected? Try this! If your newly imported list isn't working, it may be because of an outdated web browsing session. If your web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't function correctly.
+> Extension isn't working as expected? Try this! If your imported list isn't working, it may be due to an outdated web browsing session. If your web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't function correctly.
 > Try creating a new session, aka closing <ins>**all**</ins> web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If not, then try clearing your browser's cache.
 
 ### Installing it with uBlacklist
@@ -275,7 +275,7 @@ google.com,duckduckgo.com,bing.com##div>a:has-text(/Your Text Here/i):upward(div
 Replace "Your Text Here" with your preferred keywords. A short list of **optional** procedural filters that you can use for uBlock Origin are listed in a dropdown below:
 
 <details>
-<summary> Optional procdedural filters for uBlock Origin </summary>
+<summary> Optional procedural filters for uBlock Origin </summary>
 <br>
 
 ```
@@ -353,6 +353,10 @@ Special thanks to:
 [Super SEO Spam Suppressor (SSSS)](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) by NotaInutilis
 
 > An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AI, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist. 
+
+[Blocklist for AI Music on Youtube](https://surasshu.com/blocklist-for-ai-music-on-youtube/) by surasshu
+
+> A blocklist that targets AI music channels on YouTube, through the use of the Blocktube extension.
 
 [Journey Buster 3](https://journeybuster.com/) by k0vac
 

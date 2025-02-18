@@ -348,6 +348,11 @@
 *://*.gab.ai/*
 *://*.mascots.ai/*
 *://*.moescape.ai/*
+*://*.mistral.ai/*
+*://*.loverse.ai/*
+*://*.typli.ai/*
+*://*.yeschat.ai/*
+*://*.boodlebox.ai/*
 
 
 # Sites that have .com domain extension
@@ -653,6 +658,15 @@
 *://*.softgist.com/*
 *://*.vondy.com/*
 *://*.aitoolhunt.com/*
+*://*.mixologyai.com/*
+*://*.twistedalchemy.com/pages/ai-cocktail-recipes/*
+*://*.aidrivenrecipes.com/*
+*://*.mydotprompt.com/*
+*://*.promptcombo.com/*
+*://*.imiprompt.com/*
+*://*.whythealgarve.com/*
+*://*.lazyriverdesignworks.com/*
+*://*.catsaroundtheglobe.com/*
 
 
 # Sites that have .art domain extension
@@ -795,6 +809,7 @@
 *://*.designbundles.net/ylivdesign/*
 *://*.flux-ai.net/*
 *://*.vitalentum.net/*
+*://*.bigshadows.net/*
 
 
 # Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
@@ -949,6 +964,13 @@
 *://*.bottr.me/*
 *://*.comfy.org/*
 *://*.waifu.com.mx/*
+*://*.midjourney.fm/*
+*://*.bargpt.app/*
+*://*.rareconnections.io/*
+*://*.worldfrogday.org/*
+*://*.groundabout.coffee/*
+*://*.igot.coffee/*
+*://*.manuals.plus/*
 
 
 # AI projects hosted on other sites
@@ -1265,6 +1287,7 @@
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
 *://*.youtube.com/@alkaid-art/*
+*://*.youtube.com/@TheDebugZone/*
 
 
 # Block list of AI "artists"/orgs (instagram)
@@ -1728,6 +1751,8 @@
 *://*.disciplines.ng/*
 *://*.nucleovisual.com/*
 *://*.fullbloomclub.net/*
+*://*.ipv6.rs/*
+*://*.homediningkitchen.com/*
 
 
 # // VoiceMod shit

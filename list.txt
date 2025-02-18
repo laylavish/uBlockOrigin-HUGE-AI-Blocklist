@@ -352,6 +352,11 @@ google.com,duckduckgo.com,bing.com##a[href*="llamagen.ai"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="gab.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="mascots.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="moescape.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mistral.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="loverse.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="typli.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="yeschat.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="boodlebox.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
@@ -657,6 +662,16 @@ google.com,duckduckgo.com,bing.com##a[href*="metademolab.com"]:upward(div):style
 google.com,duckduckgo.com,bing.com##a[href*="softgist.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="vondy.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aitoolhunt.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mixologyai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twistedalchemy.com/pages/ai-cocktail-recipes"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aidrivenrecipes.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mydotprompt.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="promptcombo.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="imiprompt.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="whythealgarve.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="lazyriverdesignworks.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="catsaroundtheglobe.com"]:upward(div):style(opacity:0.00!important;)
+
 
 ! Sites that have .art domain extension
 google.com,duckduckgo.com,bing.com##a[href*="imagine.art"]:upward(div):style(opacity:0.00!important;)
@@ -798,6 +813,7 @@ google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/illustrate-ai"]:u
 google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/ylivdesign"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="bigshadows.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
@@ -952,6 +968,13 @@ google.com,duckduckgo.com,bing.com##a[href*="idesigns.shop"]:upward(div):style(o
 google.com,duckduckgo.com,bing.com##a[href*="bottr.me"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="comfy.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="waifu.com.mx"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="midjourney.fm"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="bargpt.app"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="rareconnections.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="worldfrogday.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="groundabout.coffee"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="igot.coffee"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="manuals.plus"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -1259,6 +1282,7 @@ google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UClSBolYONOzQjO
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@LaCarnevali"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@OlivioSarikas"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@alkaid-art"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@TheDebugZone"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Block list of AI "artists"/orgs (instagram)
@@ -1727,6 +1751,8 @@ google.com,duckduckgo.com,bing.com##a[href*="dinosaur.org"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="disciplines.ng"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nucleovisual.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="fullbloomclub.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ipv6.rs"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="homediningkitchen.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="entomologist.net"]:upward(div):style(opacity:0.00!important;)
 
 
