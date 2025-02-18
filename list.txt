@@ -1693,6 +1693,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/sdnsfw"]:upward(div):s
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/unstable_diffusion"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/WaifuDiffusion"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/aiyiff"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/comfyui"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
