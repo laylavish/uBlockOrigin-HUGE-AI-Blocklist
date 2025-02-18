@@ -1694,6 +1694,7 @@
 *://*.reddit.com/r/unstable_diffusion/*
 *://*.reddit.com/r/WaifuDiffusion/*
 *://*.reddit.com/r/aiyiff/*
+*://*.reddit.com/r/comfyui/*
 
 
 # // Block list of AI reddit users
