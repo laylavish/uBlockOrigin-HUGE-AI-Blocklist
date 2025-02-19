@@ -667,6 +667,7 @@
 *://*.whythealgarve.com/*
 *://*.lazyriverdesignworks.com/*
 *://*.catsaroundtheglobe.com/*
+*://*.runcomfy.com/*
 
 
 # Sites that have .art domain extension
