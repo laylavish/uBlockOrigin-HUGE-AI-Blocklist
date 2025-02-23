@@ -1755,6 +1755,7 @@ google.com,duckduckgo.com,bing.com##a[href*="nucleovisual.com"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="fullbloomclub.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ipv6.rs"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="homediningkitchen.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="entomologist.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
