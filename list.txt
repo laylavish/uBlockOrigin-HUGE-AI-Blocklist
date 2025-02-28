@@ -815,6 +815,7 @@ google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/ylivdesign"]:upwa
 google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bigshadows.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="eyecandy.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
@@ -1464,10 +1465,6 @@ google.com,duckduckgo.com,bing.com##a[href*="freepik.com/author/maxstudioko"]:up
 google.com,duckduckgo.com,bing.com##a[href*="freepik.com/author/smmstore773"]:upward(div):style(opacity:0.00!important;)
 
 
-! Linkedin garbage
-google.com,duckduckgo.com,bing.com##a[href*="linkedin.com/in/justmaier"]:upward(div):style(opacity:0.00!important;)
-
-
 ! Medium garbage
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@inchristiely"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@aitubo011"]:upward(div):style(opacity:0.00!important;)
@@ -1755,6 +1752,7 @@ google.com,duckduckgo.com,bing.com##a[href*="nucleovisual.com"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="fullbloomclub.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ipv6.rs"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="homediningkitchen.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="psichologyanswers.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
