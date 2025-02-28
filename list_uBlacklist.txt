@@ -811,6 +811,7 @@
 *://*.flux-ai.net/*
 *://*.vitalentum.net/*
 *://*.bigshadows.net/*
+*://*.eyecandy.net/*
 
 
 # Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
@@ -1481,10 +1482,6 @@
 *://*.freepik.com/author/maxstudioko/*
 
 
-# Linkedin garbage
-*://*.linkedin.com/in/justmaier/*
-
-
 # Medium garbage
 *://*.medium.com/@inchristiely/*
 *://*.medium.com/@aitubo011/*
@@ -1755,6 +1752,7 @@
 *://*.fullbloomclub.net/*
 *://*.ipv6.rs/*
 *://*.homediningkitchen.com/*
+*://*.psichologyanswers.com/*
 
 
 # // VoiceMod shit
