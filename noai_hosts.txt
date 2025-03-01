@@ -648,6 +648,7 @@
 0.0.0.0 lazyriverdesignworks.com
 0.0.0.0 catsaroundtheglobe.com
 0.0.0.0 runcomfy.com
+0.0.0.0 aipromptsdirectory.com
 
 
 # [.art sites]
@@ -1768,6 +1769,7 @@
 0.0.0.0 www.lazyriverdesignworks.com
 0.0.0.0 www.catsaroundtheglobe.com
 0.0.0.0 www.runcomfy.com
+0.0.0.0 www.aipromptsdirectory.com
 
 
 # [.art sites]
