@@ -668,6 +668,7 @@
 *://*.lazyriverdesignworks.com/*
 *://*.catsaroundtheglobe.com/*
 *://*.runcomfy.com/*
+*://*.aipromptsdirectory.com/*
 
 
 # Sites that have .art domain extension
