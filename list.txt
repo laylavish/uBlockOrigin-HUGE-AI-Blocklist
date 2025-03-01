@@ -672,6 +672,7 @@ google.com,duckduckgo.com,bing.com##a[href*="whythealgarve.com"]:upward(div):sty
 google.com,duckduckgo.com,bing.com##a[href*="lazyriverdesignworks.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="catsaroundtheglobe.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="runcomfy.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aipromptsdirectory.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
