@@ -1133,6 +1133,7 @@
 0.0.0.0 ipv6.rs
 0.0.0.0 homediningkitchen.com
 0.0.0.0 psichologyanswers.com
+0.0.0.0 umatechnology.org
 
 
 #### www. ver
@@ -2252,3 +2253,4 @@
 0.0.0.0 www.ipv6.rs
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
+0.0.0.0 www.umatechnology.org
