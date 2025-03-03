@@ -319,7 +319,7 @@ Below is a small list of **optional** regular expressions that can be used to fi
 ## What's the difference between uBlock Origin and uBlacklist anyway?
 Currently uBlacklist has an issue with pagination on Google Images. This means that if too many AI images are blocked on a single page, you won't be able to scroll further down to load more. This is rare, although it can happen. 
 
-uBlock Origin does not have this issue, since it is only changing the opacity of the divs instead of blocking them, although this makes image search look a little strange since there will be gaps where the images are "blocked."
+uBlock Origin does not have this issue since it is only changing the opacity of the divs instead of blocking them, although this makes image search look a little strange since there will be gaps where the images are "blocked."
 
 If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of them and see which one works better for you! :)
 
