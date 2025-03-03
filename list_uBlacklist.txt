@@ -1753,6 +1753,7 @@
 *://*.ipv6.rs/*
 *://*.homediningkitchen.com/*
 *://*.psichologyanswers.com/*
+*://*.umatechnology.org/*
 
 
 # // VoiceMod shit
