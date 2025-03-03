@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/e254b73e-0c4c-4f7d-a34b-f70b8e437356
 
 
 > [!IMPORTANT]
-> Extension isn't working as expected? Try this! If your imported list isn't working, it may be due to an outdated web browsing session. If your web browser hasn't been closed in a long time, there's a chance the session won't update how it should, meaning importing this list into uBlock Origin or uBlacklist won't function correctly.
+> If you find that your imported list isn't working, it may be due to an outdated web browsing session. If your web browser hasn't been closed in a long time, there's a chance the session won't update how it should. This means importing the list into uBlock Origin or uBlacklist won't function correctly.
 > Try creating a new session, aka closing <ins>**all**</ins> web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If not, then try clearing your browser's cache.
 
 ### Installing it with uBlacklist
@@ -111,7 +111,7 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
 ### Android (via Firefox)
 
 <details>
-<summary>Installation for uBlock Origin (expand me) </summary>
+<summary>Installation for uBlock Origin (expand) </summary>
 <br>
 
   **One-click import**
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 </details>
 
 <details>
-<summary>Installation for uBlacklist (expand me) </summary>
+<summary>Installation for uBlacklist (expand) </summary>
 <br>
 
 **Manual Import**
@@ -170,7 +170,7 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
 
 ## Hosts file for pi-hole/adguard
 
-Since it was requested, I've added a list in HOSTS format for pi-hole/adguard or for use in your own operating system's hosts file.
+I've added a list in HOSTS format for pi-hole/adguard or for use in your own operating system's hosts file.
 
 ```
 https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/noai_hosts.txt
@@ -204,7 +204,7 @@ The nuclear list has sites that contain a mix of authentic and AI generated imag
 
 
 <details>
-<summary>uBlock Origin Nuclear List (expand me) </summary>
+<summary>uBlock Origin Nuclear List (expand) </summary>
 <br>
 
 ```
@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 </details>
 
 <details>
-<summary>uBlacklist Nuclear List (expand me) </summary>
+<summary>uBlacklist Nuclear List (expand) </summary>
 <br>
   
 ```
@@ -228,7 +228,7 @@ Don't like a website being blocked? You can easily create an allowlist in your o
 Here's how to do it. 
 
 <details>
-<summary>Steps for uBlock Origin </summary>
+<summary>Steps for uBlock Origin (expand) </summary>
 <br>
 
 1. Toggle the [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector) `</>` through uBlock Origin's [logger](https://github.com/gorhill/uBlock/wiki/The-logger).
@@ -248,7 +248,7 @@ Change "example.com" to the URL you want to allowlist. Copy & paste that in uBlo
 </details>
 
 <details>
-<summary>Steps for uBlacklist: </summary>
+<summary>Steps for uBlacklist (expand) </summary>
 <br>
 
 1. Enter uBlacklist's options panel. 
@@ -316,22 +316,22 @@ Below is a small list of **optional** regular expressions that can be used to fi
 </details>
 
   
-## What is the difference between uBlock Origin and uBlacklist anyway?
-Currently, uBlacklist has an issue with pagination on Google Images, meaning that if too many AI images are blocked on a single page, you won't be able to scroll further down to load more. This is rare, although it can happen. 
+## What's the difference between uBlock Origin and uBlacklist anyway?
+Currently uBlacklist has an issue with pagination on Google Images. This means that if too many AI images are blocked on a single page, you won't be able to scroll further down to load more. This is rare, although it can happen. 
 
-uBlock Origin does not have this issue, since it is only changing the opacity of the divs instead of blocking them. This means that image searches look a little bit strange, since there will be gaps where the images are "blocked."
+uBlock Origin does not have this issue, since it is only changing the opacity of the divs instead of blocking them, although this makes image search look a little strange since there will be gaps where the images are "blocked."
 
 If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of them and see which one works better for you! :)
 
 
 ## To Do
-✅ Provide blocklist for uBlacklist compatibility
+- [x] Provide blocklist for uBlacklist compatibility
 
-✅ Blocklist functionality on DuckDuckGo and Bing (ew)
+- [x] Blocklist functionality on DuckDuckGo and Bing (ew)
 
-✅ Create hosts file for pi-hole/adguard
+- [x] Create hosts file for pi-hole/adguard
 
-❌ Startpage, Ecosia, Brave support (for uBlock Origin)
+- [ ] Startpage, Ecosia, Brave support (for uBlock Origin)
 
 ## Happy Pride Month!
 LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
