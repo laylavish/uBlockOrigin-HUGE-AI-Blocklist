@@ -17,6 +17,7 @@
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 # Sites that have .ai domain extension
+*://*.forkful.ai/*
 *://*.otter.ai/*
 *://*.fireflies.ai/*
 *://*.krisp.ai/*
@@ -811,6 +812,7 @@
 *://*.designbundles.net/ylivdesign/*
 *://*.flux-ai.net/*
 *://*.vitalentum.net/*
+*://*.heatware.net/*
 *://*.bigshadows.net/*
 *://*.eyecandy.net/*
 
@@ -1288,9 +1290,9 @@
 *://*.youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw/*
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
+*://*.youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w/*
 *://*.youtube.com/@alkaid-art/*
 *://*.youtube.com/@TheDebugZone/*
-
 
 # Block list of AI "artists"/orgs (instagram)
 *://*.instagram.com/_prateekarora/*

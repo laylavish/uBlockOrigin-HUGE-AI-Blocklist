@@ -21,6 +21,7 @@
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 ! Sites that have .ai domain extension
+google.com,duckduckgo.com,bing.com##a[href*="forkful.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="otter.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="fireflies.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="krisp.ai"]:upward(div):style(opacity:0.00!important;)
@@ -815,6 +816,7 @@ google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/illustrate-ai"]:u
 google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/ylivdesign"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="heatware.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bigshadows.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="eyecandy.net"]:upward(div):style(opacity:0.00!important;)
 
@@ -1283,9 +1285,9 @@ google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@enigmatic_e"]:upward(d
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@LaCarnevali"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@OlivioSarikas"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@alkaid-art"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@TheDebugZone"]:upward(div):style(opacity:0.00!important;)
-
 
 ! Block list of AI "artists"/orgs (instagram)
 google.com,duckduckgo.com,bing.com##a[href*="instagram.com/_prateekarora"]:upward(div):style(opacity:0.00!important;)
