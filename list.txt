@@ -1275,7 +1275,6 @@ google.com,duckduckgo.com,bing.com##a[href*="x.com/AyakonArts/"]:upward(div):sty
 
 
 ! Block list of AI "artists"/orgs (youtube)
-google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@shadiversity"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@SHAD_AI"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@sebastiankamph"]:upward(div):style(opacity:0.00!important;)
