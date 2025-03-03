@@ -1280,7 +1280,6 @@
 
 
 # Block list of AI "artists"/orgs (youtube)
-*://*.youtube.com/@shadiversity/*
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
 *://*.youtube.com/@SHAD_AI/*
 *://*.youtube.com/@sebastiankamph/*
