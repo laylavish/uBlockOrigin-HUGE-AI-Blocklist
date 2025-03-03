@@ -1141,6 +1141,7 @@
 #### www. ver
 
 # [.ai sites]
+0.0.0.0 www.forkful.ai
 0.0.0.0 www.cgdream.ai
 0.0.0.0 www.tryleap.ai
 0.0.0.0 www.magichour.ai
@@ -1912,6 +1913,7 @@
 0.0.0.0 www.vitalentum.net
 0.0.0.0 www.bigshadows.net
 0.0.0.0 www.eyecandy.net
+0.0.0.0 www.heatware.net
 
 
 # [.pub, io, .app, etc sites]
