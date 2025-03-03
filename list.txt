@@ -1753,6 +1753,7 @@ google.com,duckduckgo.com,bing.com##a[href*="fullbloomclub.net"]:upward(div):sty
 google.com,duckduckgo.com,bing.com##a[href*="ipv6.rs"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="homediningkitchen.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="psichologyanswers.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="umatechnology.org"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
