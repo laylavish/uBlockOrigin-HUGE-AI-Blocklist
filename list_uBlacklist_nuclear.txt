@@ -44,6 +44,11 @@
 *://*.kemono.party/*
 *://*.alphacoders.com/*
 *://*.rollingpress.co.ke/*
+*://*.ukposters.co.uk/*
+*://*.redbrokoly.com/*
+*://*.nbcsport.co.uk/*
+*://*.jungleai.com/*
+*://*.dende.ai/*
 
 # // Content Aggregators/SEO spam
 *://*.tnhelearning.edu.vn/*

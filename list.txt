@@ -22,6 +22,9 @@
 
 ! Sites that have .ai domain extension
 google.com,duckduckgo.com,bing.com##a[href*="forkful.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="otter.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="fireflies.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="krisp.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="julius.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="cgdream.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="tryleap.ai"]:upward(div):style(opacity:0.00!important;)
@@ -347,9 +350,19 @@ google.com,duckduckgo.com,bing.com##a[href*="neoprompt.ai"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="thedream.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="viggle.ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="llamagen.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="gab.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mascots.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="moescape.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mistral.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="loverse.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="typli.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="yeschat.ai"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="boodlebox.ai"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .com domain extension
+google.com,duckduckgo.com,bing.com##a[href*="steelefortress.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="cybersecguide.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="chatbot.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aicreate.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="appypie.com"]:upward(div):style(opacity:0.00!important;)
@@ -642,6 +655,25 @@ google.com,duckduckgo.com,bing.com##a[href*="aistickr.com"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="sora.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="drawever.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="smiletemplates.com/search/images"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="beatcoynz-artwork.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stlmax.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ebsynth.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ishencai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="metademolab.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="softgist.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="vondy.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aitoolhunt.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mixologyai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="twistedalchemy.com/pages/ai-cocktail-recipes"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aidrivenrecipes.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="mydotprompt.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="promptcombo.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="imiprompt.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="whythealgarve.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="lazyriverdesignworks.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="catsaroundtheglobe.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="runcomfy.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="aipromptsdirectory.com"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have .art domain extension
@@ -785,9 +817,11 @@ google.com,duckduckgo.com,bing.com##a[href*="designbundles.net/ylivdesign"]:upwa
 google.com,duckduckgo.com,bing.com##a[href*="flux-ai.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="heatware.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="bigshadows.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="eyecandy.net"]:upward(div):style(opacity:0.00!important;)
 
 
-! Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
 google.com,duckduckgo.com,bing.com##a[href*="getmerlin.in"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aitree.io"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="transpic.cn"]:upward(div):style(opacity:0.00!important;)
@@ -933,6 +967,19 @@ google.com,duckduckgo.com,bing.com##a[href*="idyllic.app"]:upward(div):style(opa
 google.com,duckduckgo.com,bing.com##a[href*="linuxconfig.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="stablediffusion.blog"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="distinctplugins.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="nohat.cc"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="stl.team"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="idesigns.shop"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="bottr.me"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="comfy.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="waifu.com.mx"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="midjourney.fm"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="bargpt.app"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="rareconnections.io"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="worldfrogday.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="groundabout.coffee"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="igot.coffee"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="manuals.plus"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
@@ -1230,7 +1277,6 @@ google.com,duckduckgo.com,bing.com##a[href*="x.com/AyakonArts/"]:upward(div):sty
 
 
 ! Block list of AI "artists"/orgs (youtube)
-google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@shadiversity"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@SHAD_AI"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@sebastiankamph"]:upward(div):style(opacity:0.00!important;)
@@ -1240,7 +1286,8 @@ google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UClSBolYONOzQjO
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@LaCarnevali"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@OlivioSarikas"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w"]:upward(div):style(opacity:0.00!important;)
-
+google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@alkaid-art"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youtube.com/@TheDebugZone"]:upward(div):style(opacity:0.00!important;)
 
 ! Block list of AI "artists"/orgs (instagram)
 google.com,duckduckgo.com,bing.com##a[href*="instagram.com/_prateekarora"]:upward(div):style(opacity:0.00!important;)
@@ -1420,16 +1467,13 @@ google.com,duckduckgo.com,bing.com##a[href*="freepik.com/author/maxstudioko"]:up
 google.com,duckduckgo.com,bing.com##a[href*="freepik.com/author/smmstore773"]:upward(div):style(opacity:0.00!important;)
 
 
-! Linkedin garbage
-google.com,duckduckgo.com,bing.com##a[href*="linkedin.com/in/justmaier"]:upward(div):style(opacity:0.00!important;)
-
-
 ! Medium garbage
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@inchristiely"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@aitubo011"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/mlearning-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/generative-ai"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="medium.com/@SLover"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="medium.com/@queenskisivuli"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Miscellaneous crypto/nft shit
@@ -1649,6 +1693,7 @@ google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/sdnsfw"]:upward(div):s
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/unstable_diffusion"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/WaifuDiffusion"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/aiyiff"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="reddit.com/r/comfyui"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // Block list of AI reddit users
@@ -1707,6 +1752,10 @@ google.com,duckduckgo.com,bing.com##a[href*="dinosaur.org"]:upward(div):style(op
 google.com,duckduckgo.com,bing.com##a[href*="disciplines.ng"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="nucleovisual.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="fullbloomclub.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ipv6.rs"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="homediningkitchen.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="psichologyanswers.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="umatechnology.org"]:upward(div):style(opacity:0.00!important;)
 
 
 ! // VoiceMod shit
@@ -1746,6 +1795,13 @@ google.com,duckduckgo.com,bing.com##a[href*="redbubble.com/people/digitalemporio
 
 ! // Google AI Overview
 google.com##.YzCcne:remove()
+
+
+! // GitHub Copilot
+github.com##div > button[data-testid="copilot-popover-button"]
+github.com##div.AppHeader-CopilotChat
+github.com##div.copilotPreview__container
+github.com##li > a[href="/copilot"]
 
 
 ! // Just in case exceptions

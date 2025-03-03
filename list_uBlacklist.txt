@@ -18,6 +18,9 @@
 
 # Sites that have .ai domain extension
 *://*.forkful.ai/*
+*://*.otter.ai/*
+*://*.fireflies.ai/*
+*://*.krisp.ai/*
 *://*.cgdream.ai/*
 *://*.tryleap.ai/*
 *://*.magichour.ai/*
@@ -343,9 +346,19 @@
 *://*.thedream.ai/*
 *://*.viggle.ai/*
 *://*.llamagen.ai/*
+*://*.gab.ai/*
+*://*.mascots.ai/*
+*://*.moescape.ai/*
+*://*.mistral.ai/*
+*://*.loverse.ai/*
+*://*.typli.ai/*
+*://*.yeschat.ai/*
+*://*.boodlebox.ai/*
 
 
 # Sites that have .com domain extension
+*://*.steelefortress.com/*
+*://*.cybersecguide.com/*
 *://*.appypie.com/*
 *://*.aicreate.com/*
 *://*.toolbaz.com/*
@@ -638,6 +651,25 @@
 *://*.sora.com/*
 *://*.drawever.com/*
 *://*.smiletemplates.com/search/images/*
+*://*.beatcoynz-artwork.com/*
+*://*.stlmax.com/*
+*://*.ebsynth.com/*
+*://*.ishencai.com/*
+*://*.metademolab.com/*
+*://*.softgist.com/*
+*://*.vondy.com/*
+*://*.aitoolhunt.com/*
+*://*.mixologyai.com/*
+*://*.twistedalchemy.com/pages/ai-cocktail-recipes/*
+*://*.aidrivenrecipes.com/*
+*://*.mydotprompt.com/*
+*://*.promptcombo.com/*
+*://*.imiprompt.com/*
+*://*.whythealgarve.com/*
+*://*.lazyriverdesignworks.com/*
+*://*.catsaroundtheglobe.com/*
+*://*.runcomfy.com/*
+*://*.aipromptsdirectory.com/*
 
 
 # Sites that have .art domain extension
@@ -781,9 +813,11 @@
 *://*.flux-ai.net/*
 *://*.vitalentum.net/*
 *://*.heatware.net/*
+*://*.bigshadows.net/*
+*://*.eyecandy.net/*
 
 
-# Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+# Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
 *://*.getmerlin.in/*
 *://*.transpic.cn/*
 *://*.aitree.io/*
@@ -929,6 +963,19 @@
 *://*.linuxconfig.org/*
 *://*.stablediffusion.blog/*
 *://*.distinctplugins.io/*
+*://*.nohat.cc/*
+*://*.stl.team/*
+*://*.idesigns.shop/*
+*://*.bottr.me/*
+*://*.comfy.org/*
+*://*.waifu.com.mx/*
+*://*.midjourney.fm/*
+*://*.bargpt.app/*
+*://*.rareconnections.io/*
+*://*.worldfrogday.org/*
+*://*.groundabout.coffee/*
+*://*.igot.coffee/*
+*://*.manuals.plus/*
 
 
 # AI projects hosted on other sites
@@ -1235,7 +1282,6 @@
 
 
 # Block list of AI "artists"/orgs (youtube)
-*://*.youtube.com/@shadiversity/*
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
 *://*.youtube.com/@SHAD_AI/*
 *://*.youtube.com/@sebastiankamph/*
@@ -1245,7 +1291,8 @@
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
 *://*.youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w/*
-
+*://*.youtube.com/@alkaid-art/*
+*://*.youtube.com/@TheDebugZone/*
 
 # Block list of AI "artists"/orgs (instagram)
 *://*.instagram.com/_prateekarora/*
@@ -1437,16 +1484,13 @@
 *://*.freepik.com/author/maxstudioko/*
 
 
-# Linkedin garbage
-*://*.linkedin.com/in/justmaier/*
-
-
 # Medium garbage
 *://*.medium.com/@inchristiely/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/mlearning-ai/*
 *://*.medium.com/generative-ai/*
 *://*.medium.com/@SLover/*
+*://*.medium.com/@queenskisivuli/*
 
 
 # // Miscellaneous crypto/nft shit
@@ -1650,6 +1694,7 @@
 *://*.reddit.com/r/unstable_diffusion/*
 *://*.reddit.com/r/WaifuDiffusion/*
 *://*.reddit.com/r/aiyiff/*
+*://*.reddit.com/r/comfyui/*
 
 
 # // Block list of AI reddit users
@@ -1707,6 +1752,10 @@
 *://*.disciplines.ng/*
 *://*.nucleovisual.com/*
 *://*.fullbloomclub.net/*
+*://*.ipv6.rs/*
+*://*.homediningkitchen.com/*
+*://*.psichologyanswers.com/*
+*://*.umatechnology.org/*
 
 
 # // VoiceMod shit
@@ -1736,11 +1785,11 @@
 # // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
 
 
-! // Redbubble (standalone pins)
+# // Redbubble (standalone pins)
 *://*.redbubble.com/i/pin/Steampunk-female-portrait-Cel-shading-Japan-anime-style-by-DigitalEmporio/152924525.NP9QY/*
 
 
-! // Redbubble Accounts
+# // Redbubble Accounts
 *://*.redbubble.com/people/digitalemporio/shop/*
 
 

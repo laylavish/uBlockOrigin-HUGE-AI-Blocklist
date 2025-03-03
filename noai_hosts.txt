@@ -339,6 +339,18 @@
 0.0.0.0 myninja.ai
 0.0.0.0 thedream.ai
 0.0.0.0 viggle.ai
+0.0.0.0 moescape.ai
+0.0.0.0 mistral.ai
+0.0.0.0 otter.ai
+0.0.0.0 fireflies.ai
+0.0.0.0 krisp.ai
+0.0.0.0 gab.ai
+0.0.0.0 mascots.ai
+0.0.0.0 loverse.ai
+0.0.0.0 typli.ai
+0.0.0.0 yeschat.ai
+0.0.0.0 neoprompt.ai
+0.0.0.0 boodlebox.ai
 
 
 # [.com sites]
@@ -620,6 +632,24 @@
 0.0.0.0 aistickr.com
 0.0.0.0 sora.com
 0.0.0.0 drawever.com
+0.0.0.0 steelefortress.com
+0.0.0.0 cybersecguide.com
+0.0.0.0 ebsynth.com
+0.0.0.0 ishencai.com
+0.0.0.0 metademolab.com
+0.0.0.0 softgist.com
+0.0.0.0 vondy.com
+0.0.0.0 aitoolhunt.com
+0.0.0.0 mixologyai.com
+0.0.0.0 aidrivenrecipes.com
+0.0.0.0 mydotprompt.com
+0.0.0.0 promptcombo.com
+0.0.0.0 imiprompt.com
+0.0.0.0 whythealgarve.com
+0.0.0.0 lazyriverdesignworks.com
+0.0.0.0 catsaroundtheglobe.com
+0.0.0.0 runcomfy.com
+0.0.0.0 aipromptsdirectory.com
 
 
 # [.art sites]
@@ -759,6 +789,8 @@
 0.0.0.0 flux-ai.net
 0.0.0.0 vitalentum.net
 0.0.0.0 heatware.net
+0.0.0.0 bigshadows.net
+0.0.0.0 eyecandy.net
 
 
 # [.pub, io, .app, etc sites]
@@ -901,6 +933,17 @@
 0.0.0.0 linuxconfig.org
 0.0.0.0 stablediffusion.blog
 0.0.0.0 distinctplugins.io
+0.0.0.0 comfy.org
+0.0.0.0 waifu.com.mx
+0.0.0.0 idesigns.shop
+0.0.0.0 bottr.me
+0.0.0.0 midjourney.fm
+0.0.0.0 bargpt.app
+0.0.0.0 rareconnections.io
+0.0.0.0 worldfrogday.org
+0.0.0.0 groundabout.coffee
+0.0.0.0 igot.coffee
+0.0.0.0 manuals.plus
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1089,6 +1132,10 @@
 0.0.0.0 disciplines.ng
 0.0.0.0 nucleovisual.com
 0.0.0.0 fullbloomclub.net
+0.0.0.0 ipv6.rs
+0.0.0.0 homediningkitchen.com
+0.0.0.0 psichologyanswers.com
+0.0.0.0 umatechnology.org
 
 
 #### www. ver
@@ -1415,6 +1462,18 @@
 0.0.0.0 www.myninja.ai
 0.0.0.0 www.thedream.ai
 0.0.0.0 www.viggle.ai
+0.0.0.0 www.moescape.ai
+0.0.0.0 www.otter.ai
+0.0.0.0 www.fireflies.ai
+0.0.0.0 www.krisp.ai
+0.0.0.0 www.gab.ai
+0.0.0.0 www.mascots.ai
+0.0.0.0 www.mistral.ai
+0.0.0.0 www.loverse.ai
+0.0.0.0 www.typli.ai
+0.0.0.0 www.yeschat.ai
+0.0.0.0 www.neoprompt.ai
+0.0.0.0 www.boodlebox.ai
 
 
 # [.com sites]
@@ -1696,6 +1755,24 @@
 0.0.0.0 www.pixexid.com
 0.0.0.0 www.sora.com
 0.0.0.0 www.drawever.com
+0.0.0.0 www.steelefortress.com
+0.0.0.0 www.cybersecguide.com
+0.0.0.0 www.ebsynth.com
+0.0.0.0 www.ishencai.com
+0.0.0.0 www.metademolab.com
+0.0.0.0 www.softgist.com
+0.0.0.0 www.vondy.com
+0.0.0.0 www.aitoolhunt.com
+0.0.0.0 www.mixologyai.com
+0.0.0.0 www.aidrivenrecipes.com
+0.0.0.0 www.mydotprompt.com
+0.0.0.0 www.promptcombo.com
+0.0.0.0 www.imiprompt.com
+0.0.0.0 www.whythealgarve.com
+0.0.0.0 www.lazyriverdesignworks.com
+0.0.0.0 www.catsaroundtheglobe.com
+0.0.0.0 www.runcomfy.com
+0.0.0.0 www.aipromptsdirectory.com
 
 
 # [.art sites]
@@ -1832,6 +1909,9 @@
 0.0.0.0 www.melodystudio.net
 0.0.0.0 www.inspiringdesigns.net
 0.0.0.0 www.flux-ai.net
+0.0.0.0 www.vitalentum.net
+0.0.0.0 www.bigshadows.net
+0.0.0.0 www.eyecandy.net
 
 
 # [.pub, io, .app, etc sites]
@@ -1973,6 +2053,17 @@
 0.0.0.0 www.stablediffusion.blog
 0.0.0.0 www.distinctplugins.io
 0.0.0.0 www.madpenguin.org
+0.0.0.0 www.comfy.org
+0.0.0.0 www.waifu.com.mx
+0.0.0.0 www.idesigns.shop
+0.0.0.0 www.bottr.me
+0.0.0.0 www.midjourney.fm
+0.0.0.0 www.bargpt.app
+0.0.0.0 www.rareconnections.io
+0.0.0.0 www.worldfrogday.org
+0.0.0.0 www.groundabout.coffee
+0.0.0.0 www.igot.coffee
+0.0.0.0 www.manuals.plus
 
 
 # [AI Projects Hosted on Other Sites]
@@ -2161,3 +2252,7 @@
 0.0.0.0 www.disciplines.ng
 0.0.0.0 www.nucleovisual.com
 0.0.0.0 www.fullbloomclub.net
+0.0.0.0 www.ipv6.rs
+0.0.0.0 www.homediningkitchen.com
+0.0.0.0 www.psichologyanswers.com
+0.0.0.0 www.umatechnology.org
