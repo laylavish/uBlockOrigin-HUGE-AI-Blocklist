@@ -671,6 +671,7 @@
 *://*.runcomfy.com/*
 *://*.aipromptsdirectory.com/*
 *://*.songtell.com/*
+*://*.prompt-com.com/*
 
 
 # Sites that have .art domain extension
