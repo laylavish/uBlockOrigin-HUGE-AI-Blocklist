@@ -670,6 +670,7 @@
 *://*.catsaroundtheglobe.com/*
 *://*.runcomfy.com/*
 *://*.aipromptsdirectory.com/*
+*://*.songtell.com/*
 
 
 # Sites that have .art domain extension
