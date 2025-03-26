@@ -672,6 +672,9 @@
 *://*.aipromptsdirectory.com/*
 *://*.songtell.com/*
 *://*.prompt-com.com/*
+*://*.peopleai.com/*
+*://*.airportcalgary.com/*
+*://*.dogbreedadvice.com/*
 
 
 # Sites that have .art domain extension
@@ -817,6 +820,7 @@
 *://*.heatware.net/*
 *://*.bigshadows.net/*
 *://*.eyecandy.net/*
+*://*.jeddahairport.net/*
 
 
 # Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
