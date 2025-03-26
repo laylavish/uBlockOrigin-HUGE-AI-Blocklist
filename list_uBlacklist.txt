@@ -672,6 +672,7 @@
 *://*.aipromptsdirectory.com/*
 *://*.songtell.com/*
 *://*.prompt-com.com/*
+*://*.peopleai.com/*
 
 
 # Sites that have .art domain extension
