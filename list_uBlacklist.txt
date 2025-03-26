@@ -674,6 +674,7 @@
 *://*.prompt-com.com/*
 *://*.peopleai.com/*
 *://*.airportcalgary.com/*
+*://*.dogbreedadvice.com/*
 
 
 # Sites that have .art domain extension
