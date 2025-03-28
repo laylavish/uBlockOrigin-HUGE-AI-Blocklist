@@ -1800,10 +1800,10 @@ google.com##.YzCcne:remove()
 
 
 ! // GitHub Copilot
-github.com##div > button[data-testid="copilot-popover-button"]
+github.com##div > button > span > span > svg.octicon-copilot:upward(div)
 github.com##div.AppHeader-CopilotChat
 github.com##div.copilotPreview__container
-github.com##li > a[href="/copilot"]
+github.com##li > a[href$="/copilot"]:upward(li)
 
 
 ! // Just in case exceptions
