@@ -652,6 +652,7 @@
 0.0.0.0 aipromptsdirectory.com
 0.0.0.0 songtell.com
 0.0.0.0 prompt-com.com
+0.0.0.0 duolingoguides.com
 
 
 # [.art sites]
@@ -1778,6 +1779,7 @@
 0.0.0.0 www.aipromptsdirectory.com
 0.0.0.0 www.songtell.com
 0.0.0.0 www.prompt-com.com
+0.0.0.0 www.duolingoguides.com
 
 
 # [.art sites]
