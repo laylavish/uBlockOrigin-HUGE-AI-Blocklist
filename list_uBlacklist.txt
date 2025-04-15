@@ -979,7 +979,7 @@
 *://*.groundabout.coffee/*
 *://*.igot.coffee/*
 *://*.manuals.plus/*
-
+*://*.scpa.education/*
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
