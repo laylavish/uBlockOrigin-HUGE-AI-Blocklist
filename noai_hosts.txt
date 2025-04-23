@@ -351,6 +351,7 @@
 0.0.0.0 yeschat.ai
 0.0.0.0 neoprompt.ai
 0.0.0.0 boodlebox.ai
+0.0.0.0 deepseek.com
 
 
 # [.com sites]
