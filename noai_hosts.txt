@@ -654,6 +654,9 @@
 0.0.0.0 prompt-com.com
 0.0.0.0 duolingoguides.com
 0.0.0.0 deepseek.com
+0.0.0.0 peopleai.com
+0.0.0.0 airportcalgary.com
+0.0.0.0 dogbreedadvice.com
 
 
 # [.art sites]
@@ -795,6 +798,7 @@
 0.0.0.0 heatware.net
 0.0.0.0 bigshadows.net
 0.0.0.0 eyecandy.net
+0.0.0.0 jeddahairport.net
 
 
 # [.pub, io, .app, etc sites]
@@ -1783,6 +1787,9 @@
 0.0.0.0 www.prompt-com.com
 0.0.0.0 www.duolingoguides.com
 0.0.0.0 www.deepseek.com
+0.0.0.0 www.peopleai.com
+0.0.0.0 www.airportcalgary.com
+0.0.0.0 www.dogbreedadvice.com
 
 
 # [.art sites]
@@ -1923,6 +1930,7 @@
 0.0.0.0 www.bigshadows.net
 0.0.0.0 www.eyecandy.net
 0.0.0.0 www.heatware.net
+0.0.0.0 www.jeddahairport.net
 
 
 # [.pub, io, .app, etc sites]
