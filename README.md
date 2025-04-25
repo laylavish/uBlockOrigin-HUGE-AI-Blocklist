@@ -47,8 +47,8 @@ https://github.com/user-attachments/assets/e254b73e-0c4c-4f7d-a34b-f70b8e437356
 
 
 > [!IMPORTANT]
-> If you find that your imported list isn't working, it may be due to an outdated web browsing session. If your web browser hasn't been closed in a long time, there's a chance the session won't update how it should. This means importing the list into uBlock Origin or uBlacklist won't function correctly.
-> Try creating a new session, aka closing <ins>**all**</ins> web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-open your web browser. That should fix it. If not, then try clearing your browser's cache.
+> If you find that your imported list isn't working, it may be due to an outdated web browsing session. If you haven't restarted your web browser for a long time, there's a chance the session won't update how it should. This means importing the list into uBlock Origin or uBlacklist won't function correctly.
+> Try creating a new session, aka closing <ins>**all**</ins> web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-opening your web browser. That should help. If not, then try clearing your browser's cache.
 
 ### Installing it with uBlacklist
 
@@ -81,7 +81,7 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
 ### iOS, iPadOS (Safari only)
 
 > [!NOTE]
-> Both iOS and iPadOS don't have support for uBlock Origin. So, we'll be using uBlacklist for this. Plus, Safari is the only browser we can use since it allows the use of extensions.
+> Both iOS and iPadOS don't have support for uBlock Origin. So, we'll be using uBlacklist for this. Safari is the only browser we can use that allows the use of extensions.
 
 1. Download uBlacklist, [available on the App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
 
@@ -92,7 +92,7 @@ into the **URL** part of the dialogue box, then press the blue **Add** button.
 4. While still in uBlacklist's settings, in the **Permissions for uBlacklist** section, scroll down to your preferred search engine and change the permission from "Ask" to "Allow."
 
 > [!IMPORTANT]
-> This may look cumbersome, but all you really need to do is just allow the extension to hit your search engine's locale, for example, `google.fr` or `google.co.uk`. You can go through all of them and allow them, but it's not really necessary.
+> This may look cumbersome, but all you really need to do is just allow the extension to hit your search engine's locale, for example, `google.fr` or `google.co.uk`. You can go through all of them and allow them, but it's not necessary.
 
 5. Now scroll back up, and hit the blue **Extension Settings** button. It will bring you to Safari and open uBlacklist's settings panel.
 
@@ -198,7 +198,7 @@ Here's a simple guide on how to [access your hosts file on Linux, macOS, and Win
 
 ## Additional lists
 
-As of right now, there are two lists. The [main](github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list.txt) default list, and the [nuclear](github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/additional_list_nuclear.txt) list.
+Currently, there are two lists: The [main](github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list.txt) default list, and the [nuclear](github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/additional_list_nuclear.txt) list.
 
 The nuclear list has sites that contain a mix of authentic and AI generated imagery (eg. DeviantArt, Artstation, Stock Photography sites, etc), which make it tricky to outright block in the main filter list, so I've designated it to a separate list that you can toggle on and off if you so desire.
 
@@ -264,7 +264,7 @@ Change "example.com" to the URL you want to allowlist. Copy & paste that in uBlo
 
 ## Extended Filtering
 
-It is possible to filter AI results based on keywords. It was originally in the list, but it's been taken out to make it configurable and/or optional (since it is a blanket ruling, and doesn't care about context).
+It is possible to filter AI results based on keywords. It was originally in the list, but it's been taken out to make it configurable and/or optional (since it is a blanket ruling that doesn't care about context).
 
 ### uBlock Origin
 In your personal filter list, you can use this template to add your own keywords you would like to block.

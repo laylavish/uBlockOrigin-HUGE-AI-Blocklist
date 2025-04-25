@@ -652,6 +652,8 @@
 0.0.0.0 aipromptsdirectory.com
 0.0.0.0 songtell.com
 0.0.0.0 prompt-com.com
+0.0.0.0 duolingoguides.com
+0.0.0.0 deepseek.com
 
 
 # [.art sites]
@@ -946,6 +948,7 @@
 0.0.0.0 groundabout.coffee
 0.0.0.0 igot.coffee
 0.0.0.0 manuals.plus
+0.0.0.0 scpa.education
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1778,6 +1781,8 @@
 0.0.0.0 www.aipromptsdirectory.com
 0.0.0.0 www.songtell.com
 0.0.0.0 www.prompt-com.com
+0.0.0.0 www.duolingoguides.com
+0.0.0.0 www.deepseek.com
 
 
 # [.art sites]
@@ -2070,6 +2075,7 @@
 0.0.0.0 www.groundabout.coffee
 0.0.0.0 www.igot.coffee
 0.0.0.0 www.manuals.plus
+0.0.0.0 www.scpa.education
 
 
 # [AI Projects Hosted on Other Sites]

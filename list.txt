@@ -674,8 +674,11 @@ google.com,duckduckgo.com,bing.com##a[href*="lazyriverdesignworks.com"]:upward(d
 google.com,duckduckgo.com,bing.com##a[href*="catsaroundtheglobe.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="runcomfy.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="aipromptsdirectory.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="duolingoguides.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="songtell.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="prompt-com.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deepseek.com"]:upward(div):style(opacity:0.00!important;)
+
 
 
 ! Sites that have .art domain extension
@@ -982,6 +985,7 @@ google.com,duckduckgo.com,bing.com##a[href*="worldfrogday.org"]:upward(div):styl
 google.com,duckduckgo.com,bing.com##a[href*="groundabout.coffee"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="igot.coffee"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="manuals.plus"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="spca.education"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Google Play AI applications
