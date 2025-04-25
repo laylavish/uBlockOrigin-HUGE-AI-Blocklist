@@ -673,6 +673,7 @@
 *://*.songtell.com/*
 *://*.prompt-com.com/*
 *://*.duolingoguides.com/*
+*://*.deepseek.com/*
 
 
 # Sites that have .art domain extension
