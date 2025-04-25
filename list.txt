@@ -678,6 +678,10 @@ google.com,duckduckgo.com,bing.com##a[href*="duolingoguides.com"]:upward(div):st
 google.com,duckduckgo.com,bing.com##a[href*="songtell.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="prompt-com.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="deepseek.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="peopleai.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="airportcalgary.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="dogbreedadvice.com"]:upward(div):style(opacity:0.00!important;)
+
 
 
 
@@ -824,6 +828,7 @@ google.com,duckduckgo.com,bing.com##a[href*="vitalentum.net"]:upward(div):style(
 google.com,duckduckgo.com,bing.com##a[href*="heatware.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="bigshadows.net"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="eyecandy.net"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="jeddahairport.net"]:upward(div):style(opacity:0.00!important;)
 
 
 ! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
