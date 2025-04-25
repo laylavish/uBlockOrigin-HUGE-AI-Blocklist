@@ -351,7 +351,6 @@
 0.0.0.0 yeschat.ai
 0.0.0.0 neoprompt.ai
 0.0.0.0 boodlebox.ai
-0.0.0.0 deepseek.com
 
 
 # [.com sites]
@@ -654,6 +653,7 @@
 0.0.0.0 songtell.com
 0.0.0.0 prompt-com.com
 0.0.0.0 duolingoguides.com
+0.0.0.0 deepseek.com
 
 
 # [.art sites]
@@ -1782,6 +1782,7 @@
 0.0.0.0 www.songtell.com
 0.0.0.0 www.prompt-com.com
 0.0.0.0 www.duolingoguides.com
+0.0.0.0 www.deepseek.com
 
 
 # [.art sites]
