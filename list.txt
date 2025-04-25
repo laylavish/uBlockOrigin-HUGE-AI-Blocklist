@@ -677,6 +677,7 @@ google.com,duckduckgo.com,bing.com##a[href*="aipromptsdirectory.com"]:upward(div
 google.com,duckduckgo.com,bing.com##a[href*="duolingoguides.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="songtell.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="prompt-com.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="deepseek.com"]:upward(div):style(opacity:0.00!important;)
 
 
 
