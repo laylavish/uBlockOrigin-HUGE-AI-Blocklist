@@ -351,7 +351,6 @@
 0.0.0.0 yeschat.ai
 0.0.0.0 neoprompt.ai
 0.0.0.0 boodlebox.ai
-0.0.0.0 scpa.education
 
 
 # [.com sites]
@@ -948,6 +947,7 @@
 0.0.0.0 groundabout.coffee
 0.0.0.0 igot.coffee
 0.0.0.0 manuals.plus
+0.0.0.0 scpa.education
 
 
 # [AI Projects Hosted on Other Sites]
@@ -2073,6 +2073,7 @@
 0.0.0.0 www.groundabout.coffee
 0.0.0.0 www.igot.coffee
 0.0.0.0 www.manuals.plus
+0.0.0.0 www.scpa.education
 
 
 # [AI Projects Hosted on Other Sites]
