@@ -3,9 +3,6 @@ A huge blocklist of manually curated sites (1000+) that contain AI generated con
 
 Also works on mobile ([iOS, iPadOS,](#iOS-iPadOS-Safari-only) [Android](#Android-via-Firefox)) via uBlacklist, as well as pihole/adguard (via [Hosts file](#hosts-file-for-pi-holeadguard))
 
-> [!WARNING]  
-> Right now, please use [uBlacklist](#Installing-it-with-uBlacklist) *instead* of uBlock Origin for now. Needs a little restructuring to fix DOM targeting. You can still try uBlock, but it will probably not work as you expect it to...
-
 ## Installing the blocklist for for PC/Desktop 
 
 ### Installing it with uBlock Origin
@@ -314,14 +311,6 @@ Below is a small list of **optional** regular expressions that can be used to fi
 /(ada)?Lo(RA|Con) *(model)?|(stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|(text|txt|img|image) *(to|2) *(image|img|video)/i
 ```
 </details>
-
-  
-## What's the difference between uBlock Origin and uBlacklist anyway?
-Currently uBlacklist has an issue with pagination on Google Images. This means that if too many AI images are blocked on a single page, you won't be able to scroll further down to load more. This is rare, although it can happen. 
-
-uBlock Origin does not have this issue since it is only changing the opacity of the divs instead of blocking them, although this makes image search look a little strange since there will be gaps where the images are "blocked."
-
-If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of them and see which one works better for you! :)
 
 
 ## To Do
