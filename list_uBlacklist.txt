@@ -677,6 +677,7 @@
 *://*.dogbreedadvice.com/*
 *://*.duolingoguides.com/*
 *://*.deepseek.com/*
+*://*.drawatoon.com/*
 
 
 
