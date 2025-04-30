@@ -657,6 +657,7 @@
 0.0.0.0 peopleai.com
 0.0.0.0 airportcalgary.com
 0.0.0.0 dogbreedadvice.com
+0.0.0.0 drawatoon.com
 
 
 # [.art sites]
@@ -1790,6 +1791,7 @@
 0.0.0.0 www.peopleai.com
 0.0.0.0 www.airportcalgary.com
 0.0.0.0 www.dogbreedadvice.com
+0.0.0.0 www.drawatoon.com
 
 
 # [.art sites]
