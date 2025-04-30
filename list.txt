@@ -3602,7 +3602,7 @@ google.com##.YzCcne:remove()
 
 
 ! // GitHub Copilot
-github.com##div > button > span > span > svg.octicon-copilot:upward(2)
+github.com##div > button > span > span > svg.octicon-copilot:upward(div)
 github.com##div.AppHeader-CopilotChat
 github.com##div.copilotPreview__container
 github.com##li > a[href$="/copilot"]:upward(2)
