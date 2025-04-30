@@ -237,7 +237,7 @@ Boom! Now it's allowlisted!
 
 Or, if you don't want to go through that mumbo-jumbo, add this line in your filter list: 
 ```
-#@#a[href*="example.com"]:upward(div):style(opacity:0.00!important;)
+#@#a[href*="example.com"]:upward(li):remove()
 ```
 
 Change "example.com" to the URL you want to allowlist. Copy & paste that in uBlock Origin's "My filters" list, and you're set!
