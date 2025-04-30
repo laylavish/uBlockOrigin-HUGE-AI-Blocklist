@@ -681,8 +681,7 @@ duckduckgo.com,bing.com##a[href*="deepseek.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="peopleai.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="airportcalgary.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="dogbreedadvice.com"]:upward(li):remove()
-
-
+duckduckgo.com,bing.com##a[href*="drawatoon.com"]:upward(li):remove()
 
 
 ! Sites that have .art domain extension
@@ -2470,8 +2469,7 @@ google.com##a[href*="deepseek.com"]:upward(2):remove()
 google.com##a[href*="peopleai.com"]:upward(2):remove()
 google.com##a[href*="airportcalgary.com"]:upward(2):remove()
 google.com##a[href*="dogbreedadvice.com"]:upward(2):remove()
-
-
+google.com##a[href*="drawatoon.com"]:upward(2):remove()
 
 
 ! Sites that have .art domain extension
