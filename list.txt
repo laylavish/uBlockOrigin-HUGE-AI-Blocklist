@@ -360,6 +360,7 @@ duckduckgo.com,bing.com##a[href*="yeschat.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="boodlebox.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="sunoai.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="thetawise.ai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="imagineanything.ai"]:upward(li):remove()
 
 
 ! Sites that have .com domain extension
@@ -2151,7 +2152,8 @@ google.com##a[href*="typli.ai"]:upward(2):remove()
 google.com##a[href*="yeschat.ai"]:upward(2):remove()
 google.com##a[href*="boodlebox.ai"]:upward(2):remove()
 google.com##a[href*="sunoai.ai"]:upward(2):remove()
-google.com##a[href*="thetawise.ai.ai"]:upward(2):remove()
+google.com##a[href*="thetawise.ai"]:upward(2):remove()
+google.com##a[href*="imagineanything.ai"]:upward(2):remove()
 
 
 ! Sites that have .com domain extension
