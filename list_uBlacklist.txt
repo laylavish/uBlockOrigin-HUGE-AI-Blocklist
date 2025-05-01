@@ -354,6 +354,8 @@
 *://*.typli.ai/*
 *://*.yeschat.ai/*
 *://*.boodlebox.ai/*
+*://*.Sunoai.ai/*
+*://*.thetawise.ai/*
 
 
 # Sites that have .com domain extension
@@ -678,6 +680,7 @@
 *://*.duolingoguides.com/*
 *://*.deepseek.com/*
 *://*.drawatoon.com/*
+*://*.suno.com/*
 
 
 
@@ -987,6 +990,7 @@
 *://*.igot.coffee/*
 *://*.manuals.plus/*
 *://*.scpa.education/*
+*://*.Sunoai.asia/*
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
