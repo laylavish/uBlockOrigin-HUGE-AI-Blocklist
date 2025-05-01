@@ -358,6 +358,8 @@ duckduckgo.com,bing.com##a[href*="loverse.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="typli.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="yeschat.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="boodlebox.ai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="sunoai.ai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="thetawise.ai"]:upward(li):remove()
 
 
 ! Sites that have .com domain extension
@@ -682,6 +684,7 @@ duckduckgo.com,bing.com##a[href*="peopleai.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="airportcalgary.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="dogbreedadvice.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="drawatoon.com"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="suno.com"]:upward(li):remove()
 
 
 ! Sites that have .art domain extension
@@ -990,6 +993,7 @@ duckduckgo.com,bing.com##a[href*="groundabout.coffee"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="igot.coffee"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="manuals.plus"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="spca.education"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="sunoai.asia"]:upward(li):remove()
 
 
 ! Google Play AI applications
@@ -2146,6 +2150,8 @@ google.com##a[href*="loverse.ai"]:upward(2):remove()
 google.com##a[href*="typli.ai"]:upward(2):remove()
 google.com##a[href*="yeschat.ai"]:upward(2):remove()
 google.com##a[href*="boodlebox.ai"]:upward(2):remove()
+google.com##a[href*="sunoai.ai"]:upward(2):remove()
+google.com##a[href*="thetawise.ai.ai"]:upward(2):remove()
 
 
 ! Sites that have .com domain extension
@@ -2470,6 +2476,7 @@ google.com##a[href*="peopleai.com"]:upward(2):remove()
 google.com##a[href*="airportcalgary.com"]:upward(2):remove()
 google.com##a[href*="dogbreedadvice.com"]:upward(2):remove()
 google.com##a[href*="drawatoon.com"]:upward(2):remove()
+google.com##a[href*="suno.com"]:upward(2):remove()
 
 
 ! Sites that have .art domain extension
@@ -2778,6 +2785,7 @@ google.com##a[href*="groundabout.coffee"]:upward(2):remove()
 google.com##a[href*="igot.coffee"]:upward(2):remove()
 google.com##a[href*="manuals.plus"]:upward(2):remove()
 google.com##a[href*="spca.education"]:upward(2):remove()
+google.com##a[href*="sunoai.asia"]:upward(2):remove()
 
 
 ! Google Play AI applications
