@@ -3608,6 +3608,8 @@ google.com##a[href*="redbubble.com/people/digitalemporio/shop"]:upward(2):remove
 ! // Google AI Overview
 google.com##.YzCcne:remove()
 
+! // Youtube AI Overview
+youtube.com###expandable-metadata:remove()
 
 ! // GitHub Copilot
 github.com##div > button > span > span > svg.octicon-copilot:upward(div)
