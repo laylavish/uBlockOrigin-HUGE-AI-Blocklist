@@ -662,6 +662,7 @@
 0.0.0.0 dogbreedadvice.com
 0.0.0.0 drawatoon.com
 0.0.0.0 suno.com
+0.0.0.0 buddhaweekly.com
 
 
 # [.art sites]
@@ -959,6 +960,7 @@
 0.0.0.0 manuals.plus
 0.0.0.0 scpa.education
 0.0.0.0 sunoai.asia
+0.0.0.0 diffus.me
 
 
 # [AI Projects Hosted on Other Sites]
@@ -1801,6 +1803,7 @@
 0.0.0.0 www.dogbreedadvice.com
 0.0.0.0 www.drawatoon.com
 0.0.0.0 www.suno.com
+0.0.0.0 www.buddhaweekly.com
 
 
 # [.art sites]
@@ -2096,6 +2099,7 @@
 0.0.0.0 www.manuals.plus
 0.0.0.0 www.scpa.education
 0.0.0.0 www.sunoai.asia
+0.0.0.0 www.diffus.me
 
 
 # [AI Projects Hosted on Other Sites]
