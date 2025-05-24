@@ -682,7 +682,7 @@
 *://*.deepseek.com/*
 *://*.drawatoon.com/*
 *://*.suno.com/*
-
+*://*.buddhaweekly.com/*
 
 
 # Sites that have .art domain extension
@@ -991,7 +991,8 @@
 *://*.igot.coffee/*
 *://*.manuals.plus/*
 *://*.scpa.education/*
-*://*.Sunoai.asia/*
+*://*.sunoai.asia/*
+*://*.diffus.me/*
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
