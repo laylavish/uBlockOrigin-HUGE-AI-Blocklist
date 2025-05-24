@@ -686,6 +686,7 @@ duckduckgo.com,bing.com##a[href*="airportcalgary.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="dogbreedadvice.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="drawatoon.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="suno.com"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="buddhaweekly.com"]:upward(li):remove()
 
 
 ! Sites that have .art domain extension
@@ -995,6 +996,7 @@ duckduckgo.com,bing.com##a[href*="igot.coffee"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="manuals.plus"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="spca.education"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="sunoai.asia"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="diffus.me"]:upward(li):remove()
 
 
 ! Google Play AI applications
@@ -2479,6 +2481,7 @@ google.com##a[href*="airportcalgary.com"]:upward(2):remove()
 google.com##a[href*="dogbreedadvice.com"]:upward(2):remove()
 google.com##a[href*="drawatoon.com"]:upward(2):remove()
 google.com##a[href*="suno.com"]:upward(2):remove()
+google.com##a[href*="buddhaweekly.com"]:upward(2):remove()
 
 
 ! Sites that have .art domain extension
@@ -2788,6 +2791,7 @@ google.com##a[href*="igot.coffee"]:upward(2):remove()
 google.com##a[href*="manuals.plus"]:upward(2):remove()
 google.com##a[href*="spca.education"]:upward(2):remove()
 google.com##a[href*="sunoai.asia"]:upward(2):remove()
+google.com##a[href*="diffus.me"]:upward(2):remove()
 
 
 ! Google Play AI applications
