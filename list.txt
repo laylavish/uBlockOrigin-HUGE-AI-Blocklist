@@ -3625,4 +3625,4 @@ mail.google.com#@#a[href*="/play.ht"]:upward(2):remove()
 mail.google.com#@#a[href*=".play.ht"]:upward(2):remove()
 
 ! // Gmail: Try Gemini button
-mail.google.com##div[role="tooltip"]:has-text(Try Gemini):upward(3)
+mail.google.com##div[role="tooltip"]:has-text(Try Gemini):upward(3):remove()
