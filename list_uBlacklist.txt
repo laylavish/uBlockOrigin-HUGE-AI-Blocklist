@@ -24,6 +24,7 @@
 *://*.cgdream.ai/*
 *://*.tryleap.ai/*
 *://*.magichour.ai/*
+*://*.araby.ai/*
 *://*.perplexity.ai/*
 *://*.julius.ai/*
 *://*.animegenius.ai/*
@@ -367,6 +368,7 @@
 *://*.toolbaz.com/*
 *://*.chatbot.com/*
 *://*.hayo.com/*
+*://*.gulfpicasso.com/*
 *://*.yodayo.com/*
 *://*.stable-diffusion-art.com/*
 *://*.prompthero.com/*
@@ -1007,6 +1009,7 @@
 *://*.play.google.com/store/apps/details?id=com.sola.anime.ai.generator/*
 *://*.play.google.com/store/apps/details?id=com.vyroai.animeart/*
 *://*.play.google.com/store/apps/details?id=ai.art.anime/*
+*://*.play.google.com/store/apps/details?id=com.araby.ai/*
 *://*.play.google.com/store/apps/details?id=aiart.generator.aigc/*
 *://*.play.google.com/store/apps/details?id=com.animeart.animeavatar/*
 *://*.play.google.com/store/apps/details?id=com.aesoft.app.lockscreen.patternlocker/*
@@ -1030,6 +1033,7 @@
 
 # Apple AI applications
 *://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
+*://*.apple.com/us/app/araby-ai-ذكاء-اصطناعي-عربي/id6447341656/*
 *://*.apple.com/us/app/pixai-ai-anime-art-generator/id6474528911/*
 
 
@@ -1322,6 +1326,7 @@
 *://*.instagram.com/genshin.aiarts/*
 *://*.instagram.com/raymur.art/*
 *://*.instagram.com/ai.sakuraaa/*
+*://*.instagram.com/artrealm.ai/*
 *://*.instagram.com/ai.create.labo/*
 *://*.instagram.com/sushi_tabetai_sushi/*
 *://*.instagram.com/genshin.onlyarts/*
