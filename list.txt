@@ -3625,7 +3625,7 @@ google.com##a[href*="redbubble.com/people/digitalemporio/shop"]:upward(2):remove
 ! /////////////////
 
 ! // Google AI Overview
-google.com##.M8OgIe:remove()
+google.com##.M8OgIe
 
 
 ! // GitHub Copilot
