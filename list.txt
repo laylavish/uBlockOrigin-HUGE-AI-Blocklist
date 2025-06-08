@@ -1318,6 +1318,7 @@ duckduckgo.com,bing.com##a[href*="instagram.com/slickcityceo"]:upward(li):remove
 duckduckgo.com,bing.com##a[href*="instagram.com/sentientmuppetfactory"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/akvares"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/artzoneai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="instagram.com/gulfpicasso"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/aianimeworld"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/picso_ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/genshin.aiarts"]:upward(li):remove()
@@ -1790,6 +1791,7 @@ duckduckgo.com,bing.com##a[href*="gettywallpapers.com/cute-anime-girl-profile-pi
 
 ! // Tiktok
 duckduckgo.com,bing.com##a[href*="tiktok.com/@ku_13js"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="tiktok.com/@gulfpicasso]:upward(li):remove()
 
 
 ! // Behance (standalone galleries)
@@ -3119,6 +3121,7 @@ google.com##a[href*="instagram.com/slickcityceo"]:upward(2):remove()
 google.com##a[href*="instagram.com/sentientmuppetfactory"]:upward(2):remove()
 google.com##a[href*="instagram.com/akvares"]:upward(2):remove()
 google.com##a[href*="instagram.com/artzoneai"]:upward(2):remove()
+google.com##a[href*="instagram.com/gulfpicasso"]:upward(2):remove()
 google.com##a[href*="instagram.com/aianimeworld"]:upward(2):remove()
 google.com##a[href*="instagram.com/picso_ai"]:upward(2):remove()
 google.com##a[href*="instagram.com/genshin.aiarts"]:upward(2):remove()
@@ -3591,6 +3594,7 @@ google.com##a[href*="gettywallpapers.com/cute-anime-girl-profile-pictures"]:upwa
 
 ! // Tiktok
 google.com##a[href*="tiktok.com/@ku_13js"]:upward(2):remove()
+google.com##a[href*="tiktok.com/@gulfpicasso"]:upward(2):remove()
 
 
 ! // Behance (standalone galleries)
