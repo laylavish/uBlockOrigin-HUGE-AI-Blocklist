@@ -37,6 +37,7 @@
 *://*.artsi.ai/*
 *://*.getimg.ai/*
 *://*.zmo.ai/*
+*://*.araby.ai/*
 *://*.dream.ai/*
 *://*.arthub.ai/*
 *://*.opendream.ai/*
@@ -403,6 +404,7 @@
 *://*.laserpiles.com/*
 *://*.jacting.com/*
 *://*.starryai.com/*
+*://*.gulfpicasso.com/*
 *://*.img2go.com/*
 *://*.shruggingface.com/*
 *://*.wondershare.com/*
@@ -1010,6 +1012,7 @@
 *://*.play.google.com/store/apps/details?id=aiart.generator.aigc/*
 *://*.play.google.com/store/apps/details?id=com.animeart.animeavatar/*
 *://*.play.google.com/store/apps/details?id=com.aesoft.app.lockscreen.patternlocker/*
+*://*.play.google.com/store/apps/details?id=com.araby.ai/*
 *://*.play.google.com/store/apps/details?id=anime.generator.aigc/*
 *://*.play.google.com/store/apps/details?id=com.anime.ai.art.generator.text.to.image.generator.artwork/*
 *://*.play.google.com/store/apps/details?id=com.createaiart.aigenerator.draw.photo/*
@@ -1214,6 +1217,7 @@
 *://*.twitter.com/SebastianKamph/*
 *://*.x.com/slickcityceo/*
 *://*.twitter.com/slickcityceo/*
+*://*.x.com/acceltheatr/*
 *://*.twitter.com/accelthreatr/*
 *://*.x.com/OlivioSarikas/*
 *://*.twitter.com/OlivioSarikas/*
@@ -1227,6 +1231,8 @@
 *://*.x.com/AI_Art_Gura/*
 *://*.twitter.com/toyxyz3/*
 *://*.x.com/toyxyz3/*
+*://*.twitter.com/gulfpicasso/*
+*://*.x.com/gulfpicasso/*
 *://*.twitter.com/ai_characters/*
 *://*.x.com/ai_characters/*
 *://*.twitter.com/Only2142/*
@@ -1332,10 +1338,12 @@
 *://*.instagram.com/ai_chan_neuroart/*
 *://*.instagram.com/nickocreates.ai/*
 *://*.instagram.com/innadakota.anime/*
+*://*.instagram.com/gulfpicasso/*
 *://*.instagram.com/de.sorrowcy/*
 *://*.instagram.com/misaki.aiart/*
 *://*.instagram.com/michaelstories/*
 *://*.instagram.com/trulyshinza/*
+*://*.instagram.com/artrealm.ai/*
 *://*.instagram.com/kapibagi/*
 *://*.instagram.com/superaigoddesses/*
 *://*.instagram.com/ladyphoenix.ai/*
@@ -1473,7 +1481,7 @@
 
 # Block list of AI "artists"/orgs (facebook)
 *://*.facebook.com/cuteanimegirl99/*
-*://*.facebook.com/cuteanimegirl99/*
+*://*.facebook.com/GulfPicasso/*
 *://*.facebook.com/TheTiniestTiger/*
 
 
