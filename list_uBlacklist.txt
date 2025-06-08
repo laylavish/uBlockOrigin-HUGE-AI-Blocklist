@@ -33,6 +33,7 @@
 *://*.zavant.ai/*
 *://*.openart.ai/*
 *://*.meta.ai/*
+*://*.araby.ai/*
 *://*.artguru.ai/*
 *://*.artsi.ai/*
 *://*.getimg.ai/*
@@ -399,6 +400,7 @@
 *://*.socialdraft.com/*
 *://*.aitoolmall.com/*
 *://*.aianimeartgeneratorfree.com/*
+*://*.gulfpicasso.com/*
 *://*.aiartshop.com/*
 *://*.laserpiles.com/*
 *://*.jacting.com/*
@@ -1333,10 +1335,13 @@
 *://*.instagram.com/nickocreates.ai/*
 *://*.instagram.com/innadakota.anime/*
 *://*.instagram.com/de.sorrowcy/*
+*://*.instagram.com/artrealm.ai/*
 *://*.instagram.com/misaki.aiart/*
 *://*.instagram.com/michaelstories/*
 *://*.instagram.com/trulyshinza/*
 *://*.instagram.com/kapibagi/*
+*://*.instagram.com/araby.ai/*
+*://*.instagram.com/gulfpicasso/*
 *://*.instagram.com/superaigoddesses/*
 *://*.instagram.com/ladyphoenix.ai/*
 *://*.instagram.com/bex.ai/*
