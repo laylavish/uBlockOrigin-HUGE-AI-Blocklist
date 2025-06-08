@@ -26,6 +26,7 @@
 *://*.magichour.ai/*
 *://*.perplexity.ai/*
 *://*.julius.ai/*
+
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
 *://*.davy.ai/*
@@ -150,6 +151,7 @@
 *://*.creaitor.ai/*
 *://*.techpilot.ai/*
 *://*.dreamstudio.ai/*
+*://*.araby.ai/*
 *://*.gptstore.ai/*
 *://*.storyboardhero.ai/*
 *://*.rephrase.ai/*
@@ -382,6 +384,7 @@
 *://*.openaijourney.com/*
 *://*.promptbase.com/*
 *://*.promptsvilla.com/*
+*://*.gulfpicasso.com/*
 *://*.learnwithnaseem.com/*
 *://*.stableaiprompts.com/*
 *://*.creatixai.com/*
@@ -1317,6 +1320,8 @@
 *://*.instagram.com/sentientmuppetfactory/*
 *://*.instagram.com/akvares/*
 *://*.instagram.com/artzoneai/*
+*://*.instagram.com/gulfpicasso/*
+*://*.instagram.com/araby.ai/*
 *://*.instagram.com/aianimeworld/*
 *://*.instagram.com/picso_ai/*
 *://*.instagram.com/genshin.aiarts/*
@@ -1328,6 +1333,7 @@
 *://*.instagram.com/reel/*
 *://*.instagram.com/hirokazu_yokohara/*
 *://*.instagram.com/blxck.ai/*
+*://*.instagram.com/artrealm.ai/*
 *://*.instagram.com/castorai430/*
 *://*.instagram.com/ai_chan_neuroart/*
 *://*.instagram.com/nickocreates.ai/*
@@ -1784,6 +1790,7 @@
 
 # // Tiktok
 *://*.tiktok.com/@ku_13js/*
+*://*.tiktok.com/@gulfpicasso/*
 
 
 # // Behance (standalone galleries)
