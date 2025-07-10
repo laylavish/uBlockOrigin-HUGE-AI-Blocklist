@@ -683,6 +683,7 @@
 *://*.drawatoon.com/*
 *://*.suno.com/*
 *://*.buddhaweekly.com/*
+*://*.softhandtech.com/*
 
 
 # Sites that have .art domain extension
