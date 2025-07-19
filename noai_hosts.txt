@@ -663,6 +663,7 @@
 0.0.0.0 drawatoon.com
 0.0.0.0 suno.com
 0.0.0.0 buddhaweekly.com
+0.0.0.0 netwrck.com
 
 
 # [.art sites]
@@ -1804,6 +1805,7 @@
 0.0.0.0 www.drawatoon.com
 0.0.0.0 www.suno.com
 0.0.0.0 www.buddhaweekly.com
+0.0.0.0 www.netwrck.com
 
 
 # [.art sites]
