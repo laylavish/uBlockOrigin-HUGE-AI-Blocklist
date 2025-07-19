@@ -684,6 +684,7 @@
 *://*.suno.com/*
 *://*.buddhaweekly.com/*
 *://*.softhandtech.com/*
+*://*.netwrck.com/*
 
 
 # Sites that have .art domain extension
