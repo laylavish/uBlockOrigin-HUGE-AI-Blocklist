@@ -685,6 +685,7 @@
 *://*.buddhaweekly.com/*
 *://*.softhandtech.com/*
 *://*.netwrck.com/*
+*://*.civitaiarchive.com/*
 
 
 # Sites that have .art domain extension
