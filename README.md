@@ -32,9 +32,7 @@ https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/
 <summary>Here's a video guide on how to do this (click the dropdown to expand) </summary>
 <br>
 
-
-https://github.com/user-attachments/assets/e254b73e-0c4c-4f7d-a34b-f70b8e437356
-
+https://github.com/user-attachments/assets/c379a750-53eb-4813-8cea-757f34ab5a2d
 
 </details>
 
