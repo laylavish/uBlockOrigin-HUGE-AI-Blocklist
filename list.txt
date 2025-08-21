@@ -691,6 +691,7 @@ duckduckgo.com,bing.com##a[href*="softhandtech.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="netwrck.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="civitaiarchive.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="deepwiki.com"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="deepwiki.org"]:upward(li):remove()
 
 ! Sites that have .art domain extension
 duckduckgo.com,bing.com##a[href*="imagine.art"]:upward(li):remove()

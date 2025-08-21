@@ -687,6 +687,7 @@
 *://*.netwrck.com/*
 *://*.civitaiarchive.com/*
 *://*.deepwiki.com/*
+*://*.deepwiki.org/*
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
