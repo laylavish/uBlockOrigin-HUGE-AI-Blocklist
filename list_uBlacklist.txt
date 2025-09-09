@@ -1189,6 +1189,7 @@
 *://*.ai-nudes.ai/*
 *://*.undress.xxx/*
 *://*.girlfriend.ai/*
+*://*.clothoff.net/*
 
 
 # //// Block lists of individual users
