@@ -3633,6 +3633,7 @@ github.com##li > a[href$="/copilot"]:upward(li)
 ! // Just in case exceptions
 mail.google.com#@#a[href*="/play.ht"]:upward(2):remove()
 mail.google.com#@#a[href*=".play.ht"]:upward(2):remove()
+@@||keep.google.com^$ehide
 
 ! // Gmail, Google Drive, Google Docs: Try Gemini button
 mail.google.com,drive.google.com,docs.google.com##div[role="tooltip"]:has-text(Try Gemini):upward(3):remove()
