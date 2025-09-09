@@ -40,8 +40,7 @@
 *://*.wallhere.com/*
 *://*.thehungryjpeg.com/*
 *://*.thirstymag.com/*
-*://*.kemono.su/*
-*://*.kemono.party/*
+*://*.kemono.cr/*
 *://*.alphacoders.com/*
 *://*.rollingpress.co.ke/*
 *://*.ukposters.co.uk/*
