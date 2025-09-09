@@ -1186,6 +1186,7 @@ duckduckgo.com,bing.com##a[href*="braundress.net"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="ai-nudes.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="undress.xxx"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="girlfriend.ai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="clothoff.net"]:upward(li):remove()
 
 
 ! //// Block lists of individual users
