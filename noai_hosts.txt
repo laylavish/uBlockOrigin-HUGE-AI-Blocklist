@@ -1122,6 +1122,7 @@
 0.0.0.0 ai-nudes.ai
 0.0.0.0 undress.xxx
 0.0.0.0 girlfriend.ai
+0.0.0.0 clothoff.net
 
 
 # [Miscellaneous crypto/nft shit]
@@ -2263,6 +2264,7 @@
 0.0.0.0 www.ai-nudes.ai
 0.0.0.0 www.undress.xxx
 0.0.0.0 www.girlfriend.ai
+0.0.0.0 www.clothoff.net
 
 
 # [Miscellaneous crypto/nft shit]
@@ -2296,3 +2298,4 @@
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
+
