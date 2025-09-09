@@ -310,6 +310,10 @@ Below is a small list of **optional** regular expressions that can be used to fi
 ```
 </details>
 
+## Contributing
+If you'd like to contribute to the list, feel free to clone this repo and create a pull request for the site(s) you'd like to add to the list. Make sure to update all files (including hosts file) wherever necesessary (except the nuclear list if you want the site to appear in the main list of course).
+
+If you don't know how to do that or don't want to, you can instead create an issue of the site that you'd like to be included in the list, wherein I'd look over it and add it in myself. Any way that you contribute is greatly appreciated!
 
 ## To Do
 - [x] Provide blocklist for uBlacklist compatibility
