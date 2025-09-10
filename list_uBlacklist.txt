@@ -357,6 +357,7 @@
 *://*.Sunoai.ai/*
 *://*.thetawise.ai/*
 *://*.imagineanything.ai/*
+*://*.bardai.ai/*
 
 
 # Sites that have .com domain extension

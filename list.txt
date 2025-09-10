@@ -361,6 +361,7 @@ duckduckgo.com,bing.com##a[href*="boodlebox.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="sunoai.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="thetawise.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="imagineanything.ai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="bardai.ai"]:upward(li):remove()
 
 
 ! Sites that have .com domain extension
