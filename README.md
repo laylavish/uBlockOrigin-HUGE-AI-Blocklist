@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/c379a750-53eb-4813-8cea-757f34ab5a2d
 
 **One-click filter import**
 
-If you use [uBlacklist](https://ublacklist.github.io/) and have subscription links enabled, you can import the list right away. Click [this link](https://ublacklist.github.io/rulesets/subscribe?name=Main+AI+Blocklist&url=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist_uBlacklist.txt) to subscribe to the list.
+If you use [uBlacklist](https://ublacklist.github.io/) and have subscription links enabled, you can import the list right away. Click [here](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist_uBlacklist.txt) to subscribe to the list.
 
 **Manual Import**
 
