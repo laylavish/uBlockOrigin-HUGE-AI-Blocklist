@@ -48,9 +48,9 @@ https://github.com/user-attachments/assets/c379a750-53eb-4813-8cea-757f34ab5a2d
 
 ### Installing it with uBlacklist
 
-**One-click filter import (Only for Chrome, Firefox doesn't support one-click import)**
+**One-click filter import**
 
-If you use Google Chrome/Chromium and have [uBlacklist installed](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), you can import the list in just one click. Click [this link](https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt) to automatically subscribe to the list.
+If you use [uBlacklist](https://ublacklist.github.io/) and have subscription links enabled, you can import the list right away. Click [this link](https://ublacklist.github.io/rulesets/subscribe?name=Main+AI+Blocklist&url=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist_uBlacklist.txt) to subscribe to the list.
 
 **Manual Import**
 
