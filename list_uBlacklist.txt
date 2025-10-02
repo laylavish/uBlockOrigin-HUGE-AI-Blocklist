@@ -687,7 +687,7 @@
 *://*.netwrck.com/*
 *://*.civitaiarchive.com/*
 *://*.deepwiki.com/*
-*://*.deepwiki.org/*
+*://*.civarchive.com/*
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
@@ -997,6 +997,7 @@
 *://*.scpa.education/*
 *://*.sunoai.asia/*
 *://*.diffus.me/*
+*://*.deepwiki.org/*
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
