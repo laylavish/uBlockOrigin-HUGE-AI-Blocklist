@@ -1,3 +1,6 @@
+---
+name: HUGE AI Blocklist
+---
 #### HAPPY PRIDE MONTH
 ### An AI Blocklist in uBlacklist format made with love by laylavish
 

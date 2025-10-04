@@ -1,3 +1,6 @@
+---
+name: HUGE AI Blocklist (Nuclear extension)
+---
 # //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork;)
 
 *://*.stock.adobe.com/*
