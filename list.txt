@@ -693,6 +693,7 @@ duckduckgo.com,bing.com##a[href*="netwrck.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="civitaiarchive.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="deepwiki.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="civarchive.com"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="tallerhumano.com"]:upward(li):remove()
 
 ! Sites that have .art domain extension
 duckduckgo.com,bing.com##a[href*="imagine.art"]:upward(li):remove()
@@ -2494,6 +2495,7 @@ google.com##a[href*="netwrck.com"]:upward(2):remove()
 google.com##a[href*="civitaiarchive.com"]:upward(li):remove()
 google.com##a[href*="deepwiki.com"]:upward(li):remove()
 google.com##a[href*="civarchive.com"]:upward(li):remove()
+google.com##a[href*="tallerhumano.com"]:upward(li):remove()
 
 
 ! Sites that have .art domain extension
