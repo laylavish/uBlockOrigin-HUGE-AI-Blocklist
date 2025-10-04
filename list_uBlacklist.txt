@@ -688,6 +688,7 @@
 *://*.civitaiarchive.com/*
 *://*.deepwiki.com/*
 *://*.civarchive.com/*
+*://*.tallerhumano.com/*
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
