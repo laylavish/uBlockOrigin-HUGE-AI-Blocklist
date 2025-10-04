@@ -29,6 +29,7 @@ duckduckgo.com,bing.com##a[href*="julius.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="cgdream.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="tryleap.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="magichour.ai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="araby.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="perplexity.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="animegenius.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="artvy.ai"]:upward(li):remove()
@@ -454,6 +455,7 @@ duckduckgo.com,bing.com##a[href*="alkaidvision.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="midjourney.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="prompthunt.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="aiartes.com"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="gulfpicasso.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="deepdreamgenerator.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="pica-ai.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="ai-fantasy-art.com"]:upward(li):remove()
@@ -1008,6 +1010,7 @@ duckduckgo.com,bing.com##a[href*="deepwiki.org"]:upward(li):remove()
 ! Google Play AI applications
 duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.sola.anime.ai.generator"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.vyroai.animeart"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.araby.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=ai.art.anime"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=aiart.generator.aigc"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.animeart.animeavatar"]:upward(li):remove()
@@ -1032,6 +1035,7 @@ duckduckgo.com,bing.com##a[href*="play.google.com/store/apps/details?id=com.vyro
 
 ! Apple AI applications
 duckduckgo.com,bing.com##a[href*="apple.com/us/app/ai-art-generator-hitpaw/id6444304300"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="apple.com/us/app/araby-ai-ذكاء-اصطناعي-عربي"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="apple.com/us/app/pixai-ai-anime-art-generator/id6474528911"]:upward(li):remove()
 
 
@@ -1315,11 +1319,14 @@ duckduckgo.com,bing.com##a[href*="youtube.com/@TheDebugZone"]:upward(li):remove(
 
 ! Block list of AI "artists"/orgs (instagram)
 duckduckgo.com,bing.com##a[href*="instagram.com/_prateekarora"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="instagram.com/artrealm.ai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="instagram.com/lovetrends.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/xonorika"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/slickcityceo"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/sentientmuppetfactory"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/akvares"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/artzoneai"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="instagram.com/gulfpicasso"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/aianimeworld"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/picso_ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="instagram.com/genshin.aiarts"]:upward(li):remove()
@@ -1792,6 +1799,7 @@ duckduckgo.com,bing.com##a[href*="gettywallpapers.com/cute-anime-girl-profile-pi
 
 ! // Tiktok
 duckduckgo.com,bing.com##a[href*="tiktok.com/@ku_13js"]:upward(li):remove()
+duckduckgo.com,bing.com##a[href*="tiktok.com/@gulfpicasso]:upward(li):remove()
 
 
 ! // Behance (standalone galleries)
@@ -1831,6 +1839,7 @@ google.com##a[href*="julius.ai"]:upward(2):remove()
 google.com##a[href*="cgdream.ai"]:upward(2):remove()
 google.com##a[href*="tryleap.ai"]:upward(2):remove()
 google.com##a[href*="magichour.ai"]:upward(2):remove()
+google.com##a[href*="araby.ai"]:upward(2):remove()
 google.com##a[href*="perplexity.ai"]:upward(2):remove()
 google.com##a[href*="animegenius.ai"]:upward(2):remove()
 google.com##a[href*="artvy.ai"]:upward(2):remove()
@@ -2255,6 +2264,7 @@ google.com##a[href*="alkaidvision.com"]:upward(2):remove()
 google.com##a[href*="midjourney.com"]:upward(2):remove()
 google.com##a[href*="prompthunt.com"]:upward(2):remove()
 google.com##a[href*="aiartes.com"]:upward(2):remove()
+google.com##a[href*="gulfpicasso.com"]:upward(2):remove()
 google.com##a[href*="deepdreamgenerator.com"]:upward(2):remove()
 google.com##a[href*="pica-ai.com"]:upward(2):remove()
 google.com##a[href*="ai-fantasy-art.com"]:upward(2):remove()
@@ -2809,6 +2819,7 @@ google.com##a[href*="diffus.me"]:upward(2):remove()
 ! Google Play AI applications
 google.com##a[href*="play.google.com/store/apps/details?id=com.sola.anime.ai.generator"]:upward(2):remove()
 google.com##a[href*="play.google.com/store/apps/details?id=com.vyroai.animeart"]:upward(2):remove()
+google.com##a[href*="play.google.com/store/apps/details?id=com.araby.ai"]:upward(2):remove()
 google.com##a[href*="play.google.com/store/apps/details?id=ai.art.anime"]:upward(2):remove()
 google.com##a[href*="play.google.com/store/apps/details?id=aiart.generator.aigc"]:upward(2):remove()
 google.com##a[href*="play.google.com/store/apps/details?id=com.animeart.animeavatar"]:upward(2):remove()
@@ -2833,6 +2844,7 @@ google.com##a[href*="play.google.com/store/apps/details?id=com.vyroai.animeart"]
 
 ! Apple AI applications
 google.com##a[href*="apple.com/us/app/ai-art-generator-hitpaw/id6444304300"]:upward(2):remove()
+google.com##a[href*="apple.com/us/app/araby-ai-ذكاء-اصطناعي-عربي/id6447341656"]:upward(2):remove()
 google.com##a[href*="apple.com/us/app/pixai-ai-anime-art-generator/id6474528911"]:upward(2):remove()
 
 
@@ -3017,6 +3029,7 @@ google.com##a[href*="x.com/SebastianKamph"]:upward(2):remove()
 google.com##a[href*="twitter.com/SebastianKamph"]:upward(2):remove()
 google.com##a[href*="x.com/slickcityceo"]:upward(2):remove()
 google.com##a[href*="twitter.com/slickcityceo"]:upward(2):remove()
+google.com##a[href*="x.com/accelthreatr"]:upward(2):remove()
 google.com##a[href*="twitter.com/accelthreatr"]:upward(2):remove()
 google.com##a[href*="x.com/OlivioSarikas"]:upward(2):remove()
 google.com##a[href*="twitter.com/OlivioSarikas"]:upward(2):remove()
@@ -3115,11 +3128,14 @@ google.com##a[href*="youtube.com/@TheDebugZone"]:upward(2):remove()
 
 ! Block list of AI "artists"/orgs (instagram)
 google.com##a[href*="instagram.com/_prateekarora"]:upward(2):remove()
+google.com##a[href*="instagram.com/artrealm.ai"]:upward(2):remove()
+google.com##a[href*="instagram.com/lovetrends.ai"]:upward(2):remove()
 google.com##a[href*="instagram.com/xonorika"]:upward(2):remove()
 google.com##a[href*="instagram.com/slickcityceo"]:upward(2):remove()
 google.com##a[href*="instagram.com/sentientmuppetfactory"]:upward(2):remove()
 google.com##a[href*="instagram.com/akvares"]:upward(2):remove()
 google.com##a[href*="instagram.com/artzoneai"]:upward(2):remove()
+google.com##a[href*="instagram.com/gulfpicasso"]:upward(2):remove()
 google.com##a[href*="instagram.com/aianimeworld"]:upward(2):remove()
 google.com##a[href*="instagram.com/picso_ai"]:upward(2):remove()
 google.com##a[href*="instagram.com/genshin.aiarts"]:upward(2):remove()
@@ -3592,6 +3608,7 @@ google.com##a[href*="gettywallpapers.com/cute-anime-girl-profile-pictures"]:upwa
 
 ! // Tiktok
 google.com##a[href*="tiktok.com/@ku_13js"]:upward(2):remove()
+google.com##a[href*="tiktok.com/@gulfpicasso"]:upward(2):remove()
 
 
 ! // Behance (standalone galleries)
@@ -3622,7 +3639,7 @@ google.com##a[href*="redbubble.com/people/digitalemporio/shop"]:upward(2):remove
 ! /////////////////
 
 ! // Google AI Overview
-google.com##.YzCcne:remove()
+google.com##.M8OgIe
 
 ! // Google AI Mode search tab
 google.com##div[role="navigation"] span:has-text(AI Mode):upward(5):remove()
