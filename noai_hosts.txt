@@ -354,6 +354,7 @@
 0.0.0.0 sunoai.ai
 0.0.0.0 thetawise.ai
 0.0.0.0 imagineanything.ai
+0.0.0.0 bardai.ai
 
 
 # [.com sites]
